@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fcpxml>
+<fcpxml version="1.11">
+    <resources>
+        <format height="1080" id="r0" name="FFVideoFormat1080p24" width="1920" frameDuration="1/24s"/>
+        <format height="1080" id="r1" name="FFVideoFormat1080p2398" width="1920" frameDuration="1001/24000s"/>
+        <format height="804" id="r14" name="FFVideoFormatRateUndefined" width="1920" frameDuration="1/60s"/>
+        <format height="1080" id="r21" name="FFVideoFormat1080p60" width="1920" frameDuration="1/60s"/>
+        <effect id="r26" name="Cross Dissolve" uid="FxPlug:4731E73A-8DAC-4113-9A30-AE85B1761265"/>
+        <asset id="r2" name="Bullet Train (2022) - How Many People They Killed Scene _ Movieclips.mp4" duration="1808807/12000s" audioChannels="2" format="r1" hasVideo="1" hasAudio="1" audioSources="1" start="0/1s">
+            <media-rep src="file://localhost/C:/Users/kayos/Downloads/Bullet%20Train%20(2022)%20-%20How%20Many%20People%20They%20Killed%20Scene%20_%20Movieclips.mp4" kind="original-media"/>
+        </asset>
+        <asset id="r3" name="Bullet Train (2022) - How Many People They Killed Scene _ Movieclips.mp4" duration="1808807/12000s" audioChannels="2" format="r1" hasVideo="1" hasAudio="1" audioSources="1" start="0/1s">
+            <media-rep src="file://localhost/C:/Users/kayos/Downloads/Bullet%20Train%20(2022)%20-%20How%20Many%20People%20They%20Killed%20Scene%20_%20Movieclips.mp4" kind="original-media"/>
+        </asset>
+        <asset id="r4" name="Bullet Train (2022) - How Many People They Killed Scene _ Movieclips.mp4" duration="1808807/12000s" audioChannels="2" format="r1" hasVideo="1" hasAudio="1" audioSources="1" start="0/1s">
+            <media-rep src="file://localhost/C:/Users/kayos/Downloads/Bullet%20Train%20(2022)%20-%20How%20Many%20People%20They%20Killed%20Scene%20_%20Movieclips.mp4" kind="original-media"/>
+        </asset>
+        <asset id="r5" name="Bullet Train (2022) - How Many People They Killed Scene _ Movieclips.mp4" duration="1808807/12000s" audioChannels="2" format="r1" hasVideo="1" hasAudio="1" audioSources="1" start="0/1s">
+            <media-rep src="file://localhost/C:/Users/kayos/Downloads/Bullet%20Train%20(2022)%20-%20How%20Many%20People%20They%20Killed%20Scene%20_%20Movieclips.mp4" kind="original-media"/>
+        </asset>
+        <asset id="r6" name="Bullet Train (2022) - How Many People They Killed Scene _ Movieclips.mp4" duration="1808807/12000s" audioChannels="2" format="r1" hasVideo="1" hasAudio="1" audioSources="1" start="0/1s">
+            <media-rep src="file://localhost/C:/Users/kayos/Downloads/Bullet%20Train%20(2022)%20-%20How%20Many%20People%20They%20Killed%20Scene%20_%20Movieclips.mp4" kind="original-media"/>
+        </asset>
+        <asset id="r7" name="Bullet Train (2022) - How Many People They Killed Scene _ Movieclips.mp4" duration="1808807/12000s" audioChannels="2" format="r1" hasVideo="1" hasAudio="1" audioSources="1" start="0/1s">
+            <media-rep src="file://localhost/C:/Users/kayos/Downloads/Bullet%20Train%20(2022)%20-%20How%20Many%20People%20They%20Killed%20Scene%20_%20Movieclips.mp4" kind="original-media"/>
+        </asset>
+        <asset id="r8" name="Bullet Train (2022) - How Many People They Killed Scene _ Movieclips.mp4" duration="1808807/12000s" audioChannels="2" format="r1" hasVideo="1" hasAudio="1" audioSources="1" start="0/1s">
+            <media-rep src="file://localhost/C:/Users/kayos/Downloads/Bullet%20Train%20(2022)%20-%20How%20Many%20People%20They%20Killed%20Scene%20_%20Movieclips.mp4" kind="original-media"/>
+        </asset>
+        <asset id="r9" name="Bullet Train (2022) - How Many People They Killed Scene _ Movieclips.mp4" duration="1808807/12000s" audioChannels="2" format="r1" hasVideo="1" hasAudio="1" audioSources="1" start="0/1s">
+            <media-rep src="file://localhost/C:/Users/kayos/Downloads/Bullet%20Train%20(2022)%20-%20How%20Many%20People%20They%20Killed%20Scene%20_%20Movieclips.mp4" kind="original-media"/>
+        </asset>
+        <asset id="r10" name="Bullet Train (2022) - How Many People They Killed Scene _ Movieclips.mp4" duration="1808807/12000s" audioChannels="2" format="r1" hasVideo="1" hasAudio="1" audioSources="1" start="0/1s">
+            <media-rep src="file://localhost/C:/Users/kayos/Downloads/Bullet%20Train%20(2022)%20-%20How%20Many%20People%20They%20Killed%20Scene%20_%20Movieclips.mp4" kind="original-media"/>
+        </asset>
+        <asset id="r11" name="Bullet Train (2022) - How Many People They Killed Scene _ Movieclips.mp4" duration="1808807/12000s" audioChannels="2" format="r1" hasVideo="1" hasAudio="1" audioSources="1" start="0/1s">
+            <media-rep src="file://localhost/C:/Users/kayos/Downloads/Bullet%20Train%20(2022)%20-%20How%20Many%20People%20They%20Killed%20Scene%20_%20Movieclips.mp4" kind="original-media"/>
+        </asset>
+        <asset id="r12" name="Bullet Train (2022) - How Many People They Killed Scene _ Movieclips.mp4" duration="1808807/12000s" audioChannels="2" format="r1" hasVideo="1" hasAudio="1" audioSources="1" start="0/1s">
+            <media-rep src="file://localhost/C:/Users/kayos/Downloads/Bullet%20Train%20(2022)%20-%20How%20Many%20People%20They%20Killed%20Scene%20_%20Movieclips.mp4" kind="original-media"/>
+        </asset>
+        <asset id="r13" name="Bullet Train (2022) - How Many People They Killed Scene _ Movieclips.mp4" duration="1808807/12000s" audioChannels="2" format="r1" hasVideo="1" hasAudio="1" audioSources="1" start="0/1s">
+            <media-rep src="file://localhost/C:/Users/kayos/Downloads/Bullet%20Train%20(2022)%20-%20How%20Many%20People%20They%20Killed%20Scene%20_%20Movieclips.mp4" kind="original-media"/>
+        </asset>
+        <asset id="r15" name="Tangerine and Lemon Look at Camera Bullet Train in 4K 60FPS.mp4" duration="113/20s" audioChannels="2" format="r14" hasVideo="1" hasAudio="1" audioSources="1" start="0/1s">
+            <media-rep src="file://localhost/C:/Users/kayos/Downloads/Tangerine%20and%20Lemon%20Look%20at%20Camera%20Bullet%20Train%20in%204K%2060FPS.mp4" kind="original-media"/>
+        </asset>
+        <asset id="r16" name="Tangerine and Lemon Look at Camera Bullet Train in 4K 60FPS.mp4" duration="113/20s" audioChannels="2" format="r14" hasVideo="1" hasAudio="1" audioSources="1" start="0/1s">
+            <media-rep src="file://localhost/C:/Users/kayos/Downloads/Tangerine%20and%20Lemon%20Look%20at%20Camera%20Bullet%20Train%20in%204K%2060FPS.mp4" kind="original-media"/>
+        </asset>
+        <asset id="r17" name="Aaron Taylor-Johnson Finds His Brother s Corpse _ Bullet Train (2022) _ Now Playing.mp4" duration="581581/1200s" audioChannels="2" format="r1" hasVideo="1" hasAudio="1" audioSources="1" start="0/1s">
+            <media-rep src="file://localhost/C:/Users/kayos/Downloads/Aaron%20Taylor-Johnson%20Finds%20His%20Brother%20s%20Corpse%20_%20Bullet%20Train%20(2022)%20_%20Now%20Playing.mp4" kind="original-media"/>
+        </asset>
+        <asset id="r18" name="Aaron Taylor-Johnson Finds His Brother s Corpse _ Bullet Train (2022) _ Now Playing.mp4" duration="581581/1200s" audioChannels="2" format="r1" hasVideo="1" hasAudio="1" audioSources="1" start="0/1s">
+            <media-rep src="file://localhost/C:/Users/kayos/Downloads/Aaron%20Taylor-Johnson%20Finds%20His%20Brother%20s%20Corpse%20_%20Bullet%20Train%20(2022)%20_%20Now%20Playing.mp4" kind="original-media"/>
+        </asset>
+        <asset id="r19" name="Bullet Train (2022) - How Many People They Killed Scene _ Movieclips.mp4" duration="1808807/12000s" audioChannels="2" format="r1" hasVideo="1" hasAudio="1" audioSources="1" start="0/1s">
+            <media-rep src="file://localhost/C:/Users/kayos/Downloads/Bullet%20Train%20(2022)%20-%20How%20Many%20People%20They%20Killed%20Scene%20_%20Movieclips.mp4" kind="original-media"/>
+        </asset>
+        <asset id="r20" name="Bullet Train (2022) - How Many People They Killed Scene _ Movieclips.mp4" duration="1808807/12000s" audioChannels="2" format="r1" hasVideo="1" hasAudio="1" audioSources="1" start="0/1s">
+            <media-rep src="file://localhost/C:/Users/kayos/Downloads/Bullet%20Train%20(2022)%20-%20How%20Many%20People%20They%20Killed%20Scene%20_%20Movieclips.mp4" kind="original-media"/>
+        </asset>
+        <asset id="r22" name="Tangerine - METAMORPHOSIS.mp4" duration="5783/60s" audioChannels="2" format="r21" hasVideo="1" hasAudio="1" audioSources="1" start="0/1s">
+            <media-rep src="file://localhost/C:/Users/kayos/Downloads/Tangerine%20-%20METAMORPHOSIS.mp4" kind="original-media"/>
+        </asset>
+        <asset id="r23" name="Tangerine - METAMORPHOSIS.mp4" duration="5783/60s" audioChannels="2" format="r21" hasVideo="1" hasAudio="1" audioSources="1" start="0/1s">
+            <media-rep src="file://localhost/C:/Users/kayos/Downloads/Tangerine%20-%20METAMORPHOSIS.mp4" kind="original-media"/>
+        </asset>
+        <asset id="r24" name="Bullet Train (2022) - How Many People They Killed Scene _ Movieclips.mp4" duration="1808807/12000s" audioChannels="2" format="r1" hasVideo="1" hasAudio="1" audioSources="1" start="0/1s">
+            <media-rep src="file://localhost/C:/Users/kayos/Downloads/Bullet%20Train%20(2022)%20-%20How%20Many%20People%20They%20Killed%20Scene%20_%20Movieclips.mp4" kind="original-media"/>
+        </asset>
+        <asset id="r25" name="Tangerine - METAMORPHOSIS.mp4" duration="5783/60s" audioChannels="2" format="r21" hasVideo="1" hasAudio="1" audioSources="1" start="0/1s">
+            <media-rep src="file://localhost/C:/Users/kayos/Downloads/Tangerine%20-%20METAMORPHOSIS.mp4" kind="original-media"/>
+        </asset>
+        <asset id="r27" name="On Melancholy Hill.mp3" duration="26103/125s" audioChannels="2" hasAudio="1" audioSources="1" start="0/1s">
+            <media-rep src="file://localhost/C:/Users/kayos/Downloads/On%20Melancholy%20Hill.mp3" kind="original-media"/>
+        </asset>
+        <asset id="r28" name="On Melancholy Hill.mp3" duration="26103/125s" audioChannels="2" hasAudio="1" audioSources="1" start="0/1s">
+            <media-rep src="file://localhost/C:/Users/kayos/Downloads/On%20Melancholy%20Hill.mp3" kind="original-media"/>
+        </asset>
+        <asset id="r29" name="On Melancholy Hill.mp3" duration="26103/125s" audioChannels="2" hasAudio="1" audioSources="1" start="0/1s">
+            <media-rep src="file://localhost/C:/Users/kayos/Downloads/On%20Melancholy%20Hill.mp3" kind="original-media"/>
+        </asset>
+        <asset id="r30" name="On Melancholy Hill.mp3" duration="26103/125s" audioChannels="2" hasAudio="1" audioSources="1" start="0/1s">
+            <media-rep src="file://localhost/C:/Users/kayos/Downloads/On%20Melancholy%20Hill.mp3" kind="original-media"/>
+        </asset>
+        <asset id="r31" name="Bullet Train (2022) - How Many People They Killed Scene _ Movieclips.mp4" duration="60233273/399600s" audioChannels="2" hasAudio="1" audioSources="1" start="0/1s">
+            <media-rep src="file://localhost/C:/Users/kayos/Downloads/Bullet%20Train%20(2022)%20-%20How%20Many%20People%20They%20Killed%20Scene%20_%20Movieclips.mp4" kind="original-media"/>
+        </asset>
+        <asset id="r32" name="Bullet Train (2022) - How Many People They Killed Scene _ Movieclips.mp4" duration="60233273/399600s" audioChannels="2" hasAudio="1" audioSources="1" start="0/1s">
+            <media-rep src="file://localhost/C:/Users/kayos/Downloads/Bullet%20Train%20(2022)%20-%20How%20Many%20People%20They%20Killed%20Scene%20_%20Movieclips.mp4" kind="original-media"/>
+        </asset>
+        <asset id="r33" name="Bullet Train (2022) - How Many People They Killed Scene _ Movieclips.mp4" duration="60233273/399600s" audioChannels="2" hasAudio="1" audioSources="1" start="0/1s">
+            <media-rep src="file://localhost/C:/Users/kayos/Downloads/Bullet%20Train%20(2022)%20-%20How%20Many%20People%20They%20Killed%20Scene%20_%20Movieclips.mp4" kind="original-media"/>
+        </asset>
+        <asset id="r34" name="Bullet Train (2022) - How Many People They Killed Scene _ Movieclips.mp4" duration="60233273/399600s" audioChannels="2" hasAudio="1" audioSources="1" start="0/1s">
+            <media-rep src="file://localhost/C:/Users/kayos/Downloads/Bullet%20Train%20(2022)%20-%20How%20Many%20People%20They%20Killed%20Scene%20_%20Movieclips.mp4" kind="original-media"/>
+        </asset>
+        <asset id="r35" name="Bullet Train (2022) - How Many People They Killed Scene _ Movieclips.mp4" duration="60233273/399600s" audioChannels="2" hasAudio="1" audioSources="1" start="0/1s">
+            <media-rep src="file://localhost/C:/Users/kayos/Downloads/Bullet%20Train%20(2022)%20-%20How%20Many%20People%20They%20Killed%20Scene%20_%20Movieclips.mp4" kind="original-media"/>
+        </asset>
+        <asset id="r36" name="Bullet Train (2022) - How Many People They Killed Scene _ Movieclips.mp4" duration="60233273/399600s" audioChannels="2" hasAudio="1" audioSources="1" start="0/1s">
+            <media-rep src="file://localhost/C:/Users/kayos/Downloads/Bullet%20Train%20(2022)%20-%20How%20Many%20People%20They%20Killed%20Scene%20_%20Movieclips.mp4" kind="original-media"/>
+        </asset>
+    </resources>
+    <library>
+        <event name="Timeline 1 (Resolve)">
+            <project name="Timeline 1 (Resolve)">
+                <sequence duration="2339/24s" tcFormat="NDF" format="r0" tcStart="3600/1s">
+                    <spine>
+                        <gap name="Gap" duration="2339/24s" offset="3600/1s" start="3600/1s">
+                            <clip enabled="1" lane="1" name="Bullet Train (2022) - How Many People They Killed Scene _ Movieclips.mp4" duration="3/8s" tcFormat="NDF" offset="21713/6s" format="r1" start="841841/24000s">
+                                <adjust-transform anchor="0 0" position="0 0" scale="1 1"/>
+                                <video duration="1808807/12000s" offset="0/1s" ref="r2" start="0/1s"/>
+                            </clip>
+                            <clip enabled="1" lane="1" name="Bullet Train (2022) - How Many People They Killed Scene _ Movieclips.mp4" duration="13/8s" tcFormat="NDF" offset="86873/24s" format="r1" start="431431/12000s">
+                                <adjust-transform anchor="0 0" position="0 0" scale="1 1"/>
+                                <video duration="1808807/12000s" offset="0/1s" ref="r3" start="0/1s"/>
+                            </clip>
+                            <clip enabled="1" lane="2" name="Bullet Train (2022) - How Many People They Killed Scene _ Movieclips.mp4" duration="109/8s" tcFormat="NDF" offset="3600/1s" format="r1" start="19019/1000s">
+                                <adjust-transform anchor="0 0" position="0 0" scale="1 1"/>
+                                <video duration="1808807/12000s" offset="0/1s" ref="r4" start="0/1s"/>
+                            </clip>
+                            <clip enabled="1" lane="2" name="Bullet Train (2022) - How Many People They Killed Scene _ Movieclips.mp4" duration="4/3s" tcFormat="NDF" offset="43369/12s" format="r1" start="53053/1500s">
+                                <adjust-transform anchor="0 0" position="0 0" scale="1 1"/>
+                                <video duration="1808807/12000s" offset="0/1s" ref="r5" start="0/1s"/>
+                            </clip>
+                            <clip enabled="1" lane="2" name="Bullet Train (2022) - How Many People They Killed Scene _ Movieclips.mp4" duration="7/8s" tcFormat="NDF" offset="43385/12s" format="r1" start="2239237/24000s">
+                                <adjust-transform anchor="0 0" position="0 0" scale="1 1"/>
+                                <video duration="1808807/12000s" offset="0/1s" ref="r6" start="0/1s"/>
+                            </clip>
+                            <clip enabled="1" lane="2" name="Bullet Train (2022) - How Many People They Killed Scene _ Movieclips.mp4" duration="1/2s" tcFormat="NDF" offset="43439/12s" format="r1" start="887887/8000s">
+                                <adjust-transform anchor="0 0" position="0 0" scale="1 1"/>
+                                <video duration="1808807/12000s" offset="0/1s" ref="r7" start="0/1s"/>
+                            </clip>
+                            <clip enabled="1" lane="2" name="Bullet Train (2022) - How Many People They Killed Scene _ Movieclips.mp4" duration="13/24s" tcFormat="NDF" offset="43445/12s" format="r1" start="2701699/24000s">
+                                <adjust-transform anchor="0 0" position="0 0" scale="1 1"/>
+                                <video duration="1808807/12000s" offset="0/1s" ref="r8" start="0/1s"/>
+                            </clip>
+                            <clip enabled="1" lane="3" name="Bullet Train (2022) - How Many People They Killed Scene _ Movieclips.mp4" duration="11/24s" tcFormat="NDF" offset="28909/8s" format="r1" start="1118117/24000s">
+                                <adjust-transform anchor="0 0" position="0 0" scale="1 1"/>
+                                <video duration="1808807/12000s" offset="0/1s" ref="r9" start="0/1s"/>
+                            </clip>
+                            <clip enabled="1" lane="3" name="Bullet Train (2022) - How Many People They Killed Scene _ Movieclips.mp4" duration="5/4s" tcFormat="NDF" offset="28927/8s" format="r1" start="39039/500s">
+                                <adjust-transform anchor="0 0" position="0 0" scale="1 1"/>
+                                <video duration="1808807/12000s" offset="0/1s" ref="r10" start="0/1s"/>
+                            </clip>
+                            <clip enabled="1" lane="3" name="Bullet Train (2022) - How Many People They Killed Scene _ Movieclips.mp4" duration="13/24s" tcFormat="NDF" offset="28941/8s" format="r1" start="239239/2400s">
+                                <adjust-transform anchor="0 0" position="0 0" scale="1 1"/>
+                                <video duration="1808807/12000s" offset="0/1s" ref="r11" start="0/1s"/>
+                            </clip>
+                            <clip enabled="1" lane="3" name="Bullet Train (2022) - How Many People They Killed Scene _ Movieclips.mp4" duration="7/4s" tcFormat="NDF" offset="21709/6s" format="r1" start="407407/6000s">
+                                <timeMap frameSampling="floor">
+                                    <timept interp="linear" time="0/1s" value="0/1s"/>
+                                    <timept interp="linear" time="226054/1125s" value="113027/750s"/>
+                                </timeMap>
+                                <adjust-transform anchor="0 0" position="0 0" scale="1 1"/>
+                                <video duration="1808807/12000s" offset="0/1s" ref="r12" start="0/1s"/>
+                            </clip>
+                            <clip enabled="1" lane="3" name="Bullet Train (2022) - How Many People They Killed Scene _ Movieclips.mp4" duration="1/1s" tcFormat="NDF" offset="86897/24s" format="r1" start="323323/8000s">
+                                <adjust-transform anchor="0 0" position="0 0" scale="1 1"/>
+                                <video duration="1808807/12000s" offset="0/1s" ref="r13" start="0/1s"/>
+                            </clip>
+                            <clip enabled="1" lane="3" name="Tangerine and Lemon Look at Camera Bullet Train in 4K 60FPS.mp4" duration="5/12s" tcFormat="NDF" offset="86921/24s" format="r14" start="0/1s">
+                                <adjust-transform anchor="0 0" position="0 0" scale="1 1"/>
+                                <video duration="113/20s" offset="0/1s" ref="r15" start="0/1s"/>
+                            </clip>
+                            <clip enabled="1" lane="3" name="Tangerine and Lemon Look at Camera Bullet Train in 4K 60FPS.mp4" duration="5/4s" tcFormat="NDF" offset="28977/8s" format="r14" start="35/8s">
+                                <adjust-transform anchor="0 0" position="0 0" scale="1 1"/>
+                                <video duration="113/20s" offset="0/1s" ref="r16" start="0/1s"/>
+                            </clip>
+                            <clip enabled="1" lane="3" name="Aaron Taylor-Johnson Finds His Brother s Corpse _ Bullet Train (2022) _ Now Playing.mp4" duration="13/24s" tcFormat="NDF" offset="28987/8s" format="r1" start="119119/8000s">
+                                <adjust-transform anchor="0 0" position="0 0" scale="1 1"/>
+                                <video duration="581581/1200s" offset="0/1s" ref="r17" start="0/1s"/>
+                            </clip>
+                            <asset-clip enabled="1" lane="3" name="Aaron Taylor-Johnson Finds His Brother s Corpse _ Bullet Train (2022) _ Now Playing.mp4" duration="485/24s" tcFormat="NDF" offset="87001/24s" format="r1" ref="r18" audioStart="667667/24000s" audioDuration="58/3s" start="667667/24000s">
+                                <adjust-transform anchor="0 0" position="0 0" scale="1 1"/>
+                            </asset-clip>
+                            <clip enabled="1" lane="4" name="Bullet Train (2022) - How Many People They Killed Scene _ Movieclips.mp4" duration="3/8s" tcFormat="NDF" offset="86791/24s" format="r1" start="1572571/24000s">
+                                <adjust-transform anchor="0 0" position="0 0" scale="1 1"/>
+                                <video duration="1808807/12000s" offset="0/1s" ref="r19" start="0/1s"/>
+                            </clip>
+                            <clip enabled="1" lane="4" name="Bullet Train (2022) - How Many People They Killed Scene _ Movieclips.mp4" duration="1/2s" tcFormat="NDF" offset="28937/8s" format="r1" start="1184183/12000s">
+                                <adjust-transform anchor="0 0" position="0 0" scale="1 1"/>
+                                <video duration="1808807/12000s" offset="0/1s" ref="r20" start="0/1s"/>
+                            </clip>
+                            <clip enabled="1" lane="4" name="Tangerine - METAMORPHOSIS.mp4" duration="5/4s" tcFormat="NDF" offset="43487/12s" format="r21" start="115/3s">
+                                <timeMap frameSampling="floor">
+                                    <timept interp="linear" time="0/1s" value="0/1s"/>
+                                    <timept interp="linear" time="7709/40s" value="7709/80s"/>
+                                </timeMap>
+                                <adjust-transform anchor="0 0" position="0 0" scale="1 1"/>
+                                <video duration="5783/60s" offset="0/1s" ref="r22" start="0/1s"/>
+                            </clip>
+                            <clip enabled="1" lane="4" name="Tangerine - METAMORPHOSIS.mp4" duration="5/8s" tcFormat="NDF" offset="22181/6s" format="r21" start="827/12s">
+                                <adjust-transform anchor="0 0" position="0 0" scale="1 1"/>
+                                <video duration="5783/60s" offset="0/1s" ref="r23" start="0/1s"/>
+                            </clip>
+                            <clip enabled="1" lane="5" name="Bullet Train (2022) - How Many People They Killed Scene _ Movieclips.mp4" duration="1/2s" tcFormat="NDF" offset="10850/3s" format="r1" start="401401/6000s">
+                                <adjust-transform anchor="0 0" position="0 0" scale="1 1"/>
+                                <video duration="1808807/12000s" offset="0/1s" ref="r24" start="0/1s"/>
+                            </clip>
+                            <spine lane="5" offset="14581/4s">
+                                <clip enabled="1" name="Tangerine - METAMORPHOSIS.mp4" duration="62/3s" tcFormat="NDF" offset="0/1s" format="r21" start="1817/24s">
+                                    <adjust-transform anchor="0 0" position="0 0" scale="1 1"/>
+                                    <video duration="5783/60s" offset="0/1s" ref="r25" start="0/1s"/>
+                                </clip>
+                                <transition name="Cross Dissolve" duration="1/1s" offset="59/3s">
+                                    <filter-video name="Cross Dissolve" ref="r26"/>
+                                </transition>
+                            </spine>
+                            <spine lane="6" offset="3600/1s">
+                                <transition name="Cross Fade -3 dB" duration="1/1s" offset="0/1s">
+                                    <filter-video name="Cross Fade -3 dB" ref="r26"/>
+                                </transition>
+                                <asset-clip enabled="1" name="On Melancholy Hill.mp3" duration="109/8s" offset="0/1s" ref="r27" start="11/4s">
+                                    <adjust-volume amount="-10"/>
+                                </asset-clip>
+                                <transition name="Cross Fade +3 dB" duration="1/1s" offset="105/8s">
+                                    <filter-video name="Cross Fade +3 dB" ref="r26"/>
+                                </transition>
+                                <asset-clip enabled="1" name="On Melancholy Hill.mp3" duration="137/12s" offset="109/8s" ref="r28" start="131/8s">
+                                    <adjust-volume amount="5"/>
+                                </asset-clip>
+                            </spine>
+                            <spine lane="6" offset="87001/24s">
+                                <asset-clip enabled="1" name="On Melancholy Hill.mp3" duration="315/8s" offset="0/1s" ref="r29" start="871/24s">
+                                    <adjust-volume amount="5"/>
+                                </asset-clip>
+                                <transition name="Cross Fade -3 dB" duration="1/1s" offset="311/8s">
+                                    <filter-video name="Cross Fade -3 dB" ref="r26"/>
+                                </transition>
+                                <asset-clip enabled="1" name="On Melancholy Hill.mp3" duration="13/12s" offset="315/8s" ref="r30" start="227/3s">
+                                    <adjust-volume amount="-10.69"/>
+                                </asset-clip>
+                            </spine>
+                            <clip enabled="1" lane="7" name="Bullet Train (2022) - How Many People They Killed Scene _ Movieclips.mp4" duration="51/4s" offset="3600/1s" start="19/1s">
+                                <adjust-volume amount="10"/>
+                                <audio duration="60233273/399600s" offset="0/1s" ref="r31" srcCh="1, 2" start="0/1s"/>
+                            </clip>
+                            <clip enabled="1" lane="7" name="Bullet Train (2022) - How Many People They Killed Scene _ Movieclips.mp4" duration="25/24s" offset="14451/4s" start="127/4s">
+                                <adjust-volume amount="10"/>
+                                <audio duration="60233273/399600s" offset="0/1s" ref="r32" srcCh="1, 2" start="0/1s"/>
+                            </clip>
+                            <clip enabled="1" lane="8" name="Bullet Train (2022) - How Many People They Killed Scene _ Movieclips.mp4" duration="4/3s" offset="43369/12s" start="283/8s">
+                                <adjust-volume amount="-5"/>
+                                <audio duration="60233273/399600s" offset="0/1s" ref="r33" srcCh="1, 2" start="0/1s"/>
+                            </clip>
+                            <clip enabled="1" lane="8" name="Bullet Train (2022) - How Many People They Killed Scene _ Movieclips.mp4" duration="7/8s" offset="43385/12s" start="2239/24s">
+                                <adjust-volume amount="-5"/>
+                                <audio duration="60233273/399600s" offset="0/1s" ref="r34" srcCh="1, 2" start="0/1s"/>
+                            </clip>
+                            <clip enabled="1" lane="9" name="Bullet Train (2022) - How Many People They Killed Scene _ Movieclips.mp4" duration="11/24s" offset="28909/8s" start="559/12s">
+                                <adjust-volume amount="-5"/>
+                                <audio duration="60233273/399600s" offset="0/1s" ref="r35" srcCh="1, 2" start="0/1s"/>
+                            </clip>
+                            <clip enabled="1" lane="10" name="Bullet Train (2022) - How Many People They Killed Scene _ Movieclips.mp4" duration="11/6s" offset="10850/3s" start="1573/24s">
+                                <adjust-volume amount="-5"/>
+                                <audio duration="60233273/399600s" offset="0/1s" ref="r36" srcCh="1, 2" start="0/1s"/>
+                            </clip>
+                        </gap>
+                    </spine>
+                </sequence>
+            </project>
+        </event>
+    </library>
+</fcpxml>
