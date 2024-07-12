@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fcpxml>
+<fcpxml version="1.11">
+    <resources>
+        <format name="FFVideoFormat1080p24" frameDuration="1/24s" id="r0" height="1080" width="1920"/>
+        <format name="FFVideoFormat720p30" frameDuration="1/30s" id="r1" height="720" width="1280"/>
+        <format name="FFVideoFormat1080p60" frameDuration="1/60s" id="r3" height="1080" width="1920"/>
+        <asset audioChannels="2" name="3f3745c7-6839-4fdd-a927-50c1b580faeb.mp4" start="0/1s" id="r2" audioSources="1" duration="106/5s" hasAudio="1" hasVideo="1" format="r1">
+            <media-rep src="file://localhost/C:/Users/kayos/Downloads/3f3745c7-6839-4fdd-a927-50c1b580faeb.mp4" kind="original-media"/>
+        </asset>
+        <asset audioChannels="2" name="6a057824-77ec-4733-9588-581e9de20cfd.mp4" start="0/1s" id="r4" audioSources="1" duration="317/15s" hasAudio="1" hasVideo="1" format="r3">
+            <media-rep src="file://localhost/C:/Users/kayos/Downloads/6a057824-77ec-4733-9588-581e9de20cfd.mp4" kind="original-media"/>
+        </asset>
+        <asset audioChannels="2" name="7e0a6fb4-745c-4129-9503-d38dd2920b03.mp4" start="0/1s" id="r5" audioSources="1" duration="51/5s" hasAudio="1" hasVideo="1" format="r1">
+            <media-rep src="file://localhost/C:/Users/kayos/Downloads/7e0a6fb4-745c-4129-9503-d38dd2920b03.mp4" kind="original-media"/>
+        </asset>
+        <asset audioChannels="2" name="9d0b4877-22f1-4966-a40a-da17e801eece.mp4" start="0/1s" id="r6" audioSources="1" duration="362/15s" hasAudio="1" hasVideo="1" format="r3">
+            <media-rep src="file://localhost/C:/Users/kayos/Downloads/9d0b4877-22f1-4966-a40a-da17e801eece.mp4" kind="original-media"/>
+        </asset>
+        <asset audioChannels="2" name="807f1331-973a-48c0-a766-412ea4155688.mp4" start="0/1s" id="r7" audioSources="1" duration="26/5s" hasAudio="1" hasVideo="1" format="r1">
+            <media-rep src="file://localhost/C:/Users/kayos/Downloads/807f1331-973a-48c0-a766-412ea4155688.mp4" kind="original-media"/>
+        </asset>
+        <asset audioChannels="2" name="834edc29-ed3f-47b0-9c1a-af9b81305c6f.mp4" start="0/1s" id="r8" audioSources="1" duration="667/30s" hasAudio="1" hasVideo="1" format="r1">
+            <media-rep src="file://localhost/C:/Users/kayos/Downloads/834edc29-ed3f-47b0-9c1a-af9b81305c6f.mp4" kind="original-media"/>
+        </asset>
+        <asset audioChannels="2" name="5716fdb5-ae7b-4819-8f51-6642ccb3f4b1.mp4" start="0/1s" id="r9" audioSources="1" duration="36/5s" hasAudio="1" hasVideo="1" format="r1">
+            <media-rep src="file://localhost/C:/Users/kayos/Downloads/5716fdb5-ae7b-4819-8f51-6642ccb3f4b1.mp4" kind="original-media"/>
+        </asset>
+        <asset audioChannels="2" name="10981a0c-d5c9-4789-a5ad-0c0a4f2b7ee0.mp4" start="0/1s" id="r10" audioSources="1" duration="197/15s" hasAudio="1" hasVideo="1" format="r3">
+            <media-rep src="file://localhost/C:/Users/kayos/Downloads/10981a0c-d5c9-4789-a5ad-0c0a4f2b7ee0.mp4" kind="original-media"/>
+        </asset>
+        <asset audioChannels="2" name="49573b75-5b88-49b5-a033-eb7a7a09510c.mp4" start="0/1s" id="r11" audioSources="1" duration="377/15s" hasAudio="1" hasVideo="1" format="r3">
+            <media-rep src="file://localhost/C:/Users/kayos/Downloads/49573b75-5b88-49b5-a033-eb7a7a09510c.mp4" kind="original-media"/>
+        </asset>
+        <asset audioChannels="2" name="8800401d-1054-46b6-91da-549886e18ea3.mp4" start="0/1s" id="r12" audioSources="1" duration="61/5s" hasAudio="1" hasVideo="1" format="r1">
+            <media-rep src="file://localhost/C:/Users/kayos/Downloads/8800401d-1054-46b6-91da-549886e18ea3.mp4" kind="original-media"/>
+        </asset>
+        <asset audioChannels="2" name="b159634b-50e0-4b17-bc3f-752f099d18e4.mp4" start="0/1s" id="r13" audioSources="1" duration="81/5s" hasAudio="1" hasVideo="1" format="r1">
+            <media-rep src="file://localhost/C:/Users/kayos/Downloads/b159634b-50e0-4b17-bc3f-752f099d18e4.mp4" kind="original-media"/>
+        </asset>
+        <asset audioChannels="2" name="ef93d959-bc66-4558-bfe0-66a053c90dbc.mp4" start="0/1s" id="r14" audioSources="1" duration="71/5s" hasAudio="1" hasVideo="1" format="r1">
+            <media-rep src="file://localhost/C:/Users/kayos/Downloads/ef93d959-bc66-4558-bfe0-66a053c90dbc.mp4" kind="original-media"/>
+        </asset>
+        <asset audioChannels="2" name="5bc6e461-1c79-4be6-b228-3c42523611ed.mp4" start="0/1s" id="r15" audioSources="1" duration="41/5s" hasAudio="1" hasVideo="1" format="r1">
+            <media-rep src="file://localhost/C:/Users/kayos/Downloads/5bc6e461-1c79-4be6-b228-3c42523611ed.mp4" kind="original-media"/>
+        </asset>
+        <asset audioChannels="2" name="53ebea34-bd50-4dc6-a4a0-34dbee7977fe.mp4" start="0/1s" id="r16" audioSources="1" duration="96/5s" hasAudio="1" hasVideo="1" format="r1">
+            <media-rep src="file://localhost/C:/Users/kayos/Downloads/53ebea34-bd50-4dc6-a4a0-34dbee7977fe.mp4" kind="original-media"/>
+        </asset>
+        <asset audioChannels="2" name="53ebea34-bd50-4dc6-a4a0-34dbee7977fe.mp4" start="0/1s" id="r17" audioSources="1" duration="96/5s" hasAudio="1" hasVideo="1" format="r1">
+            <media-rep src="file://localhost/C:/Users/kayos/Downloads/53ebea34-bd50-4dc6-a4a0-34dbee7977fe.mp4" kind="original-media"/>
+        </asset>
+        <asset audioChannels="2" name="ef93d959-bc66-4558-bfe0-66a053c90dbc.mp4" start="0/1s" id="r18" audioSources="1" duration="71/5s" hasAudio="1" hasVideo="1" format="r1">
+            <media-rep src="file://localhost/C:/Users/kayos/Downloads/ef93d959-bc66-4558-bfe0-66a053c90dbc.mp4" kind="original-media"/>
+        </asset>
+        <asset audioChannels="2" name="ef93d959-bc66-4558-bfe0-66a053c90dbc.mp4" start="0/1s" id="r19" audioSources="1" duration="71/5s" hasAudio="1" hasVideo="1" format="r1">
+            <media-rep src="file://localhost/C:/Users/kayos/Downloads/ef93d959-bc66-4558-bfe0-66a053c90dbc.mp4" kind="original-media"/>
+        </asset>
+        <asset audioChannels="2" name="ian  Magic Johnson Official Audio.mp3" start="0/1s" id="r20" audioSources="1" duration="17148/125s" hasAudio="1">
+            <media-rep src="file://localhost/C:/Users/kayos/Downloads/ian%20%20Magic%20Johnson%20Official%20Audio.mp3" kind="original-media"/>
+        </asset>
+    </resources>
+    <library>
+        <event name="Timeline 1 (Resolve)">
+            <project name="Timeline 1 (Resolve)">
+                <sequence duration="1919/8s" tcStart="3600/1s" format="r0" tcFormat="NDF">
+                    <spine>
+                        <gap name="Gap" start="3600/1s" offset="3600/1s" duration="1919/8s">
+                            <asset-clip name="3f3745c7-6839-4fdd-a927-50c1b580faeb.mp4" start="0/1s" offset="29019/8s" duration="127/6s" enabled="1" ref="r2" lane="1" format="r1" tcFormat="NDF">
+                                <adjust-transform position="0 0" scale="1 1" anchor="0 0"/>
+                            </asset-clip>
+                            <asset-clip name="6a057824-77ec-4733-9588-581e9de20cfd.mp4" start="0/1s" offset="3650/1s" duration="169/8s" enabled="1" ref="r4" lane="1" format="r3" tcFormat="NDF">
+                                <adjust-transform position="0 0" scale="1 1" anchor="0 0"/>
+                            </asset-clip>
+                            <asset-clip name="7e0a6fb4-745c-4129-9503-d38dd2920b03.mp4" start="0/1s" offset="29369/8s" duration="61/6s" enabled="1" ref="r5" lane="1" format="r1" tcFormat="NDF">
+                                <adjust-transform position="0 0" scale="1 1" anchor="0 0"/>
+                            </asset-clip>
+                            <asset-clip name="9d0b4877-22f1-4966-a40a-da17e801eece.mp4" start="0/1s" offset="88351/24s" duration="193/8s" enabled="1" ref="r6" lane="1" format="r3" tcFormat="NDF">
+                                <adjust-transform position="0 0" scale="1 1" anchor="0 0"/>
+                            </asset-clip>
+                            <asset-clip name="807f1331-973a-48c0-a766-412ea4155688.mp4" start="0/1s" offset="44695/12s" duration="31/6s" enabled="1" ref="r7" lane="1" format="r1" tcFormat="NDF">
+                                <adjust-transform position="0 0" scale="1 1" anchor="0 0"/>
+                            </asset-clip>
+                            <asset-clip name="834edc29-ed3f-47b0-9c1a-af9b81305c6f.mp4" start="0/1s" offset="14919/4s" duration="533/24s" enabled="1" ref="r8" lane="1" format="r1" tcFormat="NDF">
+                                <adjust-transform position="0 0" scale="1 1" anchor="0 0"/>
+                            </asset-clip>
+                            <asset-clip name="5716fdb5-ae7b-4819-8f51-6642ccb3f4b1.mp4" start="0/1s" offset="90047/24s" duration="43/6s" enabled="1" ref="r9" lane="1" format="r1" tcFormat="NDF">
+                                <adjust-transform position="0 0" scale="1 1" anchor="0 0"/>
+                            </asset-clip>
+                            <asset-clip name="10981a0c-d5c9-4789-a5ad-0c0a4f2b7ee0.mp4" start="0/1s" offset="30073/8s" duration="105/8s" enabled="1" ref="r10" lane="1" format="r3" tcFormat="NDF">
+                                <adjust-transform position="0 0" scale="1 1" anchor="0 0"/>
+                            </asset-clip>
+                            <asset-clip name="49573b75-5b88-49b5-a033-eb7a7a09510c.mp4" start="0/1s" offset="15089/4s" duration="201/8s" enabled="1" ref="r11" lane="1" format="r3" tcFormat="NDF">
+                                <adjust-transform position="0 0" scale="1 1" anchor="0 0"/>
+                            </asset-clip>
+                            <asset-clip name="8800401d-1054-46b6-91da-549886e18ea3.mp4" start="0/1s" offset="30379/8s" duration="73/6s" enabled="1" ref="r12" lane="1" format="r1" tcFormat="NDF">
+                                <adjust-transform position="0 0" scale="1 1" anchor="0 0"/>
+                            </asset-clip>
+                            <asset-clip name="b159634b-50e0-4b17-bc3f-752f099d18e4.mp4" start="0/1s" offset="91429/24s" duration="97/6s" enabled="1" ref="r13" lane="1" format="r1" tcFormat="NDF">
+                                <adjust-transform position="0 0" scale="1 1" anchor="0 0"/>
+                            </asset-clip>
+                            <asset-clip name="ef93d959-bc66-4558-bfe0-66a053c90dbc.mp4" start="0/1s" offset="91817/24s" duration="85/6s" enabled="1" ref="r14" lane="1" format="r1" tcFormat="NDF">
+                                <adjust-transform position="0 0" scale="1 1" anchor="0 0"/>
+                            </asset-clip>
+                            <asset-clip name="5bc6e461-1c79-4be6-b228-3c42523611ed.mp4" start="0/1s" offset="3600/1s" duration="20/3s" enabled="1" ref="r15" lane="2" format="r1" tcFormat="NDF">
+                                <adjust-transform position="0 0" scale="1 1" anchor="0 0"/>
+                            </asset-clip>
+                            <asset-clip name="53ebea34-bd50-4dc6-a4a0-34dbee7977fe.mp4" start="14/5s" offset="10820/3s" duration="55/8s" enabled="1" ref="r16" lane="2" format="r1" tcFormat="NDF">
+                                <adjust-transform position="0 0" scale="1 1" anchor="0 0"/>
+                            </asset-clip>
+                            <asset-clip name="53ebea34-bd50-4dc6-a4a0-34dbee7977fe.mp4" start="29/2s" offset="86725/24s" duration="14/3s" enabled="1" ref="r17" lane="2" format="r1" tcFormat="NDF">
+                                <adjust-transform position="0 0" scale="1 1" anchor="0 0"/>
+                            </asset-clip>
+                            <asset-clip name="ef93d959-bc66-4558-bfe0-66a053c90dbc.mp4" start="3/5s" offset="87227/24s" duration="7/8s" enabled="1" audioStart="3/5s" ref="r18" lane="2" format="r1" audioDuration="11/2s" tcFormat="NDF">
+                                <timeMap frameSampling="floor">
+                                    <timept time="0/1s" value="0/1s" interp="linear"/>
+                                    <timept time="17/18s" value="17/12s" interp="linear"/>
+                                    <timept time="13/9s" value="5/3s" interp="linear"/>
+                                    <timept time="3324029/1998000s" value="3768029/1998000s" interp="linear"/>
+                                    <timept time="19643159/1998000s" value="1131/80s" interp="linear"/>
+                                </timeMap>
+                                <adjust-transform position="0 0" scale="1 1" anchor="0 0"/>
+                            </asset-clip>
+                            <clip name="ef93d959-bc66-4558-bfe0-66a053c90dbc.mp4" start="3/2s" offset="43633/12s" duration="155/24s" enabled="1" lane="2" format="r1" tcFormat="NDF">
+                                <timeMap frameSampling="floor">
+                                    <timept time="0/1s" value="0/1s" interp="linear"/>
+                                    <timept time="17/18s" value="17/12s" interp="linear"/>
+                                    <timept time="13/9s" value="5/3s" interp="linear"/>
+                                    <timept time="3324029/1998000s" value="3768029/1998000s" interp="linear"/>
+                                    <timept time="7964249/1998000s" value="8408249/1998000s" interp="linear"/>
+                                    <timept time="631/144s" value="9989999/1998000s" interp="linear"/>
+                                    <timept time="83/18s" value="5223937/999000s" interp="linear"/>
+                                    <timept time="2069017/333000s" value="223119/37000s" interp="linear"/>
+                                    <timept time="967207/83250s" value="7061681/499500s" interp="linear"/>
+                                </timeMap>
+                                <adjust-transform position="0 0" scale="1 1" anchor="0 0"/>
+                                <video start="0/1s" offset="0/1s" duration="71/5s" ref="r19"/>
+                            </clip>
+                            <asset-clip name="ian  Magic Johnson Official Audio.mp3" start="757/8s" offset="3600/1s" duration="1021/24s" enabled="1" ref="r20" lane="4"/>
+                        </gap>
+                    </spine>
+                </sequence>
+            </project>
+        </event>
+    </library>
+</fcpxml>
