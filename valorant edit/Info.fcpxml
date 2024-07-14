@@ -3,48 +3,48 @@
 <fcpxml version="1.11">
     <resources>
         <format frameDuration="1/24s" name="FFVideoFormat1080p24" height="1080" width="1920" id="r0"/>
-        <format frameDuration="1/30s" name="FFVideoFormat720p30" height="720" width="1280" id="r1"/>
+        <format frameDuration="1/30s" name="FFVideoFormat720p30" height="720" width="1280" id="r2"/>
         <format frameDuration="1/60s" name="FFVideoFormat720p60" height="720" width="1280" id="r15"/>
         <format frameDuration="1/60s" name="FFVideoFormat1080p60" height="1080" width="1920" id="r17"/>
-        <format frameDuration="1/30s" name="FFVideoFormat640x480p30" height="480" width="640" id="r27"/>
-        <format frameDuration="1/30s" name="FFVideoFormatRateUndefined" height="480" width="852" id="r43"/>
-        <format frameDuration="1/30s" name="FFVideoFormat1080p30" height="1080" width="1920" id="r45"/>
-        <format frameDuration="1001/30000s" name="FFVideoFormat1080p2997" height="1080" width="1920" id="r49"/>
-        <effect name="Cross Dissolve" uid="FxPlug:4731E73A-8DAC-4113-9A30-AE85B1761265" id="r7"/>
-        <asset start="0/1s" format="r1" name="5bc6e461-1c79-4be6-b228-3c42523611ed.mp4" hasAudio="1" duration="41/5s" audioSources="1" audioChannels="2" id="r2" hasVideo="1">
+        <format frameDuration="1/30s" name="FFVideoFormat640x480p30" height="480" width="640" id="r29"/>
+        <format frameDuration="1/30s" name="FFVideoFormatRateUndefined" height="480" width="852" id="r45"/>
+        <format frameDuration="1/30s" name="FFVideoFormat1080p30" height="1080" width="1920" id="r47"/>
+        <format frameDuration="1001/30000s" name="FFVideoFormat1080p2997" height="1080" width="1920" id="r51"/>
+        <effect name="Cross Dissolve" uid="FxPlug:4731E73A-8DAC-4113-9A30-AE85B1761265" id="r1"/>
+        <asset start="0/1s" format="r2" name="5bc6e461-1c79-4be6-b228-3c42523611ed.mp4" hasAudio="1" duration="41/5s" audioSources="1" audioChannels="2" id="r3" hasVideo="1">
             <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/5bc6e461-1c79-4be6-b228-3c42523611ed.mp4"/>
         </asset>
-        <asset start="0/1s" format="r1" name="5bc6e461-1c79-4be6-b228-3c42523611ed.mp4" hasAudio="1" duration="41/5s" audioSources="1" audioChannels="2" id="r3" hasVideo="1">
+        <asset start="0/1s" format="r2" name="5bc6e461-1c79-4be6-b228-3c42523611ed.mp4" hasAudio="1" duration="41/5s" audioSources="1" audioChannels="2" id="r4" hasVideo="1">
             <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/5bc6e461-1c79-4be6-b228-3c42523611ed.mp4"/>
         </asset>
-        <asset start="0/1s" format="r1" name="53ebea34-bd50-4dc6-a4a0-34dbee7977fe.mp4" hasAudio="1" duration="96/5s" audioSources="1" audioChannels="2" id="r4" hasVideo="1">
-            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/53ebea34-bd50-4dc6-a4a0-34dbee7977fe.mp4"/>
-        </asset>
-        <asset start="0/1s" format="r1" name="5bc6e461-1c79-4be6-b228-3c42523611ed.mp4" hasAudio="1" duration="41/5s" audioSources="1" audioChannels="2" id="r5" hasVideo="1">
+        <asset start="0/1s" format="r2" name="5bc6e461-1c79-4be6-b228-3c42523611ed.mp4" hasAudio="1" duration="41/5s" audioSources="1" audioChannels="2" id="r5" hasVideo="1">
             <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/5bc6e461-1c79-4be6-b228-3c42523611ed.mp4"/>
         </asset>
-        <asset start="0/1s" format="r1" name="53ebea34-bd50-4dc6-a4a0-34dbee7977fe.mp4" hasAudio="1" duration="96/5s" audioSources="1" audioChannels="2" id="r6" hasVideo="1">
+        <asset start="0/1s" format="r2" name="53ebea34-bd50-4dc6-a4a0-34dbee7977fe.mp4" hasAudio="1" duration="96/5s" audioSources="1" audioChannels="2" id="r6" hasVideo="1">
             <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/53ebea34-bd50-4dc6-a4a0-34dbee7977fe.mp4"/>
         </asset>
-        <asset start="0/1s" format="r1" name="53ebea34-bd50-4dc6-a4a0-34dbee7977fe.mp4" hasAudio="1" duration="96/5s" audioSources="1" audioChannels="2" id="r8" hasVideo="1">
+        <asset start="0/1s" format="r2" name="53ebea34-bd50-4dc6-a4a0-34dbee7977fe.mp4" hasAudio="1" duration="96/5s" audioSources="1" audioChannels="2" id="r7" hasVideo="1">
             <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/53ebea34-bd50-4dc6-a4a0-34dbee7977fe.mp4"/>
         </asset>
-        <asset start="0/1s" format="r1" name="53ebea34-bd50-4dc6-a4a0-34dbee7977fe.mp4" hasAudio="1" duration="96/5s" audioSources="1" audioChannels="2" id="r9" hasVideo="1">
+        <asset start="0/1s" format="r2" name="53ebea34-bd50-4dc6-a4a0-34dbee7977fe.mp4" hasAudio="1" duration="96/5s" audioSources="1" audioChannels="2" id="r8" hasVideo="1">
             <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/53ebea34-bd50-4dc6-a4a0-34dbee7977fe.mp4"/>
         </asset>
-        <asset start="0/1s" format="r1" name="834edc29-ed3f-47b0-9c1a-af9b81305c6f.mp4" hasAudio="1" duration="667/30s" audioSources="1" audioChannels="2" id="r10" hasVideo="1">
+        <asset start="0/1s" format="r2" name="53ebea34-bd50-4dc6-a4a0-34dbee7977fe.mp4" hasAudio="1" duration="96/5s" audioSources="1" audioChannels="2" id="r9" hasVideo="1">
+            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/53ebea34-bd50-4dc6-a4a0-34dbee7977fe.mp4"/>
+        </asset>
+        <asset start="0/1s" format="r2" name="834edc29-ed3f-47b0-9c1a-af9b81305c6f.mp4" hasAudio="1" duration="667/30s" audioSources="1" audioChannels="2" id="r10" hasVideo="1">
             <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/834edc29-ed3f-47b0-9c1a-af9b81305c6f.mp4"/>
         </asset>
-        <asset start="0/1s" format="r1" name="834edc29-ed3f-47b0-9c1a-af9b81305c6f.mp4" hasAudio="1" duration="667/30s" audioSources="1" audioChannels="2" id="r11" hasVideo="1">
+        <asset start="0/1s" format="r2" name="834edc29-ed3f-47b0-9c1a-af9b81305c6f.mp4" hasAudio="1" duration="667/30s" audioSources="1" audioChannels="2" id="r11" hasVideo="1">
             <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/834edc29-ed3f-47b0-9c1a-af9b81305c6f.mp4"/>
         </asset>
-        <asset start="0/1s" format="r1" name="834edc29-ed3f-47b0-9c1a-af9b81305c6f.mp4" hasAudio="1" duration="667/30s" audioSources="1" audioChannels="2" id="r12" hasVideo="1">
+        <asset start="0/1s" format="r2" name="834edc29-ed3f-47b0-9c1a-af9b81305c6f.mp4" hasAudio="1" duration="667/30s" audioSources="1" audioChannels="2" id="r12" hasVideo="1">
             <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/834edc29-ed3f-47b0-9c1a-af9b81305c6f.mp4"/>
         </asset>
-        <asset start="0/1s" format="r1" name="ef93d959-bc66-4558-bfe0-66a053c90dbc.mp4" hasAudio="1" duration="71/5s" audioSources="1" audioChannels="2" id="r13" hasVideo="1">
+        <asset start="0/1s" format="r2" name="ef93d959-bc66-4558-bfe0-66a053c90dbc.mp4" hasAudio="1" duration="71/5s" audioSources="1" audioChannels="2" id="r13" hasVideo="1">
             <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/ef93d959-bc66-4558-bfe0-66a053c90dbc.mp4"/>
         </asset>
-        <asset start="0/1s" format="r1" name="ef93d959-bc66-4558-bfe0-66a053c90dbc.mp4" hasAudio="1" duration="71/5s" audioSources="1" audioChannels="2" id="r14" hasVideo="1">
+        <asset start="0/1s" format="r2" name="ef93d959-bc66-4558-bfe0-66a053c90dbc.mp4" hasAudio="1" duration="71/5s" audioSources="1" audioChannels="2" id="r14" hasVideo="1">
             <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/ef93d959-bc66-4558-bfe0-66a053c90dbc.mp4"/>
         </asset>
         <asset start="0/1s" format="r15" name="1633746691-medaltvvalorant20211008211354-tr-edit.mp4" hasAudio="1" duration="1057/60s" audioSources="1" audioChannels="2" id="r16" hasVideo="1">
@@ -62,14 +62,14 @@
         <asset start="0/1s" format="r17" name="0a447319-96a0-4528-85d3-2fc8f14e1515.mp4" hasAudio="1" duration="347/15s" audioSources="1" audioChannels="2" id="r21" hasVideo="1">
             <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/0a447319-96a0-4528-85d3-2fc8f14e1515.mp4"/>
         </asset>
-        <asset start="0/1s" format="r17" name="6a057824-77ec-4733-9588-581e9de20cfd.mp4" hasAudio="1" duration="317/15s" audioSources="1" audioChannels="2" id="r22" hasVideo="1">
+        <asset start="0/1s" format="r17" name="0a447319-96a0-4528-85d3-2fc8f14e1515.mp4" hasAudio="1" duration="347/15s" audioSources="1" audioChannels="2" id="r22" hasVideo="1">
+            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/0a447319-96a0-4528-85d3-2fc8f14e1515.mp4"/>
+        </asset>
+        <asset start="0/1s" format="r17" name="0a447319-96a0-4528-85d3-2fc8f14e1515.mp4" hasAudio="1" duration="347/15s" audioSources="1" audioChannels="2" id="r23" hasVideo="1">
+            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/0a447319-96a0-4528-85d3-2fc8f14e1515.mp4"/>
+        </asset>
+        <asset start="0/1s" format="r17" name="6a057824-77ec-4733-9588-581e9de20cfd.mp4" hasAudio="1" duration="317/15s" audioSources="1" audioChannels="2" id="r24" hasVideo="1">
             <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/6a057824-77ec-4733-9588-581e9de20cfd.mp4"/>
-        </asset>
-        <asset start="0/1s" format="r17" name="49573b75-5b88-49b5-a033-eb7a7a09510c.mp4" hasAudio="1" duration="377/15s" audioSources="1" audioChannels="2" id="r23" hasVideo="1">
-            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/49573b75-5b88-49b5-a033-eb7a7a09510c.mp4"/>
-        </asset>
-        <asset start="0/1s" format="r17" name="49573b75-5b88-49b5-a033-eb7a7a09510c.mp4" hasAudio="1" duration="377/15s" audioSources="1" audioChannels="2" id="r24" hasVideo="1">
-            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/49573b75-5b88-49b5-a033-eb7a7a09510c.mp4"/>
         </asset>
         <asset start="0/1s" format="r17" name="49573b75-5b88-49b5-a033-eb7a7a09510c.mp4" hasAudio="1" duration="377/15s" audioSources="1" audioChannels="2" id="r25" hasVideo="1">
             <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/49573b75-5b88-49b5-a033-eb7a7a09510c.mp4"/>
@@ -77,14 +77,14 @@
         <asset start="0/1s" format="r17" name="49573b75-5b88-49b5-a033-eb7a7a09510c.mp4" hasAudio="1" duration="377/15s" audioSources="1" audioChannels="2" id="r26" hasVideo="1">
             <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/49573b75-5b88-49b5-a033-eb7a7a09510c.mp4"/>
         </asset>
-        <asset start="0/1s" format="r27" name="VALORANT_replay_2022.08.17-01.37_Trim.mov" hasAudio="1" duration="33/10s" audioSources="1" audioChannels="2" id="r28" hasVideo="1">
+        <asset start="0/1s" format="r17" name="49573b75-5b88-49b5-a033-eb7a7a09510c.mp4" hasAudio="1" duration="377/15s" audioSources="1" audioChannels="2" id="r27" hasVideo="1">
+            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/49573b75-5b88-49b5-a033-eb7a7a09510c.mp4"/>
+        </asset>
+        <asset start="0/1s" format="r17" name="49573b75-5b88-49b5-a033-eb7a7a09510c.mp4" hasAudio="1" duration="377/15s" audioSources="1" audioChannels="2" id="r28" hasVideo="1">
+            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/49573b75-5b88-49b5-a033-eb7a7a09510c.mp4"/>
+        </asset>
+        <asset start="0/1s" format="r29" name="VALORANT_replay_2022.08.17-01.37_Trim.mov" hasAudio="1" duration="33/10s" audioSources="1" audioChannels="2" id="r30" hasVideo="1">
             <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/VALORANT_replay_2022.08.17-01.37_Trim.mov"/>
-        </asset>
-        <asset start="0/1s" format="r17" name="6a057824-77ec-4733-9588-581e9de20cfd.mp4" hasAudio="1" duration="317/15s" audioSources="1" audioChannels="2" id="r29" hasVideo="1">
-            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/6a057824-77ec-4733-9588-581e9de20cfd.mp4"/>
-        </asset>
-        <asset start="0/1s" format="r17" name="6a057824-77ec-4733-9588-581e9de20cfd.mp4" hasAudio="1" duration="317/15s" audioSources="1" audioChannels="2" id="r30" hasVideo="1">
-            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/6a057824-77ec-4733-9588-581e9de20cfd.mp4"/>
         </asset>
         <asset start="0/1s" format="r17" name="6a057824-77ec-4733-9588-581e9de20cfd.mp4" hasAudio="1" duration="317/15s" audioSources="1" audioChannels="2" id="r31" hasVideo="1">
             <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/6a057824-77ec-4733-9588-581e9de20cfd.mp4"/>
@@ -95,11 +95,11 @@
         <asset start="0/1s" format="r17" name="6a057824-77ec-4733-9588-581e9de20cfd.mp4" hasAudio="1" duration="317/15s" audioSources="1" audioChannels="2" id="r33" hasVideo="1">
             <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/6a057824-77ec-4733-9588-581e9de20cfd.mp4"/>
         </asset>
-        <asset start="0/1s" format="r17" name="49573b75-5b88-49b5-a033-eb7a7a09510c.mp4" hasAudio="1" duration="377/15s" audioSources="1" audioChannels="2" id="r34" hasVideo="1">
-            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/49573b75-5b88-49b5-a033-eb7a7a09510c.mp4"/>
+        <asset start="0/1s" format="r17" name="6a057824-77ec-4733-9588-581e9de20cfd.mp4" hasAudio="1" duration="317/15s" audioSources="1" audioChannels="2" id="r34" hasVideo="1">
+            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/6a057824-77ec-4733-9588-581e9de20cfd.mp4"/>
         </asset>
-        <asset start="0/1s" format="r17" name="49573b75-5b88-49b5-a033-eb7a7a09510c.mp4" hasAudio="1" duration="377/15s" audioSources="1" audioChannels="2" id="r35" hasVideo="1">
-            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/49573b75-5b88-49b5-a033-eb7a7a09510c.mp4"/>
+        <asset start="0/1s" format="r17" name="6a057824-77ec-4733-9588-581e9de20cfd.mp4" hasAudio="1" duration="317/15s" audioSources="1" audioChannels="2" id="r35" hasVideo="1">
+            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/6a057824-77ec-4733-9588-581e9de20cfd.mp4"/>
         </asset>
         <asset start="0/1s" format="r17" name="49573b75-5b88-49b5-a033-eb7a7a09510c.mp4" hasAudio="1" duration="377/15s" audioSources="1" audioChannels="2" id="r36" hasVideo="1">
             <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/49573b75-5b88-49b5-a033-eb7a7a09510c.mp4"/>
@@ -116,50 +116,50 @@
         <asset start="0/1s" format="r17" name="49573b75-5b88-49b5-a033-eb7a7a09510c.mp4" hasAudio="1" duration="377/15s" audioSources="1" audioChannels="2" id="r40" hasVideo="1">
             <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/49573b75-5b88-49b5-a033-eb7a7a09510c.mp4"/>
         </asset>
-        <asset start="0/1s" format="r27" name="VALORANT_replay_2022.08.19-02.31_Trim.mov" hasAudio="1" duration="89/30s" audioSources="1" audioChannels="2" id="r41" hasVideo="1">
+        <asset start="0/1s" format="r17" name="49573b75-5b88-49b5-a033-eb7a7a09510c.mp4" hasAudio="1" duration="377/15s" audioSources="1" audioChannels="2" id="r41" hasVideo="1">
+            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/49573b75-5b88-49b5-a033-eb7a7a09510c.mp4"/>
+        </asset>
+        <asset start="0/1s" format="r17" name="49573b75-5b88-49b5-a033-eb7a7a09510c.mp4" hasAudio="1" duration="377/15s" audioSources="1" audioChannels="2" id="r42" hasVideo="1">
+            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/49573b75-5b88-49b5-a033-eb7a7a09510c.mp4"/>
+        </asset>
+        <asset start="0/1s" format="r29" name="VALORANT_replay_2022.08.19-02.31_Trim.mov" hasAudio="1" duration="89/30s" audioSources="1" audioChannels="2" id="r43" hasVideo="1">
             <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/VALORANT_replay_2022.08.19-02.31_Trim.mov"/>
         </asset>
-        <asset start="0/1s" format="r27" name="VALORANT_replay_2022.08.19-02.31_Trim.mov" hasAudio="1" duration="89/30s" audioSources="1" audioChannels="2" id="r42" hasVideo="1">
+        <asset start="0/1s" format="r29" name="VALORANT_replay_2022.08.19-02.31_Trim.mov" hasAudio="1" duration="89/30s" audioSources="1" audioChannels="2" id="r44" hasVideo="1">
             <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/VALORANT_replay_2022.08.19-02.31_Trim.mov"/>
         </asset>
-        <asset start="0/1s" format="r43" name="Valorant_2022.09.29_-_23.53.47.03.DVR_Trim.mov" hasAudio="1" duration="39/10s" audioSources="1" audioChannels="2" id="r44" hasVideo="1">
+        <asset start="0/1s" format="r45" name="Valorant_2022.09.29_-_23.53.47.03.DVR_Trim.mov" hasAudio="1" duration="39/10s" audioSources="1" audioChannels="2" id="r46" hasVideo="1">
             <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/Valorant_2022.09.29_-_23.53.47.03.DVR_Trim.mov"/>
         </asset>
-        <asset start="0/1s" format="r45" name="Quick 1.mp4" hasAudio="1" duration="2/5s" audioSources="1" audioChannels="2" id="r46" hasVideo="1">
+        <asset start="0/1s" format="r47" name="Quick 1.mp4" hasAudio="1" duration="2/5s" audioSources="1" audioChannels="2" id="r48" hasVideo="1">
             <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/Quick%201.mp4"/>
         </asset>
-        <asset start="0/1s" format="r45" name="Quick 1.mp4" hasAudio="1" duration="2/5s" audioSources="1" audioChannels="2" id="r47" hasVideo="1">
+        <asset start="0/1s" format="r47" name="Quick 1.mp4" hasAudio="1" duration="2/5s" audioSources="1" audioChannels="2" id="r49" hasVideo="1">
             <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/Quick%201.mp4"/>
         </asset>
-        <asset start="0/1s" format="r45" name="Quick 1.mp4" hasAudio="1" duration="2/5s" audioSources="1" audioChannels="2" id="r48" hasVideo="1">
+        <asset start="0/1s" format="r47" name="Quick 1.mp4" hasAudio="1" duration="2/5s" audioSources="1" audioChannels="2" id="r50" hasVideo="1">
             <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/Quick%201.mp4"/>
         </asset>
-        <asset start="0/1s" format="r49" name="Free _Flicker_ Overlay (1080p).mp4" duration="3003/100s" id="r50" hasVideo="1">
+        <asset start="0/1s" format="r51" name="Free _Flicker_ Overlay (1080p).mp4" duration="3003/100s" id="r52" hasVideo="1">
             <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/Free%20_Flicker_%20Overlay%20(1080p).mp4"/>
         </asset>
-        <asset start="0/1s" format="r49" name="Free _Flicker_ Overlay (1080p).mp4" duration="3003/100s" id="r51" hasVideo="1">
+        <asset start="0/1s" format="r51" name="Free _Flicker_ Overlay (1080p).mp4" duration="3003/100s" id="r53" hasVideo="1">
             <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/Free%20_Flicker_%20Overlay%20(1080p).mp4"/>
         </asset>
-        <asset start="0/1s" name="ian  Magic Johnson Official Audio.mp3" hasAudio="1" duration="17148/125s" audioSources="1" audioChannels="2" id="r52">
+        <asset start="0/1s" name="ian  Magic Johnson Official Audio.mp3" hasAudio="1" duration="17148/125s" audioSources="1" audioChannels="2" id="r54">
             <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/ian%20%20Magic%20Johnson%20Official%20Audio.mp3"/>
         </asset>
-        <asset start="0/1s" name="Reyna Ultimate Voice Line.mp3" hasAudio="1" duration="381/125s" audioSources="1" audioChannels="2" id="r53">
+        <asset start="0/1s" name="Reyna Ultimate Voice Line.mp3" hasAudio="1" duration="381/125s" audioSources="1" audioChannels="2" id="r55">
             <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/Reyna%20Ultimate%20Voice%20Line.mp3"/>
         </asset>
-        <asset start="0/1s" name="Reyna Ultimate Voice Line.mp3" hasAudio="1" duration="381/125s" audioSources="1" audioChannels="2" id="r54">
+        <asset start="0/1s" name="Reyna Ultimate Voice Line.mp3" hasAudio="1" duration="381/125s" audioSources="1" audioChannels="2" id="r56">
             <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/Reyna%20Ultimate%20Voice%20Line.mp3"/>
         </asset>
-        <asset start="0/1s" name="Jett Ultimate Voice Line.mp3" hasAudio="1" duration="10490723/1998000s" audioSources="1" audioChannels="2" id="r55">
+        <asset start="0/1s" name="Jett Ultimate Voice Line.mp3" hasAudio="1" duration="10490723/1998000s" audioSources="1" audioChannels="2" id="r57">
             <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/Jett%20Ultimate%20Voice%20Line.mp3"/>
         </asset>
-        <asset start="0/1s" name="53ebea34-bd50-4dc6-a4a0-34dbee7977fe.mp4" hasAudio="1" duration="96/5s" audioSources="1" audioChannels="2" id="r56">
+        <asset start="0/1s" name="53ebea34-bd50-4dc6-a4a0-34dbee7977fe.mp4" hasAudio="1" duration="96/5s" audioSources="1" audioChannels="2" id="r58">
             <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/53ebea34-bd50-4dc6-a4a0-34dbee7977fe.mp4"/>
-        </asset>
-        <asset start="0/1s" name="0a447319-96a0-4528-85d3-2fc8f14e1515.mp4" hasAudio="1" duration="347/15s" audioSources="1" audioChannels="2" id="r57">
-            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/0a447319-96a0-4528-85d3-2fc8f14e1515.mp4"/>
-        </asset>
-        <asset start="0/1s" name="0a447319-96a0-4528-85d3-2fc8f14e1515.mp4" hasAudio="1" duration="347/15s" audioSources="1" audioChannels="2" id="r58">
-            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/0a447319-96a0-4528-85d3-2fc8f14e1515.mp4"/>
         </asset>
         <asset start="0/1s" name="0a447319-96a0-4528-85d3-2fc8f14e1515.mp4" hasAudio="1" duration="347/15s" audioSources="1" audioChannels="2" id="r59">
             <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/0a447319-96a0-4528-85d3-2fc8f14e1515.mp4"/>
@@ -167,13 +167,19 @@
         <asset start="0/1s" name="0a447319-96a0-4528-85d3-2fc8f14e1515.mp4" hasAudio="1" duration="347/15s" audioSources="1" audioChannels="2" id="r60">
             <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/0a447319-96a0-4528-85d3-2fc8f14e1515.mp4"/>
         </asset>
-        <asset start="0/1s" name="49573b75-5b88-49b5-a033-eb7a7a09510c.mp4" hasAudio="1" duration="377/15s" audioSources="1" audioChannels="2" id="r61">
+        <asset start="0/1s" name="0a447319-96a0-4528-85d3-2fc8f14e1515.mp4" hasAudio="1" duration="347/15s" audioSources="1" audioChannels="2" id="r61">
+            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/0a447319-96a0-4528-85d3-2fc8f14e1515.mp4"/>
+        </asset>
+        <asset start="0/1s" name="0a447319-96a0-4528-85d3-2fc8f14e1515.mp4" hasAudio="1" duration="347/15s" audioSources="1" audioChannels="2" id="r62">
+            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/0a447319-96a0-4528-85d3-2fc8f14e1515.mp4"/>
+        </asset>
+        <asset start="0/1s" name="49573b75-5b88-49b5-a033-eb7a7a09510c.mp4" hasAudio="1" duration="377/15s" audioSources="1" audioChannels="2" id="r63">
             <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/49573b75-5b88-49b5-a033-eb7a7a09510c.mp4"/>
         </asset>
-        <asset start="0/1s" name="49573b75-5b88-49b5-a033-eb7a7a09510c.mp4" hasAudio="1" duration="377/15s" audioSources="1" audioChannels="2" id="r62">
+        <asset start="0/1s" name="49573b75-5b88-49b5-a033-eb7a7a09510c.mp4" hasAudio="1" duration="377/15s" audioSources="1" audioChannels="2" id="r64">
             <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/49573b75-5b88-49b5-a033-eb7a7a09510c.mp4"/>
         </asset>
-        <asset start="0/1s" name="Valorant_2022.09.29_-_23.53.47.03.DVR_Trim.mov" hasAudio="1" duration="39/10s" audioSources="1" audioChannels="2" id="r63">
+        <asset start="0/1s" name="Valorant_2022.09.29_-_23.53.47.03.DVR_Trim.mov" hasAudio="1" duration="39/10s" audioSources="1" audioChannels="2" id="r65">
             <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/Valorant_2022.09.29_-_23.53.47.03.DVR_Trim.mov"/>
         </asset>
     </resources>
@@ -183,33 +189,25 @@
                 <sequence tcStart="3600/1s" format="r0" duration="449/8s" tcFormat="NDF">
                     <spine>
                         <gap start="3600/1s" name="Gap" duration="449/8s" offset="3600/1s">
-                            <asset-clip start="0/1s" format="r1" name="5bc6e461-1c79-4be6-b228-3c42523611ed.mp4" enabled="1" duration="2/1s" audioStart="0/1s" audioDuration="17/12s" tcFormat="NDF" ref="r2" lane="2" offset="28917/8s">
+                            <spine lane="2" offset="28917/8s">
+                                <transition name="Cross Dissolve" duration="1/1s" offset="0/1s">
+                                    <filter-video name="Cross Dissolve" ref="r1"/>
+                                </transition>
+                                <asset-clip start="0/1s" format="r2" name="5bc6e461-1c79-4be6-b228-3c42523611ed.mp4" enabled="1" duration="2/1s" audioStart="0/1s" audioDuration="17/12s" tcFormat="NDF" ref="r3" offset="0/1s">
+                                    <adjust-transform position="0 0" scale="1 1" anchor="0 0"/>
+                                    <adjust-volume amount="-23"/>
+                                </asset-clip>
+                            </spine>
+                            <asset-clip start="21/10s" format="r2" name="5bc6e461-1c79-4be6-b228-3c42523611ed.mp4" enabled="1" duration="3/4s" audioStart="21/10s" audioDuration="7/24s" tcFormat="NDF" ref="r4" lane="3" offset="86783/24s">
                                 <adjust-transform position="0 0" scale="1 1" anchor="0 0"/>
                                 <adjust-volume amount="-23"/>
                             </asset-clip>
-                            <asset-clip start="21/10s" format="r1" name="5bc6e461-1c79-4be6-b228-3c42523611ed.mp4" enabled="1" duration="3/4s" audioStart="21/10s" audioDuration="7/24s" tcFormat="NDF" ref="r3" lane="3" offset="86783/24s">
-                                <adjust-transform position="0 0" scale="1 1" anchor="0 0"/>
-                                <adjust-volume amount="-23"/>
-                            </asset-clip>
-                            <asset-clip start="26/3s" format="r1" name="53ebea34-bd50-4dc6-a4a0-34dbee7977fe.mp4" enabled="1" duration="3/8s" tcFormat="NDF" ref="r4" lane="3" offset="28953/8s">
-                                <timeMap frameSampling="floor">
-                                    <timept value="0/1s" interp="linear" time="0/1s"/>
-                                    <timept value="23/8s" interp="linear" time="7658999/1998000s"/>
-                                    <timept value="778391/249750s" interp="linear" time="4070939/999000s"/>
-                                    <timept value="41/8s" interp="linear" time="10148189/1998000s"/>
-                                    <timept value="11025329/1998000s" interp="linear" time="75433/13875s"/>
-                                    <timept value="11145653/1998000s" interp="linear" time="3701/666s"/>
-                                    <timept value="38278349/1998000s" interp="linear" time="38235697/1998000s"/>
-                                </timeMap>
-                                <adjust-transform position="0 0" scale="1 1" anchor="0 0"/>
-                                <adjust-volume amount="-23"/>
-                            </asset-clip>
-                            <asset-clip start="19/3s" format="r1" name="5bc6e461-1c79-4be6-b228-3c42523611ed.mp4" enabled="1" duration="1/3s" tcFormat="NDF" ref="r5" lane="4" offset="14465/4s">
+                            <asset-clip start="19/3s" format="r2" name="5bc6e461-1c79-4be6-b228-3c42523611ed.mp4" enabled="1" duration="1/3s" tcFormat="NDF" ref="r5" lane="4" offset="14465/4s">
                                 <adjust-transform position="0 0" scale="1 1" anchor="0 0"/>
                                 <adjust-volume amount="-23"/>
                             </asset-clip>
                             <spine lane="4" offset="43399/12s">
-                                <asset-clip start="56/15s" format="r1" name="53ebea34-bd50-4dc6-a4a0-34dbee7977fe.mp4" enabled="1" duration="53/24s" audioStart="56/15s" audioDuration="61/24s" tcFormat="NDF" ref="r6" offset="0/1s">
+                                <asset-clip start="56/15s" format="r2" name="53ebea34-bd50-4dc6-a4a0-34dbee7977fe.mp4" enabled="1" duration="53/24s" audioStart="56/15s" audioDuration="61/24s" tcFormat="NDF" ref="r6" offset="0/1s">
                                     <timeMap frameSampling="floor">
                                         <timept value="0/1s" interp="smooth2" time="0/1s"/>
                                         <timept inTime="114283/1998000s" value="1153999/399600s" interp="smooth2" outTime="114283/1998000s" time="7693327/1998000s"/>
@@ -223,9 +221,9 @@
                                     <adjust-volume amount="-23"/>
                                 </asset-clip>
                                 <transition name="Cross Dissolve" duration="1/6s" offset="17/8s">
-                                    <filter-video name="Cross Dissolve" ref="r7"/>
+                                    <filter-video name="Cross Dissolve" ref="r1"/>
                                 </transition>
-                                <clip start="89/15s" format="r1" name="53ebea34-bd50-4dc6-a4a0-34dbee7977fe.mp4" enabled="1" duration="1/3s" tcFormat="NDF" offset="53/24s">
+                                <clip start="89/15s" format="r2" name="53ebea34-bd50-4dc6-a4a0-34dbee7977fe.mp4" enabled="1" duration="1/3s" tcFormat="NDF" offset="53/24s">
                                     <timeMap frameSampling="floor">
                                         <timept value="0/1s" interp="smooth2" time="0/1s"/>
                                         <timept inTime="114283/1998000s" value="1153999/399600s" interp="smooth2" outTime="114283/1998000s" time="7693327/1998000s"/>
@@ -242,24 +240,43 @@
                                             </keyframeAnimation>
                                         </param>
                                     </adjust-transform>
-                                    <video start="0/1s" duration="96/5s" ref="r8" offset="0/1s"/>
+                                    <video start="0/1s" duration="96/5s" ref="r7" offset="0/1s"/>
                                 </clip>
+                                <transition name="Cross Dissolve" duration="1/6s" offset="59/24s">
+                                    <filter-video name="Cross Dissolve" ref="r1"/>
+                                </transition>
+                                <asset-clip start="26/3s" format="r2" name="53ebea34-bd50-4dc6-a4a0-34dbee7977fe.mp4" enabled="1" duration="3/8s" tcFormat="NDF" ref="r8" offset="61/24s">
+                                    <timeMap frameSampling="floor">
+                                        <timept value="0/1s" interp="linear" time="0/1s"/>
+                                        <timept value="23/8s" interp="linear" time="7658999/1998000s"/>
+                                        <timept value="778391/249750s" interp="linear" time="4070939/999000s"/>
+                                        <timept value="41/8s" interp="linear" time="10148189/1998000s"/>
+                                        <timept value="11025329/1998000s" interp="linear" time="75433/13875s"/>
+                                        <timept value="11145653/1998000s" interp="linear" time="3701/666s"/>
+                                        <timept value="38278349/1998000s" interp="linear" time="38235697/1998000s"/>
+                                    </timeMap>
+                                    <adjust-transform position="0 0" scale="1 1" anchor="0 0"/>
+                                    <adjust-volume amount="-23"/>
+                                </asset-clip>
+                                <transition name="Cross Dissolve" duration="1/4s" offset="67/24s">
+                                    <filter-video name="Cross Dissolve" ref="r1"/>
+                                </transition>
+                                <asset-clip start="457/30s" format="r2" name="53ebea34-bd50-4dc6-a4a0-34dbee7977fe.mp4" enabled="1" duration="9/4s" tcFormat="NDF" ref="r9" offset="35/12s">
+                                    <timeMap frameSampling="floor">
+                                        <timept value="0/1s" interp="linear" time="0/1s"/>
+                                        <timept value="23/8s" interp="linear" time="7658999/1998000s"/>
+                                        <timept value="778391/249750s" interp="linear" time="4070939/999000s"/>
+                                        <timept value="41/8s" interp="linear" time="10148189/1998000s"/>
+                                        <timept value="11025329/1998000s" interp="linear" time="75433/13875s"/>
+                                        <timept value="11145653/1998000s" interp="linear" time="3701/666s"/>
+                                        <timept value="38278349/1998000s" interp="linear" time="38235697/1998000s"/>
+                                    </timeMap>
+                                    <adjust-transform position="0 0" scale="1 1" anchor="0 0"/>
+                                    <adjust-volume amount="-23"/>
+                                </asset-clip>
                             </spine>
-                            <asset-clip start="457/30s" format="r1" name="53ebea34-bd50-4dc6-a4a0-34dbee7977fe.mp4" enabled="1" duration="9/4s" tcFormat="NDF" ref="r9" lane="4" offset="7239/2s">
-                                <timeMap frameSampling="floor">
-                                    <timept value="0/1s" interp="linear" time="0/1s"/>
-                                    <timept value="23/8s" interp="linear" time="7658999/1998000s"/>
-                                    <timept value="778391/249750s" interp="linear" time="4070939/999000s"/>
-                                    <timept value="41/8s" interp="linear" time="10148189/1998000s"/>
-                                    <timept value="11025329/1998000s" interp="linear" time="75433/13875s"/>
-                                    <timept value="11145653/1998000s" interp="linear" time="3701/666s"/>
-                                    <timept value="38278349/1998000s" interp="linear" time="38235697/1998000s"/>
-                                </timeMap>
-                                <adjust-transform position="0 0" scale="1 1" anchor="0 0"/>
-                                <adjust-volume amount="-23"/>
-                            </asset-clip>
                             <spine lane="5" offset="43459/12s">
-                                <asset-clip start="56/5s" format="r1" name="834edc29-ed3f-47b0-9c1a-af9b81305c6f.mp4" enabled="1" duration="25/8s" audioStart="56/5s" audioDuration="37/6s" tcFormat="NDF" ref="r10" offset="0/1s">
+                                <asset-clip start="56/5s" format="r2" name="834edc29-ed3f-47b0-9c1a-af9b81305c6f.mp4" enabled="1" duration="25/8s" audioStart="56/5s" audioDuration="37/6s" tcFormat="NDF" ref="r10" offset="0/1s">
                                     <timeMap frameSampling="floor">
                                         <timept value="0/1s" interp="linear" time="0/1s"/>
                                         <timept inTime="148289/499500s" value="283/24s" interp="smooth2" outTime="148289/499500s" time="283/24s"/>
@@ -284,9 +301,9 @@
                                     <adjust-volume amount="-23.8"/>
                                 </asset-clip>
                                 <transition name="Cross Dissolve" duration="1/1s" offset="21/8s">
-                                    <filter-video name="Cross Dissolve" ref="r7"/>
+                                    <filter-video name="Cross Dissolve" ref="r1"/>
                                 </transition>
-                                <clip start="43/3s" format="r1" name="834edc29-ed3f-47b0-9c1a-af9b81305c6f.mp4" enabled="1" duration="3/1s" tcFormat="NDF" offset="25/8s">
+                                <clip start="43/3s" format="r2" name="834edc29-ed3f-47b0-9c1a-af9b81305c6f.mp4" enabled="1" duration="3/1s" tcFormat="NDF" offset="25/8s">
                                     <timeMap frameSampling="floor">
                                         <timept value="0/1s" interp="linear" time="0/1s"/>
                                         <timept inTime="148289/499500s" value="283/24s" interp="smooth2" outTime="148289/499500s" time="283/24s"/>
@@ -310,43 +327,56 @@
                                     <adjust-transform position="0 0" scale="1 1" anchor="0 0"/>
                                     <video start="0/1s" duration="667/30s" ref="r11" offset="0/1s"/>
                                 </clip>
+                                <transition name="Cross Dissolve" duration="1/1s" offset="45/8s">
+                                    <filter-video name="Cross Dissolve" ref="r1"/>
+                                </transition>
+                                <asset-clip start="541/30s" format="r2" name="834edc29-ed3f-47b0-9c1a-af9b81305c6f.mp4" enabled="1" duration="43/24s" audioStart="217/12s" audioDuration="7/4s" tcFormat="NDF" ref="r12" offset="49/8s">
+                                    <timeMap frameSampling="floor">
+                                        <timept value="0/1s" interp="linear" time="0/1s"/>
+                                        <timept value="283/24s" interp="linear" time="283/24s"/>
+                                        <timept value="85/6s" interp="linear" time="623/48s"/>
+                                        <timept value="743/48s" interp="linear" time="343/24s"/>
+                                        <timept value="761/48s" interp="linear" time="355/24s"/>
+                                        <timept value="775/48s" interp="linear" time="181/12s"/>
+                                        <timept value="5610403/333000s" interp="linear" time="426763/26640s"/>
+                                        <timept value="4239929/249750s" interp="linear" time="8130313/499500s"/>
+                                        <timept value="3905407/222000s" interp="linear" time="33340739/1998000s"/>
+                                        <timept value="12229891/666000s" interp="linear" time="419/24s"/>
+                                        <timept value="12368641/666000s" interp="linear" time="35260159/1998000s"/>
+                                        <timept value="4663783/249750s" interp="linear" time="35532613/1998000s"/>
+                                        <timept value="37658401/1998000s" interp="linear" time="35849101/1998000s"/>
+                                        <timept inTime="4979/79920s" value="38689049/1998000s" interp="smooth2" outTime="4979/79920s" time="443/24s"/>
+                                        <timept value="39022049/1998000s" interp="linear" time="149/8s"/>
+                                        <timept inTime="8119/55500s" value="39943187/1998000s" interp="smooth2" outTime="8119/55500s" time="38133887/1998000s"/>
+                                        <timept inTime="1/8s" value="20366851/999000s" interp="smooth2" outTime="1/8s" time="39187907/1998000s"/>
+                                        <timept value="2663/120s" interp="linear" time="950959/44400s"/>
+                                    </timeMap>
+                                    <adjust-transform position="0 0" scale="1 1" anchor="0 0"/>
+                                    <adjust-volume amount="-20.8"/>
+                                </asset-clip>
                             </spine>
-                            <asset-clip start="541/30s" format="r1" name="834edc29-ed3f-47b0-9c1a-af9b81305c6f.mp4" enabled="1" duration="43/24s" audioStart="217/12s" audioDuration="7/4s" tcFormat="NDF" ref="r12" lane="5" offset="87065/24s">
-                                <timeMap frameSampling="floor">
-                                    <timept value="0/1s" interp="linear" time="0/1s"/>
-                                    <timept value="283/24s" interp="linear" time="283/24s"/>
-                                    <timept value="85/6s" interp="linear" time="623/48s"/>
-                                    <timept value="743/48s" interp="linear" time="343/24s"/>
-                                    <timept value="761/48s" interp="linear" time="355/24s"/>
-                                    <timept value="775/48s" interp="linear" time="181/12s"/>
-                                    <timept value="5610403/333000s" interp="linear" time="426763/26640s"/>
-                                    <timept value="4239929/249750s" interp="linear" time="8130313/499500s"/>
-                                    <timept value="3905407/222000s" interp="linear" time="33340739/1998000s"/>
-                                    <timept value="12229891/666000s" interp="linear" time="419/24s"/>
-                                    <timept value="12368641/666000s" interp="linear" time="35260159/1998000s"/>
-                                    <timept value="4663783/249750s" interp="linear" time="35532613/1998000s"/>
-                                    <timept value="37658401/1998000s" interp="linear" time="35849101/1998000s"/>
-                                    <timept inTime="4979/79920s" value="38689049/1998000s" interp="smooth2" outTime="4979/79920s" time="443/24s"/>
-                                    <timept value="39022049/1998000s" interp="linear" time="149/8s"/>
-                                    <timept inTime="8119/55500s" value="39943187/1998000s" interp="smooth2" outTime="8119/55500s" time="38133887/1998000s"/>
-                                    <timept inTime="1/8s" value="20366851/999000s" interp="smooth2" outTime="1/8s" time="39187907/1998000s"/>
-                                    <timept value="2663/120s" interp="linear" time="950959/44400s"/>
-                                </timeMap>
-                                <adjust-transform position="0 0" scale="1 1" anchor="0 0"/>
-                                <adjust-volume amount="-20.8"/>
-                            </asset-clip>
-                            <asset-clip start="22/3s" format="r1" name="ef93d959-bc66-4558-bfe0-66a053c90dbc.mp4" enabled="1" duration="47/12s" tcFormat="NDF" ref="r13" lane="6" offset="43553/12s">
-                                <adjust-transform position="0 0" scale="1 1" anchor="0 0"/>
-                                <adjust-volume amount="-21"/>
-                            </asset-clip>
-                            <asset-clip start="202/15s" format="r1" name="ef93d959-bc66-4558-bfe0-66a053c90dbc.mp4" enabled="1" duration="11/24s" audioStart="202/15s" audioDuration="1/6s" tcFormat="NDF" ref="r14" lane="6" offset="10900/3s">
-                                <adjust-transform position="0 0" scale="1 1" anchor="0 0"/>
-                                <adjust-volume amount="-27"/>
-                            </asset-clip>
-                            <asset-clip start="99/8s" format="r15" name="1633746691-medaltvvalorant20211008211354-tr-edit.mp4" enabled="1" duration="25/12s" tcFormat="NDF" ref="r16" lane="6" offset="87239/24s">
-                                <adjust-transform position="0 0" scale="1 1" anchor="0 0"/>
-                                <adjust-volume amount="-23"/>
-                            </asset-clip>
+                            <spine lane="6" offset="43547/12s">
+                                <transition name="Non-Additive Dissolve" duration="1/1s" offset="0/1s">
+                                    <filter-video name="Non-Additive Dissolve" ref="r1"/>
+                                </transition>
+                                <asset-clip start="41/6s" format="r2" name="ef93d959-bc66-4558-bfe0-66a053c90dbc.mp4" enabled="1" duration="14/3s" audioStart="22/3s" audioDuration="47/12s" tcFormat="NDF" ref="r13" offset="0/1s">
+                                    <adjust-transform position="0 0" scale="1 1" anchor="0 0"/>
+                                    <adjust-volume amount="-21"/>
+                                </asset-clip>
+                                <transition name="Smooth Cut" duration="11/24s" offset="53/12s">
+                                    <filter-video name="Smooth Cut" ref="r1"/>
+                                </transition>
+                                <asset-clip start="137/10s" format="r2" name="ef93d959-bc66-4558-bfe0-66a053c90dbc.mp4" enabled="1" duration="5/24s" audioStart="202/15s" audioDuration="1/6s" tcFormat="NDF" ref="r14" offset="14/3s">
+                                    <adjust-transform position="0 0" scale="1 1" anchor="0 0"/>
+                                    <adjust-volume amount="-27"/>
+                                </asset-clip>
+                            </spine>
+                            <spine lane="6" offset="87239/24s">
+                                <asset-clip start="99/8s" format="r15" name="1633746691-medaltvvalorant20211008211354-tr-edit.mp4" enabled="1" duration="25/12s" tcFormat="NDF" ref="r16" offset="0/1s">
+                                    <adjust-transform position="0 0" scale="1 1" anchor="0 0"/>
+                                    <adjust-volume amount="-23"/>
+                                </asset-clip>
+                            </spine>
                             <asset-clip start="365/24s" format="r17" name="0a447319-96a0-4528-85d3-2fc8f14e1515.mp4" enabled="1" duration="65/24s" audioStart="365/24s" audioDuration="11/4s" tcFormat="NDF" ref="r18" lane="6" offset="14557/4s">
                                 <timeMap frameSampling="floor">
                                     <timept value="0/1s" interp="linear" time="0/1s"/>
@@ -360,43 +390,97 @@
                                 <adjust-transform position="0 0" scale="1 1" anchor="0 0"/>
                                 <adjust-volume amount="-37.48"/>
                             </asset-clip>
-                            <asset-clip start="43/60s" format="r15" name="1633746691-medaltvvalorant20211008211354-tr-edit.mp4" enabled="1" duration="17/12s" tcFormat="NDF" ref="r19" lane="7" offset="87209/24s">
-                                <timeMap frameSampling="floor">
-                                    <timept value="0/1s" interp="smooth2" time="0/1s"/>
-                                    <timept inTime="69707/222000s" value="188209/199800s" interp="smooth2" outTime="69707/222000s" time="2509453/1998000s"/>
-                                    <timept value="703/40s" interp="smooth2" time="3971357/222000s"/>
-                                </timeMap>
-                                <adjust-transform position="0 0" scale="1 1" anchor="0 0"/>
-                                <adjust-volume amount="-24"/>
-                            </asset-clip>
-                            <asset-clip start="41/2s" format="r17" name="0a447319-96a0-4528-85d3-2fc8f14e1515.mp4" enabled="1" duration="29/12s" audioStart="235/12s" audioDuration="13/12s" tcFormat="NDF" ref="r20" lane="7" offset="3637/1s">
-                                <timeMap frameSampling="floor">
-                                    <timept value="0/1s" interp="smooth2" time="0/1s"/>
-                                    <timept inTime="31061/333000s" value="83/8s" interp="smooth2" outTime="31061/333000s" time="83/4s"/>
-                                    <timept inTime="18743/249750s" value="85/8s" interp="smooth2" outTime="18743/249750s" time="4191259/199800s"/>
-                                    <timept inTime="78797/1998000s" value="21690409/1998000s" interp="smooth2" outTime="78797/1998000s" time="509/24s"/>
-                                    <timept inTime="31969/1998000s" value="7315387/666000s" interp="smooth2" outTime="31969/1998000s" time="21251063/999000s"/>
-                                    <timept inTime="52927/666000s" value="2473747/222000s" interp="smooth2" outTime="52927/666000s" time="43137251/1998000s"/>
-                                    <timept inTime="110999/1998000s" value="5728993/499500s" interp="smooth2" outTime="110999/1998000s" time="263/12s"/>
-                                    <timept inTime="110999/1998000s" value="289582/24975s" interp="smooth2" outTime="110999/1998000s" time="44123617/1998000s"/>
-                                    <timept value="2771/120s" interp="smooth2" time="33547103/999000s"/>
-                                </timeMap>
-                                <adjust-transform position="0 0" scale="1 1" anchor="0 0"/>
-                                <adjust-volume amount="-24"/>
-                            </asset-clip>
-                            <asset-clip start="223/12s" format="r17" name="0a447319-96a0-4528-85d3-2fc8f14e1515.mp4" enabled="1" duration="47/12s" audioStart="445/24s" audioDuration="73/24s" tcFormat="NDF" ref="r21" lane="7" offset="87407/24s">
-                                <timeMap frameSampling="floor">
-                                    <timept value="0/1s" interp="linear" time="0/1s"/>
-                                    <timept value="427/24s" interp="linear" time="427/24s"/>
-                                    <timept value="12649619/666000s" interp="linear" time="36748303/1998000s"/>
-                                    <timept inTime="42571/499500s" value="321187/16650s" interp="smooth2" outTime="42571/499500s" time="1390361/74000s"/>
-                                    <timept inTime="42571/499500s" value="39412303/1998000s" interp="smooth2" outTime="42571/499500s" time="1064737/55500s"/>
-                                    <timept value="2771/120s" interp="linear" time="22527689/999000s"/>
-                                </timeMap>
-                                <adjust-transform position="0 0" scale="1 1" anchor="0 0"/>
-                                <adjust-volume amount="-21.4"/>
-                            </asset-clip>
-                            <asset-clip start="37/6s" format="r17" name="6a057824-77ec-4733-9588-581e9de20cfd.mp4" enabled="1" duration="25/8s" tcFormat="NDF" ref="r22" lane="7" offset="43769/12s">
+                            <spine lane="7" offset="87209/24s">
+                                <asset-clip start="43/60s" format="r15" name="1633746691-medaltvvalorant20211008211354-tr-edit.mp4" enabled="1" duration="23/12s" audioStart="43/60s" audioDuration="17/12s" tcFormat="NDF" ref="r19" offset="0/1s">
+                                    <timeMap frameSampling="floor">
+                                        <timept value="0/1s" interp="smooth2" time="0/1s"/>
+                                        <timept inTime="69707/222000s" value="188209/199800s" interp="smooth2" outTime="69707/222000s" time="2509453/1998000s"/>
+                                        <timept value="703/40s" interp="smooth2" time="3971357/222000s"/>
+                                    </timeMap>
+                                    <adjust-transform position="0 0" scale="1 1" anchor="0 0"/>
+                                    <adjust-volume amount="-24"/>
+                                </asset-clip>
+                                <transition name="Cross Dissolve" duration="1/1s" offset="11/12s">
+                                    <filter-video name="Cross Dissolve" ref="r1"/>
+                                </transition>
+                            </spine>
+                            <spine lane="7" offset="3637/1s">
+                                <asset-clip start="41/2s" format="r17" name="0a447319-96a0-4528-85d3-2fc8f14e1515.mp4" enabled="1" duration="43/24s" audioStart="235/12s" audioDuration="13/12s" tcFormat="NDF" ref="r20" offset="0/1s">
+                                    <timeMap frameSampling="floor">
+                                        <timept value="0/1s" interp="smooth2" time="0/1s"/>
+                                        <timept inTime="31061/333000s" value="83/8s" interp="smooth2" outTime="31061/333000s" time="83/4s"/>
+                                        <timept inTime="18743/249750s" value="85/8s" interp="smooth2" outTime="18743/249750s" time="4191259/199800s"/>
+                                        <timept inTime="78797/1998000s" value="21690409/1998000s" interp="smooth2" outTime="78797/1998000s" time="509/24s"/>
+                                        <timept inTime="31969/1998000s" value="7315387/666000s" interp="smooth2" outTime="31969/1998000s" time="21251063/999000s"/>
+                                        <timept inTime="52927/666000s" value="2473747/222000s" interp="smooth2" outTime="52927/666000s" time="43137251/1998000s"/>
+                                        <timept inTime="110999/1998000s" value="5728993/499500s" interp="smooth2" outTime="110999/1998000s" time="263/12s"/>
+                                        <timept inTime="110999/1998000s" value="289582/24975s" interp="smooth2" outTime="110999/1998000s" time="44123617/1998000s"/>
+                                        <timept value="2771/120s" interp="smooth2" time="33547103/999000s"/>
+                                    </timeMap>
+                                    <adjust-transform position="0 0" scale="1 1" anchor="0 0">
+                                        <param name="scale" value="1 1">
+                                            <keyframeAnimation>
+                                                <keyframe value="1 1" time="41/2s"/>
+                                            </keyframeAnimation>
+                                        </param>
+                                    </adjust-transform>
+                                    <adjust-volume amount="-24"/>
+                                </asset-clip>
+                                <clip start="535/24s" format="r17" name="0a447319-96a0-4528-85d3-2fc8f14e1515.mp4" enabled="1" duration="17/24s" tcFormat="NDF" offset="43/24s">
+                                    <timeMap frameSampling="floor">
+                                        <timept value="0/1s" interp="smooth2" time="0/1s"/>
+                                        <timept inTime="31061/333000s" value="83/8s" interp="smooth2" outTime="31061/333000s" time="83/4s"/>
+                                        <timept inTime="18743/249750s" value="85/8s" interp="smooth2" outTime="18743/249750s" time="4191259/199800s"/>
+                                        <timept inTime="78797/1998000s" value="21690409/1998000s" interp="smooth2" outTime="78797/1998000s" time="509/24s"/>
+                                        <timept inTime="31969/1998000s" value="7315387/666000s" interp="smooth2" outTime="31969/1998000s" time="21251063/999000s"/>
+                                        <timept inTime="52927/666000s" value="2473747/222000s" interp="smooth2" outTime="52927/666000s" time="43137251/1998000s"/>
+                                        <timept inTime="110999/1998000s" value="5728993/499500s" interp="smooth2" outTime="110999/1998000s" time="263/12s"/>
+                                        <timept inTime="110999/1998000s" value="289582/24975s" interp="smooth2" outTime="110999/1998000s" time="44123617/1998000s"/>
+                                        <timept value="2771/120s" interp="smooth2" time="33547103/999000s"/>
+                                    </timeMap>
+                                    <adjust-transform position="0 0" scale="1 1" anchor="0 0">
+                                        <param name="scale" value="1 1">
+                                            <keyframeAnimation>
+                                                <keyframe value="1 1" time="41/2s"/>
+                                            </keyframeAnimation>
+                                        </param>
+                                    </adjust-transform>
+                                    <video start="0/1s" duration="347/15s" ref="r21" offset="0/1s"/>
+                                </clip>
+                                <transition name="Blur Dissolve" duration="1/6s" offset="7/3s">
+                                    <filter-video name="Blur Dissolve" ref="r1"/>
+                                </transition>
+                            </spine>
+                            <spine lane="7" offset="87395/24s">
+                                <transition name="Cross Dissolve" duration="1/1s" offset="0/1s">
+                                    <filter-video name="Cross Dissolve" ref="r1"/>
+                                </transition>
+                                <asset-clip start="217/12s" format="r17" name="0a447319-96a0-4528-85d3-2fc8f14e1515.mp4" enabled="1" duration="17/12s" audioStart="445/24s" audioDuration="73/24s" tcFormat="NDF" ref="r22" offset="0/1s">
+                                    <timeMap frameSampling="floor">
+                                        <timept value="0/1s" interp="linear" time="0/1s"/>
+                                        <timept value="427/24s" interp="linear" time="427/24s"/>
+                                        <timept value="12649619/666000s" interp="linear" time="36748303/1998000s"/>
+                                        <timept inTime="42571/499500s" value="321187/16650s" interp="smooth2" outTime="42571/499500s" time="1390361/74000s"/>
+                                        <timept inTime="42571/499500s" value="39412303/1998000s" interp="smooth2" outTime="42571/499500s" time="1064737/55500s"/>
+                                        <timept value="2771/120s" interp="linear" time="22527689/999000s"/>
+                                    </timeMap>
+                                    <adjust-transform position="0 0" scale="1 1" anchor="0 0"/>
+                                    <adjust-volume amount="-21.4"/>
+                                </asset-clip>
+                                <clip start="39/2s" format="r17" name="0a447319-96a0-4528-85d3-2fc8f14e1515.mp4" enabled="1" duration="3/1s" tcFormat="NDF" offset="17/12s">
+                                    <timeMap frameSampling="floor">
+                                        <timept value="0/1s" interp="linear" time="0/1s"/>
+                                        <timept value="427/24s" interp="linear" time="427/24s"/>
+                                        <timept value="12649619/666000s" interp="linear" time="36748303/1998000s"/>
+                                        <timept inTime="42571/499500s" value="321187/16650s" interp="smooth2" outTime="42571/499500s" time="1390361/74000s"/>
+                                        <timept inTime="42571/499500s" value="39412303/1998000s" interp="smooth2" outTime="42571/499500s" time="1064737/55500s"/>
+                                        <timept value="2771/120s" interp="linear" time="22527689/999000s"/>
+                                    </timeMap>
+                                    <adjust-transform position="0 0" scale="1 1" anchor="0 0"/>
+                                    <video start="0/1s" duration="347/15s" ref="r23" offset="0/1s"/>
+                                </clip>
+                            </spine>
+                            <asset-clip start="37/6s" format="r17" name="6a057824-77ec-4733-9588-581e9de20cfd.mp4" enabled="1" duration="25/8s" tcFormat="NDF" ref="r24" lane="7" offset="43769/12s">
                                 <timeMap frameSampling="floor">
                                     <timept value="0/1s" interp="linear" time="0/1s"/>
                                     <timept value="149/24s" interp="linear" time="149/24s"/>
@@ -409,7 +493,7 @@
                                 <adjust-volume amount="-26"/>
                             </asset-clip>
                             <spine lane="8" offset="86423/24s">
-                                <asset-clip start="13/8s" format="r17" name="49573b75-5b88-49b5-a033-eb7a7a09510c.mp4" enabled="1" duration="7/12s" tcFormat="NDF" ref="r23" offset="0/1s">
+                                <asset-clip start="13/8s" format="r17" name="49573b75-5b88-49b5-a033-eb7a7a09510c.mp4" enabled="1" duration="7/12s" tcFormat="NDF" ref="r25" offset="0/1s">
                                     <adjust-transform position="0 0" scale="1 1" anchor="0 0">
                                         <param name="scale" value="1 1">
                                             <keyframeAnimation>
@@ -420,9 +504,9 @@
                                     <adjust-volume amount="-24.19"/>
                                 </asset-clip>
                                 <transition name="Cross Dissolve" duration="1/4s" offset="11/24s">
-                                    <filter-video name="Cross Dissolve" ref="r7"/>
+                                    <filter-video name="Cross Dissolve" ref="r1"/>
                                 </transition>
-                                <asset-clip start="677/60s" format="r17" name="49573b75-5b88-49b5-a033-eb7a7a09510c.mp4" enabled="1" duration="5/12s" tcFormat="NDF" ref="r24" offset="7/12s">
+                                <asset-clip start="677/60s" format="r17" name="49573b75-5b88-49b5-a033-eb7a7a09510c.mp4" enabled="1" duration="5/12s" tcFormat="NDF" ref="r26" offset="7/12s">
                                     <timeMap frameSampling="floor">
                                         <timept value="0/1s" interp="linear" time="0/1s"/>
                                         <timept value="51/4s" interp="linear" time="5789659/499500s"/>
@@ -432,9 +516,9 @@
                                     <adjust-volume amount="-21"/>
                                 </asset-clip>
                                 <transition name="Cross Dissolve" duration="1/6s" offset="11/12s">
-                                    <filter-video name="Cross Dissolve" ref="r7"/>
+                                    <filter-video name="Cross Dissolve" ref="r1"/>
                                 </transition>
-                                <asset-clip start="117/10s" format="r17" name="49573b75-5b88-49b5-a033-eb7a7a09510c.mp4" enabled="1" duration="1/2s" tcFormat="NDF" ref="r25" offset="1/1s">
+                                <asset-clip start="117/10s" format="r17" name="49573b75-5b88-49b5-a033-eb7a7a09510c.mp4" enabled="1" duration="1/2s" tcFormat="NDF" ref="r27" offset="1/1s">
                                     <timeMap frameSampling="floor">
                                         <timept value="0/1s" interp="linear" time="0/1s"/>
                                         <timept value="51/4s" interp="linear" time="5789659/499500s"/>
@@ -444,7 +528,7 @@
                                     <adjust-volume amount="-15.2"/>
                                 </asset-clip>
                             </spine>
-                            <asset-clip start="61/5s" format="r17" name="49573b75-5b88-49b5-a033-eb7a7a09510c.mp4" enabled="1" duration="23/24s" tcFormat="NDF" ref="r26" lane="8" offset="86459/24s">
+                            <asset-clip start="61/5s" format="r17" name="49573b75-5b88-49b5-a033-eb7a7a09510c.mp4" enabled="1" duration="23/24s" tcFormat="NDF" ref="r28" lane="8" offset="86459/24s">
                                 <timeMap frameSampling="floor">
                                     <timept value="0/1s" interp="linear" time="0/1s"/>
                                     <timept value="51/4s" interp="linear" time="5789659/499500s"/>
@@ -453,34 +537,47 @@
                                 <adjust-transform position="0 0" scale="1 1" anchor="0 0"/>
                                 <adjust-volume amount="-22.8"/>
                             </asset-clip>
-                            <asset-clip start="8/15s" format="r27" name="VALORANT_replay_2022.08.17-01.37_Trim.mov" enabled="1" duration="5/3s" tcFormat="NDF" ref="r28" lane="8" offset="10823/3s">
+                            <asset-clip start="8/15s" format="r29" name="VALORANT_replay_2022.08.17-01.37_Trim.mov" enabled="1" duration="5/3s" tcFormat="NDF" ref="r30" lane="8" offset="10823/3s">
                                 <adjust-transform position="0 0" scale="1 1" anchor="0 0"/>
                                 <adjust-volume amount="1.02"/>
                             </asset-clip>
-                            <asset-clip start="19/12s" format="r17" name="6a057824-77ec-4733-9588-581e9de20cfd.mp4" enabled="1" duration="29/12s" audioStart="19/8s" audioDuration="59/24s" tcFormat="NDF" ref="r29" lane="8" offset="3645/1s">
-                                <timeMap frameSampling="floor">
-                                    <timept value="0/1s" interp="smooth2" time="0/1s"/>
-                                    <timept inTime="85171/666000s" value="569591/222000s" interp="smooth2" outTime="85171/666000s" time="569591/333000s"/>
-                                    <timept inTime="5/72s" value="23/8s" interp="smooth2" outTime="5/72s" time="4241453/1998000s"/>
-                                    <timept value="2531/120s" interp="smooth2" time="40638353/1998000s"/>
-                                </timeMap>
-                                <adjust-transform position="0 0" scale="1 1" anchor="0 0"/>
-                                <adjust-volume amount="-25"/>
-                            </asset-clip>
-                            <asset-clip start="907/60s" format="r17" name="6a057824-77ec-4733-9588-581e9de20cfd.mp4" enabled="1" duration="41/24s" tcFormat="NDF" ref="r30" lane="8" offset="87605/24s">
-                                <timeMap frameSampling="floor">
-                                    <timept value="0/1s" interp="linear" time="0/1s"/>
-                                    <timept value="149/24s" interp="linear" time="149/24s"/>
-                                    <timept value="6738467/999000s" interp="linear" time="364427/55500s"/>
-                                    <timept value="1374863/79920s" interp="linear" time="17007007/999000s"/>
-                                    <timept value="1776539/99900s" interp="linear" time="5862203/333000s"/>
-                                    <timept value="36427111/1998000s" interp="linear" time="36368327/1998000s"/>
-                                    <timept value="2531/120s" interp="linear" time="2805491/133200s"/>
-                                </timeMap>
-                                <adjust-transform position="0 0" scale="1 1" anchor="0 0"/>
-                                <adjust-volume amount="-27"/>
-                            </asset-clip>
-                            <asset-clip start="101/6s" format="r17" name="6a057824-77ec-4733-9588-581e9de20cfd.mp4" enabled="1" duration="5/4s" tcFormat="NDF" ref="r31" lane="8" offset="43823/12s">
+                            <spine lane="8" offset="7289/2s">
+                                <transition name="Cross Dissolve" duration="1/1s" offset="0/1s">
+                                    <filter-video name="Cross Dissolve" ref="r1"/>
+                                </transition>
+                                <asset-clip start="13/12s" format="r17" name="6a057824-77ec-4733-9588-581e9de20cfd.mp4" enabled="1" duration="41/12s" audioStart="19/8s" audioDuration="59/24s" tcFormat="NDF" ref="r31" offset="0/1s">
+                                    <timeMap frameSampling="floor">
+                                        <timept value="0/1s" interp="smooth2" time="0/1s"/>
+                                        <timept inTime="85171/666000s" value="569591/222000s" interp="smooth2" outTime="85171/666000s" time="569591/333000s"/>
+                                        <timept inTime="5/72s" value="23/8s" interp="smooth2" outTime="5/72s" time="4241453/1998000s"/>
+                                        <timept value="2531/120s" interp="smooth2" time="40638353/1998000s"/>
+                                    </timeMap>
+                                    <adjust-transform position="0 0" scale="1 1" anchor="0 0"/>
+                                    <adjust-volume amount="-25"/>
+                                </asset-clip>
+                                <transition name="Cross Dissolve" duration="1/1s" offset="29/12s">
+                                    <filter-video name="Cross Dissolve" ref="r1"/>
+                                </transition>
+                            </spine>
+                            <spine lane="8" offset="87593/24s">
+                                <transition name="Cross Dissolve" duration="1/1s" offset="0/1s">
+                                    <filter-video name="Cross Dissolve" ref="r1"/>
+                                </transition>
+                                <asset-clip start="877/60s" format="r17" name="6a057824-77ec-4733-9588-581e9de20cfd.mp4" enabled="1" duration="53/24s" audioStart="907/60s" audioDuration="41/24s" tcFormat="NDF" ref="r32" offset="0/1s">
+                                    <timeMap frameSampling="floor">
+                                        <timept value="0/1s" interp="linear" time="0/1s"/>
+                                        <timept value="149/24s" interp="linear" time="149/24s"/>
+                                        <timept value="6738467/999000s" interp="linear" time="364427/55500s"/>
+                                        <timept value="1374863/79920s" interp="linear" time="17007007/999000s"/>
+                                        <timept value="1776539/99900s" interp="linear" time="5862203/333000s"/>
+                                        <timept value="36427111/1998000s" interp="linear" time="36368327/1998000s"/>
+                                        <timept value="2531/120s" interp="linear" time="2805491/133200s"/>
+                                    </timeMap>
+                                    <adjust-transform position="0 0" scale="1 1" anchor="0 0"/>
+                                    <adjust-volume amount="-27"/>
+                                </asset-clip>
+                            </spine>
+                            <asset-clip start="101/6s" format="r17" name="6a057824-77ec-4733-9588-581e9de20cfd.mp4" enabled="1" duration="5/4s" tcFormat="NDF" ref="r33" lane="8" offset="43823/12s">
                                 <timeMap frameSampling="floor">
                                     <timept value="0/1s" interp="linear" time="0/1s"/>
                                     <timept value="149/24s" interp="linear" time="149/24s"/>
@@ -493,7 +590,7 @@
                                 <adjust-transform position="0 0" scale="1 1" anchor="0 0"/>
                                 <adjust-volume amount="-22"/>
                             </asset-clip>
-                            <asset-clip start="217/12s" format="r17" name="6a057824-77ec-4733-9588-581e9de20cfd.mp4" enabled="1" duration="7/6s" tcFormat="NDF" ref="r32" lane="8" offset="21919/6s">
+                            <asset-clip start="217/12s" format="r17" name="6a057824-77ec-4733-9588-581e9de20cfd.mp4" enabled="1" duration="7/6s" tcFormat="NDF" ref="r34" lane="8" offset="21919/6s">
                                 <timeMap frameSampling="floor">
                                     <timept value="0/1s" interp="linear" time="0/1s"/>
                                     <timept value="149/24s" interp="linear" time="149/24s"/>
@@ -506,7 +603,7 @@
                                 <adjust-transform position="0 0" scale="1 1" anchor="0 0"/>
                                 <adjust-volume amount="-21"/>
                             </asset-clip>
-                            <asset-clip start="77/4s" format="r17" name="6a057824-77ec-4733-9588-581e9de20cfd.mp4" enabled="1" duration="43/24s" tcFormat="NDF" ref="r33" lane="8" offset="10963/3s">
+                            <asset-clip start="77/4s" format="r17" name="6a057824-77ec-4733-9588-581e9de20cfd.mp4" enabled="1" duration="43/24s" tcFormat="NDF" ref="r35" lane="8" offset="10963/3s">
                                 <timeMap frameSampling="floor">
                                     <timept value="0/1s" interp="linear" time="0/1s"/>
                                     <timept value="149/24s" interp="linear" time="149/24s"/>
@@ -520,7 +617,7 @@
                                 <adjust-volume amount="-21"/>
                             </asset-clip>
                             <spine lane="9" offset="3600/1s">
-                                <asset-clip start="31/30s" format="r17" name="49573b75-5b88-49b5-a033-eb7a7a09510c.mp4" enabled="1" duration="7/24s" audioStart="31/30s" audioDuration="3/4s" tcFormat="NDF" ref="r34" offset="0/1s">
+                                <asset-clip start="31/30s" format="r17" name="49573b75-5b88-49b5-a033-eb7a7a09510c.mp4" enabled="1" duration="7/24s" audioStart="31/30s" audioDuration="3/4s" tcFormat="NDF" ref="r36" offset="0/1s">
                                     <timeMap frameSampling="floor">
                                         <timept value="0/1s" interp="smooth2" time="0/1s"/>
                                         <timept inTime="1/12s" value="7/8s" interp="smooth2" outTime="1/12s" time="2330999/1998000s"/>
@@ -533,7 +630,7 @@
                                     <adjust-volume amount="-25"/>
                                 </asset-clip>
                                 <transition name="Cross Dissolve" duration="1/6s" offset="5/24s">
-                                    <filter-video name="Cross Dissolve" ref="r7"/>
+                                    <filter-video name="Cross Dissolve" ref="r1"/>
                                 </transition>
                                 <clip start="79/60s" format="r17" name="49573b75-5b88-49b5-a033-eb7a7a09510c.mp4" enabled="1" duration="7/12s" tcFormat="NDF" offset="7/24s">
                                     <timeMap frameSampling="floor">
@@ -545,10 +642,10 @@
                                         <timept value="25076981/999000s" interp="smooth2" time="2463287/74000s"/>
                                     </timeMap>
                                     <adjust-transform position="0 0" scale="1 1" anchor="0 0"/>
-                                    <video start="0/1s" duration="377/15s" ref="r35" offset="0/1s"/>
+                                    <video start="0/1s" duration="377/15s" ref="r37" offset="0/1s"/>
                                 </clip>
                                 <transition name="Cross Dissolve" duration="1/12s" offset="5/6s">
-                                    <filter-video name="Cross Dissolve" ref="r7"/>
+                                    <filter-video name="Cross Dissolve" ref="r1"/>
                                 </transition>
                                 <clip start="19/10s" format="r17" name="49573b75-5b88-49b5-a033-eb7a7a09510c.mp4" enabled="1" duration="1/3s" tcFormat="NDF" offset="7/8s">
                                     <timeMap frameSampling="floor">
@@ -560,10 +657,10 @@
                                         <timept value="25076981/999000s" interp="smooth2" time="2463287/74000s"/>
                                     </timeMap>
                                     <adjust-transform position="0 0" scale="1 1" anchor="0 0"/>
-                                    <video start="0/1s" duration="377/15s" ref="r36" offset="0/1s"/>
+                                    <video start="0/1s" duration="377/15s" ref="r38" offset="0/1s"/>
                                 </clip>
                             </spine>
-                            <asset-clip start="123/8s" format="r17" name="49573b75-5b88-49b5-a033-eb7a7a09510c.mp4" enabled="1" duration="83/24s" tcFormat="NDF" ref="r37" lane="9" offset="86467/24s">
+                            <asset-clip start="123/8s" format="r17" name="49573b75-5b88-49b5-a033-eb7a7a09510c.mp4" enabled="1" duration="83/24s" tcFormat="NDF" ref="r39" lane="9" offset="86467/24s">
                                 <timeMap frameSampling="floor">
                                     <timept value="0/1s" interp="smooth2" time="0/1s"/>
                                     <timept inTime="183587/666000s" value="33133499/1998000s" interp="smooth2" outTime="183587/666000s" time="33133499/1998000s"/>
@@ -573,7 +670,7 @@
                                 <adjust-transform position="0 0" scale="1 1" anchor="0 0"/>
                                 <adjust-volume amount="-25.2"/>
                             </asset-clip>
-                            <asset-clip start="113/6s" format="r17" name="49573b75-5b88-49b5-a033-eb7a7a09510c.mp4" enabled="1" duration="11/12s" tcFormat="NDF" ref="r38" lane="9" offset="14425/4s">
+                            <asset-clip start="113/6s" format="r17" name="49573b75-5b88-49b5-a033-eb7a7a09510c.mp4" enabled="1" duration="11/12s" tcFormat="NDF" ref="r40" lane="9" offset="14425/4s">
                                 <timeMap frameSampling="floor">
                                     <timept value="0/1s" interp="linear" time="0/1s"/>
                                     <timept value="33133499/1998000s" interp="linear" time="33133499/1998000s"/>
@@ -583,7 +680,7 @@
                                 <adjust-transform position="0 0" scale="1 1" anchor="0 0"/>
                                 <adjust-volume amount="-33.7"/>
                             </asset-clip>
-                            <asset-clip start="79/4s" format="r17" name="49573b75-5b88-49b5-a033-eb7a7a09510c.mp4" enabled="1" duration="3/8s" tcFormat="NDF" ref="r39" lane="9" offset="21643/6s">
+                            <asset-clip start="79/4s" format="r17" name="49573b75-5b88-49b5-a033-eb7a7a09510c.mp4" enabled="1" duration="3/8s" tcFormat="NDF" ref="r41" lane="9" offset="21643/6s">
                                 <timeMap frameSampling="floor">
                                     <timept value="0/1s" interp="linear" time="0/1s"/>
                                     <timept value="33133499/1998000s" interp="linear" time="33133499/1998000s"/>
@@ -593,21 +690,26 @@
                                 <adjust-transform position="0 0" scale="1 1" anchor="0 0"/>
                                 <adjust-volume amount="-23.6"/>
                             </asset-clip>
-                            <asset-clip start="161/8s" format="r17" name="49573b75-5b88-49b5-a033-eb7a7a09510c.mp4" enabled="1" duration="49/24s" tcFormat="NDF" ref="r40" lane="9" offset="86581/24s">
-                                <timeMap frameSampling="floor">
-                                    <timept value="0/1s" interp="linear" time="0/1s"/>
-                                    <timept value="33133499/1998000s" interp="linear" time="33133499/1998000s"/>
-                                    <timept value="139/8s" interp="linear" time="5761909/333000s"/>
-                                    <timept value="3011/120s" interp="linear" time="8331559/333000s"/>
-                                </timeMap>
-                                <adjust-transform position="0 0" scale="1 1" anchor="0 0"/>
-                                <adjust-volume amount="-27"/>
-                            </asset-clip>
+                            <spine lane="9" offset="86581/24s">
+                                <asset-clip start="161/8s" format="r17" name="49573b75-5b88-49b5-a033-eb7a7a09510c.mp4" enabled="1" duration="61/24s" audioStart="161/8s" audioDuration="49/24s" tcFormat="NDF" ref="r42" offset="0/1s">
+                                    <timeMap frameSampling="floor">
+                                        <timept value="0/1s" interp="linear" time="0/1s"/>
+                                        <timept value="33133499/1998000s" interp="linear" time="33133499/1998000s"/>
+                                        <timept value="139/8s" interp="linear" time="5761909/333000s"/>
+                                        <timept value="3011/120s" interp="linear" time="8331559/333000s"/>
+                                    </timeMap>
+                                    <adjust-transform position="0 0" scale="1 1" anchor="0 0"/>
+                                    <adjust-volume amount="-27"/>
+                                </asset-clip>
+                                <transition name="Cross Dissolve" duration="1/1s" offset="37/24s">
+                                    <filter-video name="Cross Dissolve" ref="r1"/>
+                                </transition>
+                            </spine>
                             <spine lane="9" offset="14449/4s">
                                 <transition name="Cross Dissolve" duration="1/8s" offset="0/1s">
-                                    <filter-video name="Cross Dissolve" ref="r7"/>
+                                    <filter-video name="Cross Dissolve" ref="r1"/>
                                 </transition>
-                                <asset-clip start="5/12s" format="r27" name="VALORANT_replay_2022.08.19-02.31_Trim.mov" enabled="1" duration="11/24s" audioStart="5/12s" audioDuration="59/24s" tcFormat="NDF" ref="r41" offset="0/1s">
+                                <asset-clip start="5/12s" format="r29" name="VALORANT_replay_2022.08.19-02.31_Trim.mov" enabled="1" duration="11/24s" audioStart="5/12s" audioDuration="59/24s" tcFormat="NDF" ref="r43" offset="0/1s">
                                     <timeMap frameSampling="floor">
                                         <timept value="0/1s" interp="smooth2" time="0/1s"/>
                                         <timept inTime="1/8s" value="25/12s" interp="smooth2" outTime="1/8s" time="25/12s"/>
@@ -618,9 +720,9 @@
                                     <adjust-volume amount="-10.1"/>
                                 </asset-clip>
                                 <transition name="Cross Dissolve" duration="1/6s" offset="3/8s">
-                                    <filter-video name="Cross Dissolve" ref="r7"/>
+                                    <filter-video name="Cross Dissolve" ref="r1"/>
                                 </transition>
-                                <clip start="13/15s" format="r27" name="VALORANT_replay_2022.08.19-02.31_Trim.mov" enabled="1" duration="2/1s" tcFormat="NDF" offset="11/24s">
+                                <clip start="13/15s" format="r29" name="VALORANT_replay_2022.08.19-02.31_Trim.mov" enabled="1" duration="2/1s" tcFormat="NDF" offset="11/24s">
                                     <timeMap frameSampling="optical-flow">
                                         <timept value="0/1s" interp="smooth2" time="0/1s"/>
                                         <timept inTime="1/8s" value="25/12s" interp="smooth2" outTime="1/8s" time="25/12s"/>
@@ -628,11 +730,17 @@
                                         <timept value="701/240s" interp="smooth2" time="380242/124875s"/>
                                     </timeMap>
                                     <adjust-transform position="0 0" scale="1 1" anchor="0 0"/>
-                                    <video start="0/1s" duration="89/30s" ref="r42" offset="0/1s"/>
+                                    <video start="0/1s" duration="89/30s" ref="r44" offset="0/1s"/>
                                 </clip>
+                                <transition name="Cross Dissolve" duration="1/1s" offset="35/24s">
+                                    <filter-video name="Cross Dissolve" ref="r1"/>
+                                </transition>
                             </spine>
                             <spine lane="10" offset="43313/12s">
-                                <asset-clip start="7/12s" format="r43" name="Valorant_2022.09.29_-_23.53.47.03.DVR_Trim.mov" enabled="1" duration="35/12s" audioStart="0/1s" audioDuration="3/4s" tcFormat="NDF" ref="r44" offset="0/1s">
+                                <transition name="Cross Dissolve" duration="1/4s" offset="0/1s">
+                                    <filter-video name="Cross Dissolve" ref="r1"/>
+                                </transition>
+                                <asset-clip start="7/12s" format="r45" name="Valorant_2022.09.29_-_23.53.47.03.DVR_Trim.mov" enabled="1" duration="35/12s" audioStart="0/1s" audioDuration="3/4s" tcFormat="NDF" ref="r46" offset="0/1s">
                                     <timeMap frameSampling="floor">
                                         <timept value="0/1s" interp="linear" time="0/1s"/>
                                         <timept value="19/12s" interp="linear" time="19/12s"/>
@@ -652,48 +760,48 @@
                                     <adjust-volume amount="-7.08"/>
                                 </asset-clip>
                                 <transition name="Cross Dissolve" duration="1/6s" offset="11/4s">
-                                    <filter-video name="Cross Dissolve" ref="r7"/>
+                                    <filter-video name="Cross Dissolve" ref="r1"/>
                                 </transition>
                             </spine>
-                            <asset-clip start="0/1s" format="r45" name="Quick 1.mp4" enabled="1" duration="1/3s" audioStart="0/1s" audioDuration="3/8s" tcFormat="NDF" ref="r46" lane="12" offset="86521/24s">
+                            <asset-clip start="0/1s" format="r47" name="Quick 1.mp4" enabled="1" duration="1/3s" audioStart="0/1s" audioDuration="3/8s" tcFormat="NDF" ref="r48" lane="12" offset="86521/24s">
                                 <adjust-transform position="0 0" scale="1 1" anchor="0 0"/>
                                 <adjust-blend mode="8 (Add)" amount="0.5496"/>
                             </asset-clip>
-                            <asset-clip start="0/1s" format="r45" name="Quick 1.mp4" enabled="1" duration="3/8s" tcFormat="NDF" ref="r47" lane="12" offset="43315/12s">
+                            <asset-clip start="0/1s" format="r47" name="Quick 1.mp4" enabled="1" duration="3/8s" tcFormat="NDF" ref="r49" lane="12" offset="43315/12s">
                                 <adjust-transform position="0 0" scale="1 1" anchor="0 0"/>
                                 <adjust-blend mode="8 (Add)"/>
                             </asset-clip>
-                            <clip start="0/1s" format="r45" name="Quick 1.mp4" enabled="1" duration="3/8s" tcFormat="NDF" lane="12" offset="28889/8s">
+                            <clip start="0/1s" format="r47" name="Quick 1.mp4" enabled="1" duration="3/8s" tcFormat="NDF" lane="12" offset="28889/8s">
                                 <adjust-transform position="0 0" scale="1 1" anchor="0 0"/>
                                 <adjust-blend mode="8 (Add)"/>
-                                <video start="0/1s" duration="2/5s" ref="r48" offset="0/1s"/>
+                                <video start="0/1s" duration="2/5s" ref="r50" offset="0/1s"/>
                             </clip>
-                            <asset-clip start="0/1s" format="r49" name="Free _Flicker_ Overlay (1080p).mp4" enabled="1" duration="233/8s" tcFormat="NDF" ref="r50" lane="13" offset="3600/1s">
+                            <asset-clip start="0/1s" format="r51" name="Free _Flicker_ Overlay (1080p).mp4" enabled="1" duration="233/8s" tcFormat="NDF" ref="r52" lane="13" offset="3600/1s">
                                 <adjust-transform position="0 0" scale="1 1" anchor="0 0"/>
                                 <adjust-blend amount="0.5191"/>
                             </asset-clip>
-                            <asset-clip start="0/1s" format="r49" name="Free _Flicker_ Overlay (1080p).mp4" enabled="1" duration="323/12s" tcFormat="NDF" ref="r51" lane="13" offset="29033/8s">
+                            <asset-clip start="0/1s" format="r51" name="Free _Flicker_ Overlay (1080p).mp4" enabled="1" duration="323/12s" tcFormat="NDF" ref="r53" lane="13" offset="29033/8s">
                                 <adjust-transform position="0 0" scale="1 1" anchor="0 0"/>
                                 <adjust-blend amount="0.6336"/>
                             </asset-clip>
                             <spine lane="14" offset="3600/1s">
                                 <transition name="Cross Fade -3 dB" duration="1/1s" offset="0/1s">
-                                    <filter-video name="Cross Fade -3 dB" ref="r7"/>
+                                    <filter-video name="Cross Fade -3 dB" ref="r1"/>
                                 </transition>
-                                <asset-clip start="651/8s" name="ian  Magic Johnson Official Audio.mp3" enabled="1" duration="1339/24s" ref="r52" offset="0/1s">
+                                <asset-clip start="651/8s" name="ian  Magic Johnson Official Audio.mp3" enabled="1" duration="1339/24s" ref="r54" offset="0/1s">
                                     <adjust-volume amount="-21"/>
                                 </asset-clip>
                             </spine>
                             <spine lane="15" offset="10841/3s">
                                 <transition name="Cross Fade 0 dB" duration="17/24s" offset="0/1s">
-                                    <filter-video name="Cross Fade 0 dB" ref="r7"/>
+                                    <filter-video name="Cross Fade 0 dB" ref="r1"/>
                                 </transition>
-                                <asset-clip start="9/8s" name="Reyna Ultimate Voice Line.mp3" enabled="1" duration="5/3s" ref="r53" offset="0/1s">
+                                <asset-clip start="9/8s" name="Reyna Ultimate Voice Line.mp3" enabled="1" duration="5/3s" ref="r55" offset="0/1s">
                                     <adjust-volume amount="-13.87"/>
                                 </asset-clip>
                             </spine>
-                            <asset-clip start="23/8s" name="Reyna Ultimate Voice Line.mp3" enabled="1" duration="1/6s" ref="r54" lane="15" offset="10846/3s"/>
-                            <asset-clip start="23/8s" name="Jett Ultimate Voice Line.mp3" enabled="1" duration="19/8s" ref="r55" lane="16" offset="29067/8s">
+                            <asset-clip start="23/8s" name="Reyna Ultimate Voice Line.mp3" enabled="1" duration="1/6s" ref="r56" lane="15" offset="10846/3s"/>
+                            <asset-clip start="23/8s" name="Jett Ultimate Voice Line.mp3" enabled="1" duration="19/8s" ref="r57" lane="16" offset="29067/8s">
                                 <adjust-volume amount="-15"/>
                             </asset-clip>
                             <clip start="217/24s" name="53ebea34-bd50-4dc6-a4a0-34dbee7977fe.mp4" enabled="1" duration="13/24s" lane="17" offset="7239/2s">
@@ -707,7 +815,7 @@
                                     <timept value="38278349/1998000s" interp="linear" time="38235697/1998000s"/>
                                 </timeMap>
                                 <adjust-volume amount="-23"/>
-                                <audio start="0/1s" duration="96/5s" srcCh="1, 2" ref="r56" offset="0/1s"/>
+                                <audio start="0/1s" duration="96/5s" srcCh="1, 2" ref="r58" offset="0/1s"/>
                             </clip>
                             <clip start="62/3s" name="0a447319-96a0-4528-85d3-2fc8f14e1515.mp4" enabled="1" duration="1/3s" lane="21" offset="29101/8s">
                                 <timeMap>
@@ -720,7 +828,7 @@
                                     <timept value="2771/120s" interp="linear" time="67010677/1998000s"/>
                                 </timeMap>
                                 <adjust-volume amount="-100"/>
-                                <audio start="0/1s" duration="347/15s" srcCh="1, 2" ref="r57" offset="0/1s"/>
+                                <audio start="0/1s" duration="347/15s" srcCh="1, 2" ref="r59" offset="0/1s"/>
                             </clip>
                             <clip start="515/24s" name="0a447319-96a0-4528-85d3-2fc8f14e1515.mp4" enabled="1" duration="7/6s" lane="21" offset="87311/24s">
                                 <timeMap>
@@ -733,7 +841,7 @@
                                     <timept value="2771/120s" interp="linear" time="67010677/1998000s"/>
                                 </timeMap>
                                 <adjust-volume amount="-25"/>
-                                <audio start="0/1s" duration="347/15s" srcCh="1, 2" ref="r58" offset="0/1s"/>
+                                <audio start="0/1s" duration="347/15s" srcCh="1, 2" ref="r60" offset="0/1s"/>
                             </clip>
                             <clip start="259/12s" name="0a447319-96a0-4528-85d3-2fc8f14e1515.mp4" enabled="1" duration="1/2s" lane="21" offset="3645/1s">
                                 <timeMap>
@@ -743,7 +851,7 @@
                                     <timept value="2771/120s" interp="linear" time="11234149/499500s"/>
                                 </timeMap>
                                 <adjust-volume amount="-89.4"/>
-                                <audio start="0/1s" duration="347/15s" srcCh="1, 2" ref="r59" offset="0/1s"/>
+                                <audio start="0/1s" duration="347/15s" srcCh="1, 2" ref="r61" offset="0/1s"/>
                             </clip>
                             <clip start="177/8s" name="0a447319-96a0-4528-85d3-2fc8f14e1515.mp4" enabled="1" duration="7/24s" lane="21" offset="87493/24s">
                                 <timeMap>
@@ -753,7 +861,7 @@
                                     <timept value="2771/120s" interp="linear" time="11234149/499500s"/>
                                 </timeMap>
                                 <adjust-volume amount="-21.4"/>
-                                <audio start="0/1s" duration="347/15s" srcCh="1, 2" ref="r60" offset="0/1s"/>
+                                <audio start="0/1s" duration="347/15s" srcCh="1, 2" ref="r62" offset="0/1s"/>
                             </clip>
                             <clip start="7/4s" name="49573b75-5b88-49b5-a033-eb7a7a09510c.mp4" enabled="1" duration="5/24s" lane="23" offset="14403/4s">
                                 <timeMap>
@@ -765,7 +873,7 @@
                                     <timept value="25076981/999000s" interp="smooth2" time="2463287/74000s"/>
                                 </timeMap>
                                 <adjust-volume amount="-100"/>
-                                <audio start="0/1s" duration="377/15s" srcCh="1, 2" ref="r61" offset="0/1s"/>
+                                <audio start="0/1s" duration="377/15s" srcCh="1, 2" ref="r63" offset="0/1s"/>
                             </clip>
                             <clip start="47/24s" name="49573b75-5b88-49b5-a033-eb7a7a09510c.mp4" enabled="1" duration="1/4s" lane="23" offset="86423/24s">
                                 <timeMap>
@@ -777,7 +885,7 @@
                                     <timept value="25076981/999000s" interp="smooth2" time="2463287/74000s"/>
                                 </timeMap>
                                 <adjust-volume amount="-25"/>
-                                <audio start="0/1s" duration="377/15s" srcCh="1, 2" ref="r62" offset="0/1s"/>
+                                <audio start="0/1s" duration="377/15s" srcCh="1, 2" ref="r64" offset="0/1s"/>
                             </clip>
                             <clip start="9/8s" name="Valorant_2022.09.29_-_23.53.47.03.DVR_Trim.mov" enabled="1" duration="55/24s" lane="24" offset="86639/24s">
                                 <timeMap>
@@ -787,7 +895,7 @@
                                     <timept value="463/120s" interp="linear" time="1289/360s"/>
                                 </timeMap>
                                 <adjust-volume amount="-7.08"/>
-                                <audio start="0/1s" duration="39/10s" srcCh="1, 2" ref="r63" offset="0/1s"/>
+                                <audio start="0/1s" duration="39/10s" srcCh="1, 2" ref="r65" offset="0/1s"/>
                             </clip>
                         </gap>
                     </spine>
