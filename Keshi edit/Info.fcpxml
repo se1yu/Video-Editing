@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fcpxml>
+<fcpxml version="1.11">
+    <resources>
+        <format name="FFVideoFormat1080p24" frameDuration="1/24s" width="1920" id="r0" height="1080"/>
+        <format name="FFVideoFormat1440x1080p2398" frameDuration="1001/24000s" width="1440" id="r1" height="1080"/>
+        <format name="FFVideoFormat1080p2398" frameDuration="1001/24000s" width="1920" id="r3" height="1080"/>
+        <format name="FFVideoFormatRateUndefined" frameDuration="1001/24000s" width="1920" id="r10" height="802"/>
+        <effect name="Cross Dissolve" uid="FxPlug:4731E73A-8DAC-4113-9A30-AE85B1761265" id="r5"/>
+        <asset name="Requiem (Official Album Trailer).mp4" id="r2" hasVideo="1" audioSources="1" hasAudio="1" format="r1" duration="733733/12000s" audioChannels="2" start="0/1s">
+            <media-rep src="file://localhost/C:/Users/kayos/Downloads/Requiem%20(Official%20Album%20Trailer).mp4" kind="original-media"/>
+        </asset>
+        <asset name="keshi - LIMBO (Live Performance) _ Vevo.mp4" id="r4" hasVideo="1" audioSources="1" hasAudio="1" format="r3" duration="737737/4000s" audioChannels="2" start="0/1s">
+            <media-rep src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20LIMBO%20(Live%20Performance)%20_%20Vevo.mp4" kind="original-media"/>
+        </asset>
+        <asset name="keshi - LIMBO (Live Performance) _ Vevo.mp4" id="r6" hasVideo="1" audioSources="1" hasAudio="1" format="r3" duration="737737/4000s" audioChannels="2" start="0/1s">
+            <media-rep src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20LIMBO%20(Live%20Performance)%20_%20Vevo.mp4" kind="original-media"/>
+        </asset>
+        <asset name="keshi - LIMBO (Live Performance) _ Vevo.mp4" id="r7" hasVideo="1" audioSources="1" hasAudio="1" format="r3" duration="737737/4000s" audioChannels="2" start="0/1s">
+            <media-rep src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20LIMBO%20(Live%20Performance)%20_%20Vevo.mp4" kind="original-media"/>
+        </asset>
+        <asset name="keshi - LIMBO (Live Performance) _ Vevo.mp4" id="r8" hasVideo="1" audioSources="1" hasAudio="1" format="r3" duration="737737/4000s" audioChannels="2" start="0/1s">
+            <media-rep src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20LIMBO%20(Live%20Performance)%20_%20Vevo.mp4" kind="original-media"/>
+        </asset>
+        <asset name="keshi - LIMBO (Live Performance) _ Vevo.mp4" id="r9" hasVideo="1" audioSources="1" hasAudio="1" format="r3" duration="737737/4000s" audioChannels="2" start="0/1s">
+            <media-rep src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20LIMBO%20(Live%20Performance)%20_%20Vevo.mp4" kind="original-media"/>
+        </asset>
+        <asset name="keshi - Say (Official Music Video).mp4" id="r11" hasVideo="1" audioSources="1" hasAudio="1" format="r10" duration="741741/4000s" audioChannels="2" start="0/1s">
+            <media-rep src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20Say%20(Official%20Music%20Video).mp4" kind="original-media"/>
+        </asset>
+        <asset name="keshi - Say (Official Music Video).mp4" id="r12" hasVideo="1" audioSources="1" hasAudio="1" format="r10" duration="741741/4000s" audioChannels="2" start="0/1s">
+            <media-rep src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20Say%20(Official%20Music%20Video).mp4" kind="original-media"/>
+        </asset>
+        <asset name="keshi - Say (Official Music Video).mp4" id="r13" hasVideo="1" audioSources="1" hasAudio="1" format="r10" duration="741741/4000s" audioChannels="2" start="0/1s">
+            <media-rep src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20Say%20(Official%20Music%20Video).mp4" kind="original-media"/>
+        </asset>
+        <asset name="keshi - Say (Official Music Video).mp4" id="r14" hasVideo="1" audioSources="1" hasAudio="1" format="r10" duration="741741/4000s" audioChannels="2" start="0/1s">
+            <media-rep src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20Say%20(Official%20Music%20Video).mp4" kind="original-media"/>
+        </asset>
+        <asset name="keshi - Say (Official Music Video).mp4" id="r15" hasVideo="1" audioSources="1" hasAudio="1" format="r10" duration="741741/4000s" audioChannels="2" start="0/1s">
+            <media-rep src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20Say%20(Official%20Music%20Video).mp4" kind="original-media"/>
+        </asset>
+        <asset name="keshi - Say (Official Music Video).mp4" id="r16" hasVideo="1" audioSources="1" hasAudio="1" format="r10" duration="741741/4000s" audioChannels="2" start="0/1s">
+            <media-rep src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20Say%20(Official%20Music%20Video).mp4" kind="original-media"/>
+        </asset>
+        <asset name="keshi - Say (Official Music Video).mp4" id="r17" hasVideo="1" audioSources="1" hasAudio="1" format="r10" duration="741741/4000s" audioChannels="2" start="0/1s">
+            <media-rep src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20Say%20(Official%20Music%20Video).mp4" kind="original-media"/>
+        </asset>
+        <asset name="keshi - LIMBO (Live Performance) _ Vevo.mp4" id="r18" audioSources="1" hasAudio="1" duration="368499631/1998000s" audioChannels="2" start="0/1s">
+            <media-rep src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20LIMBO%20(Live%20Performance)%20_%20Vevo.mp4" kind="original-media"/>
+        </asset>
+    </resources>
+    <library>
+        <event name="Timeline 1 (Resolve)">
+            <project name="Timeline 1 (Resolve)">
+                <sequence tcStart="3600/1s" tcFormat="NDF" format="r0" duration="1523/8s">
+                    <spine>
+                        <asset-clip name="Requiem (Official Album Trailer).mp4" tcFormat="NDF" ref="r2" enabled="1" offset="3600/1s" format="r1" duration="489/8s" start="0/1s">
+                            <adjust-transform scale="1 1" position="0 0" anchor="0 0"/>
+                            <spine offset="0/1s" lane="1">
+                                <clip name="keshi - LIMBO (Live Performance) _ Vevo.mp4" tcFormat="NDF" enabled="1" offset="0/1s" format="r3" duration="9/8s" start="47047/4800s">
+                                    <adjust-transform scale="1 1" position="0 0" anchor="0 0"/>
+                                    <video ref="r4" offset="0/1s" duration="737737/4000s" start="0/1s"/>
+                                </clip>
+                                <transition name="Cross Dissolve" offset="23/24s" duration="1/6s">
+                                    <filter-video name="Cross Dissolve" ref="r5"/>
+                                </transition>
+                            </spine>
+                            <spine offset="9/8s" lane="1">
+                                <clip name="keshi - LIMBO (Live Performance) _ Vevo.mp4" tcFormat="NDF" enabled="1" offset="0/1s" format="r3" duration="1/6s" start="13013/1200s">
+                                    <adjust-transform scale="1 1" position="0 0" anchor="0 0"/>
+                                    <video ref="r6" offset="0/1s" duration="737737/4000s" start="0/1s"/>
+                                </clip>
+                                <transition name="Cross Dissolve" offset="1/8s" duration="1/12s">
+                                    <filter-video name="Cross Dissolve" ref="r5"/>
+                                </transition>
+                                <clip name="keshi - LIMBO (Live Performance) _ Vevo.mp4" tcFormat="NDF" enabled="1" offset="1/6s" format="r3" duration="5/12s" start="11011/1000s">
+                                    <adjust-transform scale="1 1" position="0 0" anchor="0 0"/>
+                                    <video ref="r7" offset="0/1s" duration="737737/4000s" start="0/1s"/>
+                                </clip>
+                            </spine>
+                            <asset-clip name="keshi - LIMBO (Live Performance) _ Vevo.mp4" audioStart="1001/125s" tcFormat="NDF" ref="r8" enabled="1" offset="41/24s" lane="1" audioDuration="23/6s" format="r3" duration="17/8s" start="137137/12000s">
+                                <adjust-transform scale="1 1" position="0 0" anchor="0 0"/>
+                            </asset-clip>
+                            <asset-clip name="keshi - LIMBO (Live Performance) _ Vevo.mp4" tcFormat="NDF" ref="r9" enabled="1" offset="427/24s" lane="1" format="r3" duration="2071/12s" start="71071/6000s">
+                                <adjust-transform scale="1 1" position="0 0" anchor="0 0"/>
+                            </asset-clip>
+                            <spine offset="25/24s" lane="2">
+                                <clip name="keshi - Say (Official Music Video).mp4" tcFormat="NDF" enabled="1" offset="0/1s" format="r10" duration="1/6s" start="97097/24000s">
+                                    <adjust-transform scale="1.45 1.45" position="0 0" anchor="0 0"/>
+                                    <video ref="r11" offset="0/1s" duration="741741/4000s" start="0/1s"/>
+                                </clip>
+                                <transition name="Cross Dissolve" offset="1/8s" duration="1/24s">
+                                    <filter-video name="Cross Dissolve" ref="r5"/>
+                                </transition>
+                            </spine>
+                            <asset-clip name="keshi - Say (Official Music Video).mp4" audioStart="0/1s" tcFormat="NDF" ref="r12" enabled="1" offset="31/24s" lane="2" audioDuration="2225/12s" format="r10" duration="1/8s" start="33033/8000s">
+                                <adjust-transform scale="1.45 1.45" position="0 0" anchor="0 0"/>
+                            </asset-clip>
+                            <spine offset="3/2s" lane="2">
+                                <transition name="Cross Dissolve" offset="0/1s" duration="5/12s">
+                                    <filter-video name="Cross Dissolve" ref="r5"/>
+                                </transition>
+                                <clip name="keshi - Say (Official Music Video).mp4" tcFormat="NDF" enabled="1" offset="0/1s" format="r10" duration="5/12s" start="11011/2400s">
+                                    <adjust-transform scale="1.45 1.45" position="0 0" anchor="0 0"/>
+                                    <video ref="r13" offset="0/1s" duration="741741/4000s" start="0/1s"/>
+                                </clip>
+                            </spine>
+                            <clip name="keshi - Say (Official Music Video).mp4" tcFormat="NDF" enabled="1" offset="25/12s" lane="2" format="r10" duration="5/24s" start="1001/192s">
+                                <adjust-transform scale="1.45 1.45" position="0 0" anchor="0 0"/>
+                                <video ref="r14" offset="0/1s" duration="741741/4000s" start="0/1s"/>
+                            </clip>
+                            <clip name="keshi - Say (Official Music Video).mp4" tcFormat="NDF" enabled="1" offset="61/24s" lane="2" format="r10" duration="1/2s" start="17017/3000s">
+                                <adjust-transform scale="1.45 1.45" position="0 0" anchor="0 0"/>
+                                <video ref="r15" offset="0/1s" duration="741741/4000s" start="0/1s"/>
+                            </clip>
+                            <clip name="keshi - Say (Official Music Video).mp4" tcFormat="NDF" enabled="1" offset="13/3s" lane="2" format="r10" duration="83/24s" start="23023/4000s">
+                                <adjust-transform scale="1.45 1.45" position="0 0" anchor="0 0"/>
+                                <video ref="r16" offset="0/1s" duration="741741/4000s" start="0/1s"/>
+                            </clip>
+                            <clip name="keshi - Say (Official Music Video).mp4" tcFormat="NDF" enabled="1" offset="263/24s" lane="2" format="r10" duration="4229/24s" start="221221/24000s">
+                                <adjust-transform scale="1.45 1.45" position="0 0" anchor="0 0"/>
+                                <video ref="r17" offset="0/1s" duration="741741/4000s" start="0/1s"/>
+                            </clip>
+                            <clip name="keshi - LIMBO (Live Performance) _ Vevo.mp4" enabled="1" offset="0/1s" lane="4" duration="199/24s" start="0/1s">
+                                <audio ref="r18" offset="0/1s" srcCh="1, 2" duration="368499631/1998000s" start="0/1s"/>
+                            </clip>
+                        </asset-clip>
+                        <gap name="Gap" offset="29289/8s" duration="517/4s" start="3600/1s"/>
+                    </spine>
+                </sequence>
+            </project>
+        </event>
+    </library>
+</fcpxml>
