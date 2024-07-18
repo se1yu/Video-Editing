@@ -2,281 +2,390 @@
 <!DOCTYPE fcpxml>
 <fcpxml version="1.11">
     <resources>
-        <format name="FFVideoFormat1080p24" frameDuration="1/24s" width="1920" id="r0" height="1080"/>
-        <format name="FFVideoFormat1440x1080p2398" frameDuration="1001/24000s" width="1440" id="r1" height="1080"/>
-        <format name="FFVideoFormat1080p2398" frameDuration="1001/24000s" width="1920" id="r4" height="1080"/>
-        <format name="FFVideoFormatRateUndefined" frameDuration="1001/24000s" width="1920" id="r7" height="802"/>
-        <effect name="Cross Dissolve" uid="FxPlug:4731E73A-8DAC-4113-9A30-AE85B1761265" id="r11"/>
-        <asset name="Requiem (Official Album Trailer).mp4" id="r2" hasVideo="1" audioSources="1" hasAudio="1" format="r1" duration="733733/12000s" audioChannels="2" start="0/1s">
-            <media-rep src="file://localhost/C:/Users/kayos/Downloads/Requiem%20(Official%20Album%20Trailer).mp4" kind="original-media"/>
+        <format id="r0" name="FFVideoFormat1080p24" width="1920" height="1080" frameDuration="1/24s"/>
+        <format id="r1" name="FFVideoFormat1440x1080p2398" width="1440" height="1080" frameDuration="1001/24000s"/>
+        <format id="r4" name="FFVideoFormat1080p2398" width="1920" height="1080" frameDuration="1001/24000s"/>
+        <format id="r7" name="FFVideoFormatRateUndefined" width="1920" height="802" frameDuration="1001/24000s"/>
+        <effect id="r36" name="Cross Dissolve" uid="FxPlug:4731E73A-8DAC-4113-9A30-AE85B1761265"/>
+        <asset format="r1" hasAudio="1" duration="733733/12000s" id="r2" name="Requiem (Official Album Trailer).mp4" audioSources="1" start="0/1s" hasVideo="1" audioChannels="2">
+            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/Requiem%20(Official%20Album%20Trailer).mp4"/>
         </asset>
-        <asset name="Requiem (Official Album Trailer).mp4" id="r3" hasVideo="1" audioSources="1" hasAudio="1" format="r1" duration="733733/12000s" audioChannels="2" start="0/1s">
-            <media-rep src="file://localhost/C:/Users/kayos/Downloads/Requiem%20(Official%20Album%20Trailer).mp4" kind="original-media"/>
+        <asset format="r1" hasAudio="1" duration="733733/12000s" id="r3" name="Requiem (Official Album Trailer).mp4" audioSources="1" start="0/1s" hasVideo="1" audioChannels="2">
+            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/Requiem%20(Official%20Album%20Trailer).mp4"/>
         </asset>
-        <asset name="keshi - LIMBO (Live Performance) _ Vevo.mp4" id="r5" hasVideo="1" audioSources="1" hasAudio="1" format="r4" duration="737737/4000s" audioChannels="2" start="0/1s">
-            <media-rep src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20LIMBO%20(Live%20Performance)%20_%20Vevo.mp4" kind="original-media"/>
+        <asset format="r4" hasAudio="1" duration="737737/4000s" id="r5" name="keshi - LIMBO (Live Performance) _ Vevo.mp4" audioSources="1" start="0/1s" hasVideo="1" audioChannels="2">
+            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20LIMBO%20(Live%20Performance)%20_%20Vevo.mp4"/>
         </asset>
-        <asset name="keshi - LIMBO (Live Performance) _ Vevo.mp4" id="r6" hasVideo="1" audioSources="1" hasAudio="1" format="r4" duration="737737/4000s" audioChannels="2" start="0/1s">
-            <media-rep src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20LIMBO%20(Live%20Performance)%20_%20Vevo.mp4" kind="original-media"/>
+        <asset format="r4" hasAudio="1" duration="737737/4000s" id="r6" name="keshi - LIMBO (Live Performance) _ Vevo.mp4" audioSources="1" start="0/1s" hasVideo="1" audioChannels="2">
+            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20LIMBO%20(Live%20Performance)%20_%20Vevo.mp4"/>
         </asset>
-        <asset name="keshi - Say (Official Music Video).mp4" id="r8" hasVideo="1" audioSources="1" hasAudio="1" format="r7" duration="741741/4000s" audioChannels="2" start="0/1s">
-            <media-rep src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20Say%20(Official%20Music%20Video).mp4" kind="original-media"/>
+        <asset format="r7" hasAudio="1" duration="741741/4000s" id="r8" name="keshi - Say (Official Music Video).mp4" audioSources="1" start="0/1s" hasVideo="1" audioChannels="2">
+            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20Say%20(Official%20Music%20Video).mp4"/>
         </asset>
-        <asset name="keshi - Say (Official Music Video).mp4" id="r9" hasVideo="1" audioSources="1" hasAudio="1" format="r7" duration="741741/4000s" audioChannels="2" start="0/1s">
-            <media-rep src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20Say%20(Official%20Music%20Video).mp4" kind="original-media"/>
+        <asset format="r7" hasAudio="1" duration="741741/4000s" id="r9" name="keshi - Say (Official Music Video).mp4" audioSources="1" start="0/1s" hasVideo="1" audioChannels="2">
+            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20Say%20(Official%20Music%20Video).mp4"/>
         </asset>
-        <asset name="keshi - Say (Official Music Video).mp4" id="r10" hasVideo="1" audioSources="1" hasAudio="1" format="r7" duration="741741/4000s" audioChannels="2" start="0/1s">
-            <media-rep src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20Say%20(Official%20Music%20Video).mp4" kind="original-media"/>
+        <asset format="r7" hasAudio="1" duration="741741/4000s" id="r10" name="keshi - Say (Official Music Video).mp4" audioSources="1" start="0/1s" hasVideo="1" audioChannels="2">
+            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20Say%20(Official%20Music%20Video).mp4"/>
         </asset>
-        <asset name="keshi - Say (Official Music Video).mp4" id="r12" hasVideo="1" audioSources="1" hasAudio="1" format="r7" duration="741741/4000s" audioChannels="2" start="0/1s">
-            <media-rep src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20Say%20(Official%20Music%20Video).mp4" kind="original-media"/>
+        <asset format="r7" hasAudio="1" duration="741741/4000s" id="r11" name="keshi - Say (Official Music Video).mp4" audioSources="1" start="0/1s" hasVideo="1" audioChannels="2">
+            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20Say%20(Official%20Music%20Video).mp4"/>
         </asset>
-        <asset name="keshi - Say (Official Music Video).mp4" id="r13" hasVideo="1" audioSources="1" hasAudio="1" format="r7" duration="741741/4000s" audioChannels="2" start="0/1s">
-            <media-rep src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20Say%20(Official%20Music%20Video).mp4" kind="original-media"/>
+        <asset format="r7" hasAudio="1" duration="741741/4000s" id="r12" name="keshi - Say (Official Music Video).mp4" audioSources="1" start="0/1s" hasVideo="1" audioChannels="2">
+            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20Say%20(Official%20Music%20Video).mp4"/>
         </asset>
-        <asset name="keshi - Say (Official Music Video).mp4" id="r14" hasVideo="1" audioSources="1" hasAudio="1" format="r7" duration="741741/4000s" audioChannels="2" start="0/1s">
-            <media-rep src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20Say%20(Official%20Music%20Video).mp4" kind="original-media"/>
+        <asset format="r7" hasAudio="1" duration="741741/4000s" id="r13" name="keshi - Say (Official Music Video).mp4" audioSources="1" start="0/1s" hasVideo="1" audioChannels="2">
+            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20Say%20(Official%20Music%20Video).mp4"/>
         </asset>
-        <asset name="keshi - Say (Official Music Video).mp4" id="r15" hasVideo="1" audioSources="1" hasAudio="1" format="r7" duration="741741/4000s" audioChannels="2" start="0/1s">
-            <media-rep src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20Say%20(Official%20Music%20Video).mp4" kind="original-media"/>
+        <asset format="r7" hasAudio="1" duration="741741/4000s" id="r14" name="keshi - Say (Official Music Video).mp4" audioSources="1" start="0/1s" hasVideo="1" audioChannels="2">
+            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20Say%20(Official%20Music%20Video).mp4"/>
         </asset>
-        <asset name="keshi - Say (Official Music Video).mp4" id="r16" hasVideo="1" audioSources="1" hasAudio="1" format="r7" duration="741741/4000s" audioChannels="2" start="0/1s">
-            <media-rep src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20Say%20(Official%20Music%20Video).mp4" kind="original-media"/>
+        <asset format="r7" hasAudio="1" duration="741741/4000s" id="r15" name="keshi - Say (Official Music Video).mp4" audioSources="1" start="0/1s" hasVideo="1" audioChannels="2">
+            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20Say%20(Official%20Music%20Video).mp4"/>
         </asset>
-        <asset name="keshi - Say (Official Music Video).mp4" id="r17" hasVideo="1" audioSources="1" hasAudio="1" format="r7" duration="741741/4000s" audioChannels="2" start="0/1s">
-            <media-rep src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20Say%20(Official%20Music%20Video).mp4" kind="original-media"/>
+        <asset format="r7" hasAudio="1" duration="741741/4000s" id="r16" name="keshi - Say (Official Music Video).mp4" audioSources="1" start="0/1s" hasVideo="1" audioChannels="2">
+            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20Say%20(Official%20Music%20Video).mp4"/>
         </asset>
-        <asset name="keshi - Say (Official Music Video).mp4" id="r18" hasVideo="1" audioSources="1" hasAudio="1" format="r7" duration="741741/4000s" audioChannels="2" start="0/1s">
-            <media-rep src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20Say%20(Official%20Music%20Video).mp4" kind="original-media"/>
+        <asset format="r7" hasAudio="1" duration="741741/4000s" id="r17" name="keshi - Say (Official Music Video).mp4" audioSources="1" start="0/1s" hasVideo="1" audioChannels="2">
+            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20Say%20(Official%20Music%20Video).mp4"/>
         </asset>
-        <asset name="keshi - Say (Official Music Video).mp4" id="r19" hasVideo="1" audioSources="1" hasAudio="1" format="r7" duration="741741/4000s" audioChannels="2" start="0/1s">
-            <media-rep src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20Say%20(Official%20Music%20Video).mp4" kind="original-media"/>
+        <asset format="r7" hasAudio="1" duration="741741/4000s" id="r18" name="keshi - Say (Official Music Video).mp4" audioSources="1" start="0/1s" hasVideo="1" audioChannels="2">
+            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20Say%20(Official%20Music%20Video).mp4"/>
         </asset>
-        <asset name="keshi - Say (Official Music Video).mp4" id="r20" hasVideo="1" audioSources="1" hasAudio="1" format="r7" duration="741741/4000s" audioChannels="2" start="0/1s">
-            <media-rep src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20Say%20(Official%20Music%20Video).mp4" kind="original-media"/>
+        <asset format="r7" hasAudio="1" duration="741741/4000s" id="r19" name="keshi - Say (Official Music Video).mp4" audioSources="1" start="0/1s" hasVideo="1" audioChannels="2">
+            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20Say%20(Official%20Music%20Video).mp4"/>
         </asset>
-        <asset name="keshi - Say (Official Music Video).mp4" id="r21" hasVideo="1" audioSources="1" hasAudio="1" format="r7" duration="741741/4000s" audioChannels="2" start="0/1s">
-            <media-rep src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20Say%20(Official%20Music%20Video).mp4" kind="original-media"/>
+        <asset format="r7" hasAudio="1" duration="741741/4000s" id="r20" name="keshi - Say (Official Music Video).mp4" audioSources="1" start="0/1s" hasVideo="1" audioChannels="2">
+            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20Say%20(Official%20Music%20Video).mp4"/>
         </asset>
-        <asset name="keshi - GABRIEL (Documentary – Presented by Amazon Music).mp4" id="r22" hasVideo="1" audioSources="1" hasAudio="1" format="r4" duration="7844837/4800s" audioChannels="2" start="0/1s">
-            <media-rep src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20GABRIEL%20(Documentary%20%E2%80%93%20Presented%20by%20Amazon%20Music).mp4" kind="original-media"/>
+        <asset format="r7" hasAudio="1" duration="741741/4000s" id="r21" name="keshi - Say (Official Music Video).mp4" audioSources="1" start="0/1s" hasVideo="1" audioChannels="2">
+            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20Say%20(Official%20Music%20Video).mp4"/>
         </asset>
-        <asset name="keshi - GABRIEL (Documentary – Presented by Amazon Music).mp4" id="r23" hasVideo="1" audioSources="1" hasAudio="1" format="r4" duration="7844837/4800s" audioChannels="2" start="0/1s">
-            <media-rep src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20GABRIEL%20(Documentary%20%E2%80%93%20Presented%20by%20Amazon%20Music).mp4" kind="original-media"/>
+        <asset format="r4" hasAudio="1" duration="7844837/4800s" id="r22" name="keshi - GABRIEL (Documentary – Presented by Amazon Music).mp4" audioSources="1" start="0/1s" hasVideo="1" audioChannels="2">
+            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20GABRIEL%20(Documentary%20%E2%80%93%20Presented%20by%20Amazon%20Music).mp4"/>
         </asset>
-        <asset name="keshi - GABRIEL (Documentary – Presented by Amazon Music).mp4" id="r24" hasVideo="1" audioSources="1" hasAudio="1" format="r4" duration="7844837/4800s" audioChannels="2" start="0/1s">
-            <media-rep src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20GABRIEL%20(Documentary%20%E2%80%93%20Presented%20by%20Amazon%20Music).mp4" kind="original-media"/>
+        <asset format="r4" hasAudio="1" duration="7844837/4800s" id="r23" name="keshi - GABRIEL (Documentary – Presented by Amazon Music).mp4" audioSources="1" start="0/1s" hasVideo="1" audioChannels="2">
+            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20GABRIEL%20(Documentary%20%E2%80%93%20Presented%20by%20Amazon%20Music).mp4"/>
         </asset>
-        <asset name="keshi - GABRIEL (Documentary – Presented by Amazon Music).mp4" id="r25" hasVideo="1" audioSources="1" hasAudio="1" format="r4" duration="7844837/4800s" audioChannels="2" start="0/1s">
-            <media-rep src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20GABRIEL%20(Documentary%20%E2%80%93%20Presented%20by%20Amazon%20Music).mp4" kind="original-media"/>
+        <asset format="r4" hasAudio="1" duration="7844837/4800s" id="r24" name="keshi - GABRIEL (Documentary – Presented by Amazon Music).mp4" audioSources="1" start="0/1s" hasVideo="1" audioChannels="2">
+            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20GABRIEL%20(Documentary%20%E2%80%93%20Presented%20by%20Amazon%20Music).mp4"/>
         </asset>
-        <asset name="keshi - GABRIEL (Documentary – Presented by Amazon Music).mp4" id="r26" hasVideo="1" audioSources="1" hasAudio="1" format="r4" duration="7844837/4800s" audioChannels="2" start="0/1s">
-            <media-rep src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20GABRIEL%20(Documentary%20%E2%80%93%20Presented%20by%20Amazon%20Music).mp4" kind="original-media"/>
+        <asset format="r4" hasAudio="1" duration="7844837/4800s" id="r25" name="keshi - GABRIEL (Documentary – Presented by Amazon Music).mp4" audioSources="1" start="0/1s" hasVideo="1" audioChannels="2">
+            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20GABRIEL%20(Documentary%20%E2%80%93%20Presented%20by%20Amazon%20Music).mp4"/>
         </asset>
-        <asset name="keshi - Say (Official Music Video).mp4" id="r27" hasVideo="1" audioSources="1" hasAudio="1" format="r7" duration="741741/4000s" audioChannels="2" start="0/1s">
-            <media-rep src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20Say%20(Official%20Music%20Video).mp4" kind="original-media"/>
+        <asset format="r7" hasAudio="1" duration="741741/4000s" id="r26" name="keshi - Say (Official Music Video).mp4" audioSources="1" start="0/1s" hasVideo="1" audioChannels="2">
+            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20Say%20(Official%20Music%20Video).mp4"/>
         </asset>
-        <asset name="keshi - Say (Official Music Video).mp4" id="r28" hasVideo="1" audioSources="1" hasAudio="1" format="r7" duration="741741/4000s" audioChannels="2" start="0/1s">
-            <media-rep src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20Say%20(Official%20Music%20Video).mp4" kind="original-media"/>
+        <asset format="r7" hasAudio="1" duration="741741/4000s" id="r27" name="keshi - Say (Official Music Video).mp4" audioSources="1" start="0/1s" hasVideo="1" audioChannels="2">
+            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20Say%20(Official%20Music%20Video).mp4"/>
         </asset>
-        <asset name="keshi - Say (Official Music Video).mp4" id="r29" hasVideo="1" audioSources="1" hasAudio="1" format="r7" duration="741741/4000s" audioChannels="2" start="0/1s">
-            <media-rep src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20Say%20(Official%20Music%20Video).mp4" kind="original-media"/>
+        <asset format="r7" hasAudio="1" duration="741741/4000s" id="r28" name="keshi - Say (Official Music Video).mp4" audioSources="1" start="0/1s" hasVideo="1" audioChannels="2">
+            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20Say%20(Official%20Music%20Video).mp4"/>
         </asset>
-        <asset name="keshi - LIMBO (Live Performance) _ Vevo.mp4" id="r30" hasVideo="1" audioSources="1" hasAudio="1" format="r4" duration="737737/4000s" audioChannels="2" start="0/1s">
-            <media-rep src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20LIMBO%20(Live%20Performance)%20_%20Vevo.mp4" kind="original-media"/>
+        <asset format="r4" hasAudio="1" duration="7844837/4800s" id="r29" name="keshi - GABRIEL (Documentary – Presented by Amazon Music).mp4" audioSources="1" start="0/1s" hasVideo="1" audioChannels="2">
+            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20GABRIEL%20(Documentary%20%E2%80%93%20Presented%20by%20Amazon%20Music).mp4"/>
         </asset>
-        <asset name="keshi - Say (Official Music Video).mp4" id="r31" hasVideo="1" audioSources="1" hasAudio="1" format="r7" duration="741741/4000s" audioChannels="2" start="0/1s">
-            <media-rep src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20Say%20(Official%20Music%20Video).mp4" kind="original-media"/>
+        <asset format="r4" hasAudio="1" duration="7844837/4800s" id="r30" name="keshi - GABRIEL (Documentary – Presented by Amazon Music).mp4" audioSources="1" start="0/1s" hasVideo="1" audioChannels="2">
+            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20GABRIEL%20(Documentary%20%E2%80%93%20Presented%20by%20Amazon%20Music).mp4"/>
         </asset>
-        <asset name="keshi - Say (Official Music Video).mp4" id="r32" hasVideo="1" audioSources="1" hasAudio="1" format="r7" duration="741741/4000s" audioChannels="2" start="0/1s">
-            <media-rep src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20Say%20(Official%20Music%20Video).mp4" kind="original-media"/>
+        <asset format="r4" hasAudio="1" duration="7844837/4800s" id="r31" name="keshi - GABRIEL (Documentary – Presented by Amazon Music).mp4" audioSources="1" start="0/1s" hasVideo="1" audioChannels="2">
+            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20GABRIEL%20(Documentary%20%E2%80%93%20Presented%20by%20Amazon%20Music).mp4"/>
         </asset>
-        <asset name="keshi - GABRIEL (Documentary – Presented by Amazon Music).mp4" id="r33" hasVideo="1" audioSources="1" hasAudio="1" format="r4" duration="7844837/4800s" audioChannels="2" start="0/1s">
-            <media-rep src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20GABRIEL%20(Documentary%20%E2%80%93%20Presented%20by%20Amazon%20Music).mp4" kind="original-media"/>
+        <asset format="r4" hasAudio="1" duration="7844837/4800s" id="r32" name="keshi - GABRIEL (Documentary – Presented by Amazon Music).mp4" audioSources="1" start="0/1s" hasVideo="1" audioChannels="2">
+            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20GABRIEL%20(Documentary%20%E2%80%93%20Presented%20by%20Amazon%20Music).mp4"/>
         </asset>
-        <asset name="keshi - GABRIEL (Documentary – Presented by Amazon Music).mp4" id="r34" hasVideo="1" audioSources="1" hasAudio="1" format="r4" duration="7844837/4800s" audioChannels="2" start="0/1s">
-            <media-rep src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20GABRIEL%20(Documentary%20%E2%80%93%20Presented%20by%20Amazon%20Music).mp4" kind="original-media"/>
+        <asset format="r7" hasAudio="1" duration="741741/4000s" id="r33" name="keshi - Say (Official Music Video).mp4" audioSources="1" start="0/1s" hasVideo="1" audioChannels="2">
+            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20Say%20(Official%20Music%20Video).mp4"/>
         </asset>
-        <asset name="keshi - LIMBO (Live Performance) _ Vevo.mp4" id="r35" hasVideo="1" audioSources="1" hasAudio="1" format="r4" duration="737737/4000s" audioChannels="2" start="0/1s">
-            <media-rep src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20LIMBO%20(Live%20Performance)%20_%20Vevo.mp4" kind="original-media"/>
+        <asset format="r7" hasAudio="1" duration="741741/4000s" id="r34" name="keshi - Say (Official Music Video).mp4" audioSources="1" start="0/1s" hasVideo="1" audioChannels="2">
+            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20Say%20(Official%20Music%20Video).mp4"/>
         </asset>
-        <asset name="keshi - LIMBO (Live Performance) _ Vevo.mp4" id="r36" audioSources="1" hasAudio="1" duration="368499631/1998000s" audioChannels="2" start="0/1s">
-            <media-rep src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20LIMBO%20(Live%20Performance)%20_%20Vevo.mp4" kind="original-media"/>
+        <asset format="r7" hasAudio="1" duration="741741/4000s" id="r35" name="keshi - Say (Official Music Video).mp4" audioSources="1" start="0/1s" hasVideo="1" audioChannels="2">
+            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20Say%20(Official%20Music%20Video).mp4"/>
         </asset>
-        <asset name="keshi - Say (Official Music Video).mp4" id="r37" audioSources="1" hasAudio="1" duration="370499629/1998000s" audioChannels="2" start="0/1s">
-            <media-rep src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20Say%20(Official%20Music%20Video).mp4" kind="original-media"/>
+        <asset format="r7" hasAudio="1" duration="741741/4000s" id="r37" name="keshi - Say (Official Music Video).mp4" audioSources="1" start="0/1s" hasVideo="1" audioChannels="2">
+            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20Say%20(Official%20Music%20Video).mp4"/>
         </asset>
-        <asset name="RPReplay_Final1721250134.MP4" id="r38" audioSources="1" hasAudio="1" duration="10860923/222000s" audioChannels="2" start="0/1s">
-            <media-rep src="file://localhost/C:/Users/kayos/Downloads/RPReplay_Final1721250134.MP4" kind="original-media"/>
+        <asset format="r7" hasAudio="1" duration="741741/4000s" id="r38" name="keshi - Say (Official Music Video).mp4" audioSources="1" start="0/1s" hasVideo="1" audioChannels="2">
+            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20Say%20(Official%20Music%20Video).mp4"/>
+        </asset>
+        <asset format="r4" hasAudio="1" duration="737737/4000s" id="r39" name="keshi - LIMBO (Live Performance) _ Vevo.mp4" audioSources="1" start="0/1s" hasVideo="1" audioChannels="2">
+            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20LIMBO%20(Live%20Performance)%20_%20Vevo.mp4"/>
+        </asset>
+        <asset format="r7" hasAudio="1" duration="741741/4000s" id="r40" name="keshi - Say (Official Music Video).mp4" audioSources="1" start="0/1s" hasVideo="1" audioChannels="2">
+            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20Say%20(Official%20Music%20Video).mp4"/>
+        </asset>
+        <asset format="r7" hasAudio="1" duration="741741/4000s" id="r41" name="keshi - Say (Official Music Video).mp4" audioSources="1" start="0/1s" hasVideo="1" audioChannels="2">
+            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20Say%20(Official%20Music%20Video).mp4"/>
+        </asset>
+        <asset format="r7" hasAudio="1" duration="741741/4000s" id="r42" name="keshi - Say (Official Music Video).mp4" audioSources="1" start="0/1s" hasVideo="1" audioChannels="2">
+            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20Say%20(Official%20Music%20Video).mp4"/>
+        </asset>
+        <asset format="r4" hasAudio="1" duration="7844837/4800s" id="r43" name="keshi - GABRIEL (Documentary – Presented by Amazon Music).mp4" audioSources="1" start="0/1s" hasVideo="1" audioChannels="2">
+            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20GABRIEL%20(Documentary%20%E2%80%93%20Presented%20by%20Amazon%20Music).mp4"/>
+        </asset>
+        <asset format="r4" hasAudio="1" duration="7844837/4800s" id="r44" name="keshi - GABRIEL (Documentary – Presented by Amazon Music).mp4" audioSources="1" start="0/1s" hasVideo="1" audioChannels="2">
+            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20GABRIEL%20(Documentary%20%E2%80%93%20Presented%20by%20Amazon%20Music).mp4"/>
+        </asset>
+        <asset format="r4" hasAudio="1" duration="737737/4000s" id="r45" name="keshi - LIMBO (Live Performance) _ Vevo.mp4" audioSources="1" start="0/1s" hasVideo="1" audioChannels="2">
+            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20LIMBO%20(Live%20Performance)%20_%20Vevo.mp4"/>
+        </asset>
+        <asset format="r4" hasAudio="1" duration="7844837/4800s" id="r46" name="keshi - GABRIEL (Documentary – Presented by Amazon Music).mp4" audioSources="1" start="0/1s" hasVideo="1" audioChannels="2">
+            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20GABRIEL%20(Documentary%20%E2%80%93%20Presented%20by%20Amazon%20Music).mp4"/>
+        </asset>
+        <asset format="r4" hasAudio="1" duration="7844837/4800s" id="r47" name="keshi - GABRIEL (Documentary – Presented by Amazon Music).mp4" audioSources="1" start="0/1s" hasVideo="1" audioChannels="2">
+            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20GABRIEL%20(Documentary%20%E2%80%93%20Presented%20by%20Amazon%20Music).mp4"/>
+        </asset>
+        <asset format="r4" hasAudio="1" duration="7844837/4800s" id="r48" name="keshi - GABRIEL (Documentary – Presented by Amazon Music).mp4" audioSources="1" start="0/1s" hasVideo="1" audioChannels="2">
+            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20GABRIEL%20(Documentary%20%E2%80%93%20Presented%20by%20Amazon%20Music).mp4"/>
+        </asset>
+        <asset format="r4" hasAudio="1" duration="7844837/4800s" id="r49" name="keshi - GABRIEL (Documentary – Presented by Amazon Music).mp4" audioSources="1" start="0/1s" hasVideo="1" audioChannels="2">
+            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20GABRIEL%20(Documentary%20%E2%80%93%20Presented%20by%20Amazon%20Music).mp4"/>
+        </asset>
+        <asset format="r4" hasAudio="1" duration="7844837/4800s" id="r50" name="keshi - GABRIEL (Documentary – Presented by Amazon Music).mp4" audioSources="1" start="0/1s" hasVideo="1" audioChannels="2">
+            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20GABRIEL%20(Documentary%20%E2%80%93%20Presented%20by%20Amazon%20Music).mp4"/>
+        </asset>
+        <asset format="r4" hasAudio="1" duration="7844837/4800s" id="r51" name="keshi - GABRIEL (Documentary – Presented by Amazon Music).mp4" audioSources="1" start="0/1s" hasVideo="1" audioChannels="2">
+            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20GABRIEL%20(Documentary%20%E2%80%93%20Presented%20by%20Amazon%20Music).mp4"/>
+        </asset>
+        <asset hasAudio="1" duration="368499631/1998000s" id="r52" name="keshi - LIMBO (Live Performance) _ Vevo.mp4" audioSources="1" start="0/1s" audioChannels="2">
+            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20LIMBO%20(Live%20Performance)%20_%20Vevo.mp4"/>
+        </asset>
+        <asset hasAudio="1" duration="370499629/1998000s" id="r53" name="keshi - Say (Official Music Video).mp4" audioSources="1" start="0/1s" audioChannels="2">
+            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/keshi%20-%20Say%20(Official%20Music%20Video).mp4"/>
+        </asset>
+        <asset hasAudio="1" duration="10860923/222000s" id="r54" name="RPReplay_Final1721250134.MP4" audioSources="1" start="0/1s" audioChannels="2">
+            <media-rep kind="original-media" src="file://localhost/C:/Users/kayos/Downloads/RPReplay_Final1721250134.MP4"/>
         </asset>
     </resources>
     <library>
         <event name="Timeline 1 (Resolve)">
             <project name="Timeline 1 (Resolve)">
-                <sequence tcStart="3600/1s" tcFormat="NDF" format="r0" duration="19733/12s">
+                <sequence format="r0" duration="2431/12s" tcFormat="NDF" tcStart="3600/1s">
                     <spine>
-                        <gap name="Gap" offset="3600/1s" duration="14/3s" start="3600/1s">
-                            <clip name="keshi - LIMBO (Live Performance) _ Vevo.mp4" tcFormat="NDF" enabled="1" offset="10810/3s" lane="1" format="r4" duration="5/3s" start="93093/4000s">
-                                <adjust-transform scale="1 1" position="0 0" anchor="0 0"/>
-                                <video ref="r5" offset="0/1s" duration="737737/4000s" start="0/1s"/>
+                        <gap duration="31/8s" offset="3600/1s" name="Gap" start="3600/1s">
+                            <clip format="r4" duration="23/24s" enabled="1" tcFormat="NDF" offset="10810/3s" name="keshi - LIMBO (Live Performance) _ Vevo.mp4" start="93093/4000s" lane="1">
+                                <adjust-transform anchor="0 0" position="0 0" scale="1 1"/>
+                                <video duration="737737/4000s" offset="0/1s" start="0/1s" ref="r5"/>
                             </clip>
-                            <clip name="keshi - Say (Official Music Video).mp4" tcFormat="NDF" enabled="1" offset="14413/4s" lane="2" format="r7" duration="7/24s" start="109109/24000s">
-                                <adjust-transform scale="1.45 1.45" position="0 0" anchor="0 0"/>
-                                <video ref="r8" offset="0/1s" duration="741741/4000s" start="0/1s"/>
+                            <clip format="r7" duration="7/24s" enabled="1" tcFormat="NDF" offset="14413/4s" name="keshi - Say (Official Music Video).mp4" start="109109/24000s" lane="2">
+                                <adjust-transform anchor="0 0" position="0 0" scale="1.45 1.45"/>
+                                <video duration="741741/4000s" offset="0/1s" start="0/1s" ref="r11"/>
                             </clip>
-                            <clip name="keshi - Say (Official Music Video).mp4" tcFormat="NDF" enabled="1" offset="43249/12s" lane="2" format="r7" duration="1/2s" start="17017/3000s">
-                                <adjust-transform scale="1.45 1.45" position="0 0" anchor="0 0"/>
-                                <video ref="r9" offset="0/1s" duration="741741/4000s" start="0/1s"/>
+                            <clip format="r7" duration="1/1s" enabled="1" tcFormat="NDF" offset="86405/24s" name="keshi - Say (Official Music Video).mp4" start="31031/750s" lane="3">
+                                <adjust-transform anchor="0 0" position="0 0" scale="1.45 1.45"/>
+                                <video duration="741741/4000s" offset="0/1s" start="0/1s" ref="r21"/>
                             </clip>
-                            <clip name="keshi - Say (Official Music Video).mp4" tcFormat="NDF" enabled="1" offset="86405/24s" lane="3" format="r7" duration="1/1s" start="31031/750s">
-                                <adjust-transform scale="1.45 1.45" position="0 0" anchor="0 0"/>
-                                <video ref="r21" offset="0/1s" duration="741741/4000s" start="0/1s"/>
+                            <clip format="r4" duration="1/4s" enabled="1" tcFormat="NDF" offset="21623/6s" name="keshi - GABRIEL (Documentary – Presented by Amazon Music).mp4" start="7007/2000s" lane="3">
+                                <adjust-transform anchor="0 0" position="0 0" scale="1 1"/>
+                                <video duration="7844837/4800s" offset="0/1s" start="0/1s" ref="r22"/>
                             </clip>
-                            <clip name="keshi - GABRIEL (Documentary – Presented by Amazon Music).mp4" tcFormat="NDF" enabled="1" offset="21623/6s" lane="3" format="r4" duration="1/4s" start="7007/2000s">
-                                <adjust-transform scale="1 1" position="0 0" anchor="0 0"/>
-                                <video ref="r22" offset="0/1s" duration="7844837/4800s" start="0/1s"/>
+                            <clip format="r7" duration="5/6s" enabled="1" tcFormat="NDF" offset="86405/24s" name="keshi - Say (Official Music Video).mp4" start="11011/240s" lane="4">
+                                <adjust-transform anchor="0 0" position="0 0" scale="1.45 1.45"/>
+                                <video duration="741741/4000s" offset="0/1s" start="0/1s" ref="r26"/>
                             </clip>
-                            <clip name="keshi - GABRIEL (Documentary – Presented by Amazon Music).mp4" tcFormat="NDF" enabled="1" offset="86509/24s" lane="3" format="r4" duration="49/12s" start="3003/800s">
-                                <adjust-transform scale="1 1" position="0 0" anchor="0 0"/>
-                                <video ref="r23" offset="0/1s" duration="7844837/4800s" start="0/1s"/>
+                            <clip format="r7" duration="2/3s" enabled="1" tcFormat="NDF" offset="3602/1s" name="keshi - Say (Official Music Video).mp4" start="1722721/24000s" lane="5">
+                                <adjust-transform anchor="0 0" position="0 0" scale="1.45 1.45"/>
+                                <video duration="741741/4000s" offset="0/1s" start="0/1s" ref="r33"/>
                             </clip>
-                            <clip name="keshi - Say (Official Music Video).mp4" tcFormat="NDF" enabled="1" offset="86405/24s" lane="4" format="r7" duration="5/6s" start="11011/240s">
-                                <adjust-transform scale="1.45 1.45" position="0 0" anchor="0 0"/>
-                                <video ref="r27" offset="0/1s" duration="741741/4000s" start="0/1s"/>
+                            <clip format="r7" duration="11/12s" enabled="1" tcFormat="NDF" offset="10808/3s" name="keshi - Say (Official Music Video).mp4" start="877877/12000s" lane="5">
+                                <adjust-transform anchor="0 0" position="0 0" scale="1.45 1.45"/>
+                                <video duration="741741/4000s" offset="0/1s" start="0/1s" ref="r34"/>
                             </clip>
-                            <spine offset="28807/8s" lane="6">
-                                <clip name="keshi - Say (Official Music Video).mp4" tcFormat="NDF" enabled="1" offset="0/1s" format="r7" duration="19/8s" start="7007/150s">
-                                    <adjust-transform scale="1.45 1.45" position="0 0" anchor="0 0"/>
-                                    <video ref="r31" offset="0/1s" duration="741741/4000s" start="0/1s"/>
+                            <spine offset="86489/24s" lane="5">
+                                <clip format="r7" duration="1/24s" enabled="1" tcFormat="NDF" offset="0/1s" name="keshi - Say (Official Music Video).mp4" start="297297/4000s">
+                                    <adjust-transform anchor="0 0" position="0 0" scale="1.45 1.45"/>
+                                    <video duration="741741/4000s" offset="0/1s" start="0/1s" ref="r35"/>
                                 </clip>
-                                <transition name="Non-Additive Dissolve" offset="11/8s" duration="1/1s">
-                                    <filter-video name="Non-Additive Dissolve" ref="r11"/>
+                                <transition duration="1/12s" offset="0/1s" name="Cross Dissolve">
+                                    <filter-video name="Cross Dissolve" ref="r36"/>
                                 </transition>
+                                <clip format="r7" duration="7/12s" enabled="1" tcFormat="NDF" offset="1/24s" name="keshi - Say (Official Music Video).mp4" start="1794793/24000s">
+                                    <adjust-transform anchor="0 0" position="0 0" scale="1.45 1.45"/>
+                                    <video duration="741741/4000s" offset="0/1s" start="0/1s" ref="r37"/>
+                                </clip>
                             </spine>
-                            <clip name="keshi - LIMBO (Live Performance) _ Vevo.mp4" tcFormat="NDF" enabled="1" offset="86423/24s" lane="7" format="r4" duration="7/6s" start="19019/1500s">
-                                <adjust-transform scale="1 1" position="0 0" anchor="0 0"/>
-                                <video ref="r35" offset="0/1s" duration="737737/4000s" start="0/1s"/>
+                            <clip format="r7" duration="23/24s" enabled="1" tcFormat="NDF" offset="43211/12s" name="keshi - Say (Official Music Video).mp4" start="7007/150s" lane="6">
+                                <adjust-transform anchor="0 0" position="0 0" scale="1.45 1.45"/>
+                                <video duration="741741/4000s" offset="0/1s" start="0/1s" ref="r40"/>
                             </clip>
-                            <clip name="keshi - LIMBO (Live Performance) _ Vevo.mp4" enabled="1" offset="3600/1s" lane="11" duration="5/6s" start="0/1s">
-                                <audio ref="r36" offset="0/1s" srcCh="1, 2" duration="368499631/1998000s" start="0/1s"/>
+                            <clip format="r7" duration="5/12s" enabled="1" tcFormat="NDF" offset="86479/24s" name="keshi - Say (Official Music Video).mp4" start="961961/12000s" lane="6">
+                                <adjust-transform anchor="0 0" position="0 0" scale="1.45 1.45"/>
+                                <video duration="741741/4000s" offset="0/1s" start="0/1s" ref="r41"/>
+                            </clip>
+                            <clip format="r4" duration="7/6s" enabled="1" tcFormat="NDF" offset="86423/24s" name="keshi - LIMBO (Live Performance) _ Vevo.mp4" start="19019/1500s" lane="7">
+                                <adjust-transform anchor="0 0" position="0 0" scale="1 1"/>
+                                <video duration="737737/4000s" offset="0/1s" start="0/1s" ref="r45"/>
+                            </clip>
+                            <clip duration="5/6s" enabled="1" offset="3600/1s" name="keshi - LIMBO (Live Performance) _ Vevo.mp4" start="0/1s" lane="11">
+                                <audio duration="368499631/1998000s" offset="0/1s" srcCh="1, 2" start="0/1s" ref="r52"/>
                             </clip>
                             <spine offset="3600/1s" lane="12">
-                                <clip name="keshi - Say (Official Music Video).mp4" enabled="1" offset="0/1s" duration="8/3s" start="0/1s">
-                                    <audio ref="r37" offset="0/1s" srcCh="1, 2" duration="370499629/1998000s" start="0/1s"/>
+                                <clip duration="8/3s" enabled="1" offset="0/1s" name="keshi - Say (Official Music Video).mp4" start="0/1s">
+                                    <audio duration="370499629/1998000s" offset="0/1s" srcCh="1, 2" start="0/1s" ref="r53"/>
                                 </clip>
-                                <transition name="Cross Fade -3 dB" offset="5/3s" duration="1/1s">
-                                    <filter-video name="Cross Fade -3 dB" ref="r11"/>
+                                <transition duration="13/24s" offset="17/8s" name="Cross Fade -3 dB">
+                                    <filter-video name="Cross Fade -3 dB" ref="r36"/>
                                 </transition>
                             </spine>
                             <spine offset="43231/12s" lane="13">
-                                <transition name="Cross Fade -3 dB" offset="0/1s" duration="1/1s">
-                                    <filter-video name="Cross Fade -3 dB" ref="r11"/>
+                                <transition duration="1/1s" offset="0/1s" name="Cross Fade -3 dB">
+                                    <filter-video name="Cross Fade -3 dB" ref="r36"/>
                                 </transition>
-                                <clip name="RPReplay_Final1721250134.MP4" enabled="1" offset="0/1s" duration="95/2s" start="17/12s">
+                                <clip duration="95/2s" enabled="1" offset="0/1s" name="RPReplay_Final1721250134.MP4" start="17/12s">
                                     <adjust-volume amount="-6">
                                         <param name="amount" value="-6">
                                             <keyframeAnimation>
-                                                <keyframe value="-20" time="17/12s"/>
-                                                <keyframe value="-6" time="29/12s"/>
+                                                <keyframe time="17/12s" value="-20"/>
+                                                <keyframe time="29/12s" value="-6"/>
                                             </keyframeAnimation>
                                         </param>
                                     </adjust-volume>
-                                    <audio ref="r38" offset="0/1s" srcCh="1, 2" duration="10860923/222000s" start="0/1s"/>
+                                    <audio duration="10860923/222000s" offset="0/1s" srcCh="1, 2" start="0/1s" ref="r54"/>
                                 </clip>
                             </spine>
                         </gap>
-                        <asset-clip name="Requiem (Official Album Trailer).mp4" audioStart="0/1s" tcFormat="NDF" ref="r2" enabled="1" offset="10814/3s" audioDuration="489/8s" format="r1" duration="17/8s" start="1001/320s">
-                            <adjust-transform scale="1.35 1.35" position="0 0" anchor="0 0"/>
-                            <spine offset="1401/320s" lane="2">
-                                <clip name="keshi - Say (Official Music Video).mp4" tcFormat="NDF" enabled="1" offset="0/1s" format="r7" duration="1/2s" start="49049/8000s">
-                                    <adjust-transform scale="1.45 1.45" position="0 0" anchor="0 0"/>
-                                    <video ref="r10" offset="0/1s" duration="741741/4000s" start="0/1s"/>
-                                </clip>
-                                <transition name="Smooth Cut" offset="0/1s" duration="1/1s">
-                                    <filter-video name="Smooth Cut" ref="r11"/>
-                                </transition>
-                                <clip name="keshi - Say (Official Music Video).mp4" tcFormat="NDF" enabled="1" offset="1/2s" format="r7" duration="8/3s" start="53053/8000s">
-                                    <adjust-transform scale="1.45 1.45" position="0 0" anchor="0 0"/>
-                                    <video ref="r12" offset="0/1s" duration="741741/4000s" start="0/1s"/>
-                                </clip>
-                            </spine>
-                            <clip name="keshi - Say (Official Music Video).mp4" tcFormat="NDF" enabled="1" offset="3763/960s" lane="4" format="r7" duration="7/12s" start="167167/4000s">
-                                <adjust-transform scale="1.45 1.45" position="0 0" anchor="0 0"/>
-                                <video ref="r28" offset="0/1s" duration="741741/4000s" start="0/1s"/>
+                        <asset-clip format="r1" audioStart="0/1s" duration="17/8s" enabled="1" tcFormat="NDF" offset="28831/8s" audioDuration="489/8s" name="Requiem (Official Album Trailer).mp4" start="1001/320s" ref="r2">
+                            <adjust-transform anchor="0 0" position="0 0" scale="1.35 1.35"/>
+                            <clip format="r7" duration="5/24s" enabled="1" tcFormat="NDF" offset="3203/960s" name="keshi - Say (Official Music Video).mp4" start="17017/3000s" lane="2">
+                                <adjust-transform anchor="0 0" position="0 0" scale="1.45 1.45"/>
+                                <video duration="741741/4000s" offset="0/1s" start="0/1s" ref="r12"/>
                             </clip>
-                            <clip name="keshi - Say (Official Music Video).mp4" tcFormat="NDF" enabled="1" offset="1441/320s" lane="4" format="r7" duration="7/4s" start="157157/3000s">
-                                <adjust-transform scale="1.45 1.45" position="0 0" anchor="0 0"/>
-                                <video ref="r29" offset="0/1s" duration="741741/4000s" start="0/1s"/>
+                            <clip format="r7" duration="1/2s" enabled="1" tcFormat="NDF" offset="4963/960s" name="keshi - Say (Official Music Video).mp4" start="49049/8000s" lane="2">
+                                <adjust-transform anchor="0 0" position="0 0" scale="1.45 1.45"/>
+                                <video duration="741741/4000s" offset="0/1s" start="0/1s" ref="r13"/>
                             </clip>
-                            <clip name="keshi - Say (Official Music Video).mp4" tcFormat="NDF" enabled="1" offset="1441/320s" lane="6" format="r7" duration="17/8s" start="393393/8000s">
-                                <adjust-transform scale="1.45 1.45" position="0 0" anchor="0 0"/>
-                                <video ref="r32" offset="0/1s" duration="741741/4000s" start="0/1s"/>
+                            <clip format="r7" duration="7/12s" enabled="1" tcFormat="NDF" offset="4523/960s" name="keshi - Say (Official Music Video).mp4" start="167167/4000s" lane="4">
+                                <adjust-transform anchor="0 0" position="0 0" scale="1.45 1.45"/>
+                                <video duration="741741/4000s" offset="0/1s" start="0/1s" ref="r27"/>
+                            </clip>
+                            <clip format="r7" duration="73/24s" enabled="1" tcFormat="NDF" offset="4163/960s" name="keshi - Say (Official Music Video).mp4" start="1808807/24000s" lane="5">
+                                <adjust-transform anchor="0 0" position="0 0" scale="1.45 1.45"/>
+                                <video duration="741741/4000s" offset="0/1s" start="0/1s" ref="r38"/>
                             </clip>
                         </asset-clip>
-                        <clip name="Requiem (Official Album Trailer).mp4" tcFormat="NDF" enabled="1" offset="86563/24s" format="r1" duration="50/3s" start="533533/12000s">
-                            <adjust-transform scale="1.39 1.39" position="0 0" anchor="0 0"/>
-                            <video ref="r3" offset="0/1s" duration="733733/12000s" start="0/1s"/>
-                            <clip name="keshi - LIMBO (Live Performance) _ Vevo.mp4" tcFormat="NDF" enabled="1" offset="192011/4000s" lane="1" format="r4" duration="85/24s" start="119119/8000s">
-                                <adjust-transform scale="1 1" position="0 0" anchor="0 0"/>
-                                <video ref="r6" offset="0/1s" duration="737737/4000s" start="0/1s"/>
+                        <gap duration="19/24s" offset="3606/1s" name="Gap" start="3600/1s">
+                            <clip format="r7" duration="7/4s" enabled="1" tcFormat="NDF" offset="86401/24s" name="keshi - Say (Official Music Video).mp4" start="157157/3000s" lane="4">
+                                <adjust-transform anchor="0 0" position="0 0" scale="1.45 1.45"/>
+                                <video duration="741741/4000s" offset="0/1s" start="0/1s" ref="r28"/>
                             </clip>
-                            <clip name="keshi - Say (Official Music Video).mp4" tcFormat="NDF" enabled="1" offset="193011/4000s" lane="2" format="r7" duration="1/4s" start="263263/24000s">
-                                <adjust-transform scale="1.45 1.45" position="0 0" anchor="0 0"/>
-                                <video ref="r13" offset="0/1s" duration="741741/4000s" start="0/1s"/>
+                            <clip format="r7" duration="17/8s" enabled="1" tcFormat="NDF" offset="86401/24s" name="keshi - Say (Official Music Video).mp4" start="393393/8000s" lane="6">
+                                <adjust-transform anchor="0 0" position="0 0" scale="1.45 1.45"/>
+                                <video duration="741741/4000s" offset="0/1s" start="0/1s" ref="r42"/>
                             </clip>
-                            <clip name="keshi - Say (Official Music Video).mp4" tcFormat="NDF" enabled="1" offset="592033/12000s" lane="2" format="r7" duration="4/3s" start="269269/24000s">
-                                <adjust-transform scale="1.45 1.45" position="0 0" anchor="0 0"/>
-                                <video ref="r14" offset="0/1s" duration="741741/4000s" start="0/1s"/>
+                        </gap>
+                        <clip format="r1" duration="50/3s" enabled="1" tcFormat="NDF" offset="86563/24s" name="Requiem (Official Album Trailer).mp4" start="533533/12000s">
+                            <adjust-transform anchor="0 0" position="0 0" scale="1.39 1.39"/>
+                            <video duration="733733/12000s" offset="0/1s" start="0/1s" ref="r3"/>
+                            <clip format="r4" duration="89/24s" enabled="1" tcFormat="NDF" offset="192011/4000s" name="keshi - LIMBO (Live Performance) _ Vevo.mp4" start="119119/8000s" lane="1">
+                                <adjust-transform anchor="0 0" position="0 0" scale="1 1"/>
+                                <video duration="737737/4000s" offset="0/1s" start="0/1s" ref="r6"/>
                             </clip>
-                            <clip name="keshi - Say (Official Music Video).mp4" tcFormat="NDF" enabled="1" offset="676033/12000s" lane="2" format="r7" duration="19/24s" start="151151/12000s">
-                                <adjust-transform scale="1.45 1.45" position="0 0" anchor="0 0"/>
-                                <video ref="r15" offset="0/1s" duration="741741/4000s" start="0/1s"/>
+                            <clip format="r7" duration="1/2s" enabled="1" tcFormat="NDF" offset="633533/12000s" name="keshi - Say (Official Music Video).mp4" start="29029/1000s" lane="1">
+                                <adjust-transform anchor="0 0" position="0 0" scale="1.45 1.45"/>
+                                <video duration="741741/4000s" offset="0/1s" start="0/1s" ref="r8"/>
                             </clip>
-                            <clip name="keshi - Say (Official Music Video).mp4" tcFormat="NDF" enabled="1" offset="243511/4000s" lane="2" format="r7" duration="2/3s" start="107107/8000s">
-                                <adjust-transform scale="1.45 1.45" position="0 0" anchor="0 0"/>
-                                <video ref="r16" offset="0/1s" duration="741741/4000s" start="0/1s"/>
+                            <clip format="r7" duration="17/12s" enabled="1" tcFormat="NDF" offset="639533/12000s" name="keshi - Say (Official Music Video).mp4" start="91091/3000s" lane="1">
+                                <adjust-transform anchor="0 0" position="0 0" scale="1.45 1.45"/>
+                                <video duration="741741/4000s" offset="0/1s" start="0/1s" ref="r9"/>
                             </clip>
-                            <clip name="keshi - GABRIEL (Documentary – Presented by Amazon Music).mp4" tcFormat="NDF" enabled="1" offset="187011/4000s" lane="3" format="r4" duration="1/2s" start="13013/2000s">
-                                <adjust-transform scale="1 1" position="0 0" anchor="0 0"/>
-                                <video ref="r24" offset="0/1s" duration="7844837/4800s" start="0/1s"/>
+                            <clip format="r7" duration="205/24s" enabled="1" tcFormat="NDF" offset="686533/12000s" name="keshi - Say (Official Music Video).mp4" start="1694693/24000s" lane="1">
+                                <adjust-transform anchor="0 0" position="0 0" scale="1.45 1.45"/>
+                                <video duration="741741/4000s" offset="0/1s" start="0/1s" ref="r10"/>
                             </clip>
-                            <clip name="keshi - GABRIEL (Documentary – Presented by Amazon Music).mp4" tcFormat="NDF" enabled="1" offset="715033/12000s" lane="3" format="r4" duration="4/3s" start="251251/24000s">
-                                <adjust-transform scale="1 1" position="0 0" anchor="0 0"/>
-                                <video ref="r25" offset="0/1s" duration="7844837/4800s" start="0/1s"/>
+                            <clip format="r7" duration="1/4s" enabled="1" tcFormat="NDF" offset="193011/4000s" name="keshi - Say (Official Music Video).mp4" start="263263/24000s" lane="2">
+                                <adjust-transform anchor="0 0" position="0 0" scale="1.45 1.45"/>
+                                <video duration="741741/4000s" offset="0/1s" start="0/1s" ref="r14"/>
+                            </clip>
+                            <clip format="r7" duration="4/3s" enabled="1" tcFormat="NDF" offset="592033/12000s" name="keshi - Say (Official Music Video).mp4" start="269269/24000s" lane="2">
+                                <adjust-transform anchor="0 0" position="0 0" scale="1.45 1.45"/>
+                                <video duration="741741/4000s" offset="0/1s" start="0/1s" ref="r15"/>
+                            </clip>
+                            <clip format="r7" duration="3/4s" enabled="1" tcFormat="NDF" offset="620033/12000s" name="keshi - Say (Official Music Video).mp4" start="27027/4000s" lane="2">
+                                <adjust-transform anchor="0 0" position="0 0" scale="1.45 1.45"/>
+                                <video duration="741741/4000s" offset="0/1s" start="0/1s" ref="r16"/>
+                            </clip>
+                            <clip format="r7" duration="3/8s" enabled="1" tcFormat="NDF" offset="629033/12000s" name="keshi - Say (Official Music Video).mp4" start="31031/4000s" lane="2">
+                                <adjust-transform anchor="0 0" position="0 0" scale="1.45 1.45"/>
+                                <video duration="741741/4000s" offset="0/1s" start="0/1s" ref="r17"/>
+                            </clip>
+                            <clip format="r4" duration="23/12s" enabled="1" tcFormat="NDF" offset="191511/4000s" name="keshi - GABRIEL (Documentary – Presented by Amazon Music).mp4" start="3003/800s" lane="3">
+                                <adjust-transform anchor="0 0" position="0 0" scale="1 1"/>
+                                <video duration="7844837/4800s" offset="0/1s" start="0/1s" ref="r23"/>
+                            </clip>
+                            <clip format="r4" duration="4/3s" enabled="1" tcFormat="NDF" offset="715033/12000s" name="keshi - GABRIEL (Documentary – Presented by Amazon Music).mp4" start="251251/24000s" lane="3">
+                                <adjust-transform anchor="0 0" position="0 0" scale="1 1"/>
+                                <video duration="7844837/4800s" offset="0/1s" start="0/1s" ref="r24"/>
+                            </clip>
+                            <clip format="r4" duration="1/2s" enabled="1" tcFormat="NDF" offset="549533/12000s" name="keshi - GABRIEL (Documentary – Presented by Amazon Music).mp4" start="13013/2000s" lane="4">
+                                <adjust-transform anchor="0 0" position="0 0" scale="1 1"/>
+                                <video duration="7844837/4800s" offset="0/1s" start="0/1s" ref="r29"/>
+                            </clip>
+                            <clip format="r4" duration="23/24s" enabled="1" tcFormat="NDF" offset="555533/12000s" name="keshi - GABRIEL (Documentary – Presented by Amazon Music).mp4" start="12511499/24000s" lane="4">
+                                <adjust-transform anchor="0 0" position="0 0" scale="1 1"/>
+                                <video duration="7844837/4800s" offset="0/1s" start="0/1s" ref="r30"/>
+                            </clip>
+                            <clip format="r4" duration="114/1s" enabled="1" tcFormat="NDF" offset="223511/4000s" name="keshi - GABRIEL (Documentary – Presented by Amazon Music).mp4" start="1048047/2000s" lane="4">
+                                <adjust-transform anchor="0 0" position="0 0" scale="1 1"/>
+                                <video duration="7844837/4800s" offset="0/1s" start="0/1s" ref="r31"/>
+                            </clip>
+                            <clip format="r4" duration="11/4s" enabled="1" tcFormat="NDF" offset="650533/12000s" name="keshi - GABRIEL (Documentary – Presented by Amazon Music).mp4" start="15326311/24000s" lane="7">
+                                <adjust-transform anchor="0 0" position="0 0" scale="1 1"/>
+                                <video duration="7844837/4800s" offset="0/1s" start="0/1s" ref="r46"/>
                             </clip>
                         </clip>
-                        <gap name="Gap" offset="86963/24s" duration="38903/24s" start="3600/1s">
-                            <clip name="keshi - Say (Official Music Video).mp4" tcFormat="NDF" enabled="1" offset="86587/24s" lane="2" format="r7" duration="23/24s" start="403403/24000s">
-                                <adjust-transform scale="1.45 1.45" position="0 0" anchor="0 0"/>
-                                <video ref="r17" offset="0/1s" duration="741741/4000s" start="0/1s"/>
+                        <gap duration="1433/8s" offset="86963/24s" name="Gap" start="3600/1s">
+                            <clip format="r7" duration="23/24s" enabled="1" tcFormat="NDF" offset="86587/24s" name="keshi - Say (Official Music Video).mp4" start="403403/24000s" lane="2">
+                                <adjust-transform anchor="0 0" position="0 0" scale="1.45 1.45"/>
+                                <video duration="741741/4000s" offset="0/1s" start="0/1s" ref="r18"/>
                             </clip>
-                            <clip name="keshi - Say (Official Music Video).mp4" tcFormat="NDF" enabled="1" offset="28925/8s" lane="2" format="r7" duration="83/4s" start="71071/4000s">
-                                <adjust-transform scale="1.45 1.45" position="0 0" anchor="0 0"/>
-                                <video ref="r18" offset="0/1s" duration="741741/4000s" start="0/1s"/>
+                            <clip format="r7" duration="23/24s" enabled="1" tcFormat="NDF" offset="14557/4s" name="keshi - Say (Official Music Video).mp4" start="31031/750s" lane="2">
+                                <adjust-transform anchor="0 0" position="0 0" scale="1.45 1.45"/>
+                                <video duration="741741/4000s" offset="0/1s" start="0/1s" ref="r19"/>
                             </clip>
-                            <clip name="keshi - Say (Official Music Video).mp4" tcFormat="NDF" enabled="1" offset="14557/4s" lane="2" format="r7" duration="23/24s" start="31031/750s">
-                                <adjust-transform scale="1.45 1.45" position="0 0" anchor="0 0"/>
-                                <video ref="r19" offset="0/1s" duration="741741/4000s" start="0/1s"/>
+                            <clip format="r7" duration="371/24s" enabled="1" tcFormat="NDF" offset="87365/24s" name="keshi - Say (Official Music Video).mp4" start="203203/4800s" lane="2">
+                                <adjust-transform anchor="0 0" position="0 0" scale="1.45 1.45"/>
+                                <video duration="741741/4000s" offset="0/1s" start="0/1s" ref="r20"/>
                             </clip>
-                            <clip name="keshi - Say (Official Music Video).mp4" tcFormat="NDF" enabled="1" offset="87365/24s" lane="2" format="r7" duration="371/24s" start="203203/4800s">
-                                <adjust-transform scale="1.45 1.45" position="0 0" anchor="0 0"/>
-                                <video ref="r20" offset="0/1s" duration="741741/4000s" start="0/1s"/>
+                            <clip format="r4" duration="11/6s" enabled="1" tcFormat="NDF" offset="43303/12s" name="keshi - GABRIEL (Documentary – Presented by Amazon Music).mp4" start="247247/12000s" lane="3">
+                                <adjust-transform anchor="0 0" position="0 0" scale="1 1"/>
+                                <video duration="7844837/4800s" offset="0/1s" start="0/1s" ref="r25"/>
                             </clip>
-                            <clip name="keshi - GABRIEL (Documentary – Presented by Amazon Music).mp4" tcFormat="NDF" enabled="1" offset="43303/12s" lane="3" format="r4" duration="11/6s" start="247247/12000s">
-                                <adjust-transform scale="1 1" position="0 0" anchor="0 0"/>
-                                <video ref="r26" offset="0/1s" duration="7844837/4800s" start="0/1s"/>
+                            <clip format="r4" duration="1111/24s" enabled="1" tcFormat="NDF" offset="44731/12s" name="keshi - GABRIEL (Documentary – Presented by Amazon Music).mp4" start="15764749/24000s" lane="4">
+                                <adjust-transform anchor="0 0" position="0 0" scale="1 1"/>
+                                <video duration="7844837/4800s" offset="0/1s" start="0/1s" ref="r32"/>
                             </clip>
-                            <clip name="keshi - LIMBO (Live Performance) _ Vevo.mp4" tcFormat="NDF" enabled="1" offset="28905/8s" lane="5" format="r4" duration="166/1s" start="221221/12000s">
-                                <adjust-transform scale="1 1" position="0 0" anchor="0 0"/>
-                                <video ref="r30" offset="0/1s" duration="737737/4000s" start="0/1s"/>
+                            <clip format="r4" duration="166/1s" enabled="1" tcFormat="NDF" offset="28905/8s" name="keshi - LIMBO (Live Performance) _ Vevo.mp4" start="221221/12000s" lane="5">
+                                <adjust-transform anchor="0 0" position="0 0" scale="1 1"/>
+                                <video duration="737737/4000s" offset="0/1s" start="0/1s" ref="r39"/>
                             </clip>
-                            <clip name="keshi - GABRIEL (Documentary – Presented by Amazon Music).mp4" tcFormat="NDF" enabled="1" offset="43267/12s" lane="6" format="r4" duration="5/1s" start="187187/12000s">
-                                <adjust-transform scale="1 1" position="0 0" anchor="0 0"/>
-                                <video ref="r33" offset="0/1s" duration="7844837/4800s" start="0/1s"/>
+                            <clip format="r4" duration="103/24s" enabled="1" tcFormat="NDF" offset="43267/12s" name="keshi - GABRIEL (Documentary – Presented by Amazon Music).mp4" start="187187/12000s" lane="6">
+                                <adjust-transform anchor="0 0" position="0 0" scale="1 1"/>
+                                <video duration="7844837/4800s" offset="0/1s" start="0/1s" ref="r43"/>
                             </clip>
-                            <clip name="keshi - GABRIEL (Documentary – Presented by Amazon Music).mp4" tcFormat="NDF" enabled="1" offset="7229/2s" lane="6" format="r4" duration="38555/24s" start="167167/6000s">
-                                <adjust-transform scale="1 1" position="0 0" anchor="0 0"/>
-                                <video ref="r34" offset="0/1s" duration="7844837/4800s" start="0/1s"/>
+                            <clip format="r4" duration="25/8s" enabled="1" tcFormat="NDF" offset="86741/24s" name="keshi - GABRIEL (Documentary – Presented by Amazon Music).mp4" start="3094091/2000s" lane="6">
+                                <adjust-transform anchor="0 0" position="0 0" scale="1.22 1.22"/>
+                                <video duration="7844837/4800s" offset="0/1s" start="0/1s" ref="r44"/>
+                            </clip>
+                            <clip format="r4" duration="13/3s" enabled="1" tcFormat="NDF" offset="28879/8s" name="keshi - GABRIEL (Documentary – Presented by Amazon Music).mp4" start="1928927/3000s" lane="7">
+                                <adjust-transform anchor="0 0" position="0 0" scale="1 1"/>
+                                <video duration="7844837/4800s" offset="0/1s" start="0/1s" ref="r47"/>
+                            </clip>
+                            <clip format="r4" duration="4/1s" enabled="1" tcFormat="NDF" offset="21709/6s" name="keshi - GABRIEL (Documentary – Presented by Amazon Music).mp4" start="578578/375s" lane="7">
+                                <adjust-transform anchor="0 0" position="0 0" scale="1 1"/>
+                                <video duration="7844837/4800s" offset="0/1s" start="0/1s" ref="r48"/>
+                            </clip>
+                            <clip format="r4" duration="505/6s" enabled="1" tcFormat="NDF" offset="7357/2s" name="keshi - GABRIEL (Documentary – Presented by Amazon Music).mp4" start="12401389/8000s" lane="7">
+                                <adjust-transform anchor="0 0" position="0 0" scale="1 1"/>
+                                <video duration="7844837/4800s" offset="0/1s" start="0/1s" ref="r49"/>
+                            </clip>
+                            <clip format="r4" duration="5/12s" enabled="1" tcFormat="NDF" offset="14445/4s" name="keshi - GABRIEL (Documentary – Presented by Amazon Music).mp4" start="159159/8000s" lane="8">
+                                <adjust-transform anchor="0 0" position="0 0" scale="1 1"/>
+                                <video duration="7844837/4800s" offset="0/1s" start="0/1s" ref="r50"/>
+                            </clip>
+                            <clip format="r4" duration="7/24s" enabled="1" tcFormat="NDF" offset="86711/24s" name="keshi - GABRIEL (Documentary – Presented by Amazon Music).mp4" start="487487/24000s" lane="8">
+                                <adjust-transform anchor="0 0" position="0 0" scale="1 1"/>
+                                <video duration="7844837/4800s" offset="0/1s" start="0/1s" ref="r51"/>
                             </clip>
                         </gap>
                     </spine>
